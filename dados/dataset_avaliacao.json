@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "categoria": "devolucao",
+    "pergunta": "Comprei uma camiseta há 15 dias e já usei. Posso devolver?",
+    "resposta_esperada": "Não. Para devolver, o produto deve estar sem sinais de uso e com embalagem original. Porém, se houver defeito de fabricação, é possível solicitar análise em até 90 dias.",
+    "agente_esperado": "cliente"
+  },
+  {
+    "id": 2,
+    "categoria": "devolucao",
+    "pergunta": "Qual o prazo para devolver uma compra feita pelo site?",
+    "resposta_esperada": "30 dias corridos após o recebimento. Para arrependimento, o prazo é de 7 dias corridos (direito garantido pelo CDC).",
+    "agente_esperado": "cliente"
+  },
+  {
+    "id": 3,
+    "categoria": "devolucao",
+    "pergunta": "Comprei um boné em promoção e não gostei. Posso trocar?",
+    "resposta_esperada": "Depende. Se a promoção tinha aviso de 'venda final — sem troca', não é possível. Caso contrário, a troca pode ser feita em até 30 dias.",
+    "agente_esperado": "cliente"
+  },
+  {
+    "id": 4,
+    "categoria": "devolucao",
+    "pergunta": "Recebi o produto errado. O que faço?",
+    "resposta_esperada": "Entre em contato com o SAC por chat, e-mail ou WhatsApp. A Vértice envia etiqueta de postagem gratuita e providencia o envio do produto correto.",
+    "agente_esperado": "cliente"
+  },
+  {
+    "id": 5,
+    "categoria": "devolucao",
+    "pergunta": "Quanto tempo demora o reembolso?",
+    "resposta_esperada": "Entre 5 e 10 dias úteis após o recebimento e análise do produto. Para Pix, o prazo é de 3 dias úteis.",
+    "agente_esperado": "cliente"
+  },
+  {
+    "id": 6,
+    "categoria": "envio",
+    "pergunta": "Qual o prazo de entrega para o Rio de Janeiro?",
+    "resposta_esperada": "Para capitais do Sudeste, o prazo estimado é de 3 a 6 dias úteis (envio padrão) ou 2 a 5 dias úteis (envio expresso).",
+    "agente_esperado": "cliente"
+  },
+  {
+    "id": 7,
+    "categoria": "envio",
+    "pergunta": "Tem frete grátis?",
+    "resposta_esperada": "Sim, frete grátis para compras acima de R$ 299,00 na modalidade padrão.",
+    "agente_esperado": "cliente"
+  },
+  {
+    "id": 8,
+    "categoria": "envio",
+    "pergunta": "Meu pedido não chegou e já passou do prazo. O que faço?",
+    "resposta_esperada": "Se o prazo estimado + 5 dias úteis de tolerância já passou, entre em contato com o SAC para rastreamento. Pode solicitar reenvio sem custo ou cancelamento com reembolso integral.",
+    "agente_esperado": "cliente"
+  },
+  {
+    "id": 9,
+    "categoria": "envio",
+    "pergunta": "Coloquei o endereço errado no pedido. Consigo corrigir?",
+    "resposta_esperada": "Se o pedido ainda não foi enviado, entre em contato imediatamente com o SAC. Após o envio, a transportadora tentará contato. Se não for possível entregar, o pedido retorna e pode ser cobrada nova taxa de envio.",
+    "agente_esperado": "cliente"
+  },
+  {
+    "id": 10,
+    "categoria": "envio",
+    "pergunta": "Quantas tentativas de entrega são feitas?",
+    "resposta_esperada": "Até 3 tentativas. Após 3 tentativas sem sucesso, o pedido fica disponível na agência mais próxima por 7 dias.",
+    "agente_esperado": "cliente"
+  },
+  {
+    "id": 11,
+    "categoria": "garantia",
+    "pergunta": "A costura da minha calça soltou depois de 2 semanas. Está na garantia?",
+    "resposta_esperada": "Sim. Costura soltando é considerada defeito de fabricação e está coberta pela garantia legal de 90 dias. Entre em contato com o SAC com fotos do defeito.",
+    "agente_esperado": "cliente"
+  },
+  {
+    "id": 12,
+    "categoria": "garantia",
+    "pergunta": "Minha camiseta desbotou depois de lavar. Posso trocar?",
+    "resposta_esperada": "Depende. Se seguiu as instruções de lavagem da etiqueta e o desbotamento foi excessivo (2-3 lavagens), pode ser defeito coberto pela garantia. Se lavou incorretamente, não é coberto.",
+    "agente_esperado": "cliente"
+  },
+  {
+    "id": 13,
+    "categoria": "garantia",
+    "pergunta": "Qual o prazo de garantia dos produtos?",
+    "resposta_esperada": "Garantia legal de 90 dias para todos os produtos, a partir da data de recebimento. Mochilas possuem garantia estendida de 6 meses adicionais (total: 9 meses).",
+    "agente_esperado": "cliente"
+  },
+  {
+    "id": 14,
+    "categoria": "garantia",
+    "pergunta": "Como solicito a garantia?",
+    "resposta_esperada": "Entre em contato com o SAC informando número do pedido, descrição do problema e fotos/vídeo do defeito. A análise inicial leva até 24 horas úteis.",
+    "agente_esperado": "cliente"
+  },
+  {
+    "id": 15,
+    "categoria": "garantia",
+    "pergunta": "O zíper do meu boné quebrou no primeiro uso. O que faço?",
+    "resposta_esperada": "Zíper quebrando no primeiro uso é defeito de fabricação coberto pela garantia. Entre em contato com o SAC para solicitar troca ou reembolso.",
+    "agente_esperado": "cliente"
+  },
+  {
+    "id": 16,
+    "categoria": "estoque",
+    "pergunta": "Quantas camisetas Urban Core pretas tamanho M tem na loja da Paulista?",
+    "resposta_esperada": "Consulta ao banco de dados de estoque para VTX-CAM-001, cor preta, tamanho M, loja Av. Paulista - SP.",
+    "agente_esperado": "estoque"
+  },
+  {
+    "id": 17,
+    "categoria": "estoque",
+    "pergunta": "Quais produtos estão com estoque crítico na loja do RioSul?",
+    "resposta_esperada": "Consulta de estoque crítico filtrada pela loja Shopping RioSul - RJ.",
+    "agente_esperado": "estoque"
+  },
+  {
+    "id": 18,
+    "categoria": "estoque",
+    "pergunta": "Qual o resumo de estoque de todas as lojas?",
+    "resposta_esperada": "Resumo com total de peças, SKUs e valor por loja.",
+    "agente_esperado": "estoque"
+  },
+  {
+    "id": 19,
+    "categoria": "estoque",
+    "pergunta": "Tem calça jogger preta no tamanho G em alguma loja?",
+    "resposta_esperada": "Consulta por VTX-CLC-001, cor preta, tamanho G em todas as lojas.",
+    "agente_esperado": "estoque"
+  },
+  {
+    "id": 20,
+    "categoria": "estoque",
+    "pergunta": "Qual o preço da camiseta Digital Wave?",
+    "resposta_esperada": "R$ 99,90 (VTX-CAM-002).",
+    "agente_esperado": "estoque"
+  },
+  {
+    "id": 21,
+    "categoria": "rh",
+    "pergunta": "Qual o valor do vale-refeição?",
+    "resposta_esperada": "R$ 35,00 por dia útil, no cartão Alelo.",
+    "agente_esperado": "rh"
+  },
+  {
+    "id": 22,
+    "categoria": "rh",
+    "pergunta": "Posso tirar férias em dezembro se trabalho na loja?",
+    "resposta_esperada": "Não. Funcionários de lojas não podem agendar férias em novembro e dezembro (Black Friday e Natal).",
+    "agente_esperado": "rh"
+  },
+  {
+    "id": 23,
+    "categoria": "rh",
+    "pergunta": "Quantos dias de férias posso dividir?",
+    "resposta_esperada": "As férias podem ser fracionadas em até 3 períodos, sendo que um deles deve ter no mínimo 14 dias corridos.",
+    "agente_esperado": "rh"
+  },
+  {
+    "id": 24,
+    "categoria": "rh",
+    "pergunta": "Qual o desconto de funcionário nos produtos?",
+    "resposta_esperada": "40% de desconto na loja e no e-commerce.",
+    "agente_esperado": "rh"
+  },
+  {
+    "id": 25,
+    "categoria": "rh",
+    "pergunta": "Como funciona o banco de horas?",
+    "resposta_esperada": "Banco de horas com compensação em até 6 meses. Horas acima do limite são pagas com adicional de 50% (dias úteis) ou 100% (domingos/feriados).",
+    "agente_esperado": "rh"
+  },
+  {
+    "id": 26,
+    "categoria": "rh",
+    "pergunta": "Qual o horário de trabalho na sede?",
+    "resposta_esperada": "Segunda a sexta, 9h às 18h (1h de almoço). Modelo híbrido: 3 dias presenciais (terça, quarta, quinta) e 2 dias home office.",
+    "agente_esperado": "rh"
+  },
+  {
+    "id": 27,
+    "categoria": "empresa",
+    "pergunta": "Quantas lojas a Vértice tem?",
+    "resposta_esperada": "8 lojas próprias: 4 em SP, 2 no RJ, 1 em Curitiba e 1 em BH.",
+    "agente_esperado": "cliente"
+  },
+  {
+    "id": 28,
+    "categoria": "empresa",
+    "pergunta": "Qual o horário de atendimento do SAC?",
+    "resposta_esperada": "Segunda a sexta, 8h às 20h. Sábados, 9h às 14h.",
+    "agente_esperado": "cliente"
+  },
+  {
+    "id": 29,
+    "categoria": "bi",
+    "pergunta": "Qual a taxa de resolução dos atendimentos este mês?",
+    "resposta_esperada": "Consulta de métricas de atendimentos dos últimos 30 dias.",
+    "agente_esperado": "bi"
+  },
+  {
+    "id": 30,
+    "categoria": "bi",
+    "pergunta": "Quais foram as dúvidas mais comuns dos clientes?",
+    "resposta_esperada": "Consulta das perguntas mais frequentes registradas no sistema.",
+    "agente_esperado": "bi"
+  }
+]

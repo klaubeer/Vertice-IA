@@ -1,0 +1,1001 @@
+matricula,nome,cargo,departamento,unidade,data_admissao,salario,status
+VTX-001,Cristiano Mendes Alves,CEO,Diretoria,Sede - SP,2020-03-29,55000.0,ativo
+VTX-002,Yasmin Araujo Marques,Diretora Comercial,Diretoria,Sede - SP,2020-01-22,39481.34,ativo
+VTX-003,Nicanor Nascimento Pessoa,COO,Diretoria,Sede - SP,2018-04-02,36119.19,ativo
+VTX-004,Sergio Nogueira Lessa,CFO,Diretoria,Sede - SP,2019-11-07,36106.14,ativo
+VTX-005,Renato Villela Ormonde,CTO,Diretoria,Sede - SP,2018-10-12,37796.84,ativo
+VTX-006,Flavia Santos Castro,Diretora Industrial,Diretoria,Sede - SP,2020-02-13,36267.84,ativo
+VTX-007,Sergio Pimenta Marques,Gerente de Loja,Comercial/Lojas,Av. Paulista - SP,2019-03-15,7069.89,ativo
+VTX-008,Kaio Magalhaes Ribeiro,Vendedor,Comercial/Lojas,Av. Paulista - SP,2023-04-25,2828.98,ativo
+VTX-009,Vera Rocha Coutinho,Vendedor,Comercial/Lojas,Av. Paulista - SP,2025-03-18,2894.82,ativo
+VTX-010,Hortencia Borges Fernandes,Vendedor,Comercial/Lojas,Av. Paulista - SP,2018-09-04,2929.01,ativo
+VTX-011,Daniela Nogueira Nunes,Vendedor,Comercial/Lojas,Av. Paulista - SP,2022-06-04,2622.38,ativo
+VTX-012,Simone Campos Yunes,Vendedor,Comercial/Lojas,Av. Paulista - SP,2022-02-23,2567.61,ativo
+VTX-013,Ideraldo Vieira Pires,Vendedor,Comercial/Lojas,Av. Paulista - SP,2024-02-25,2983.3,ativo
+VTX-014,Omar Xavier Guimaraes,Vendedor,Comercial/Lojas,Av. Paulista - SP,2025-11-03,2659.43,ativo
+VTX-015,Amanda Brito Lima,Vendedor,Comercial/Lojas,Av. Paulista - SP,2021-09-13,2720.93,ativo
+VTX-016,Silvio Jacobsen Miranda,Vendedor,Comercial/Lojas,Av. Paulista - SP,2025-07-06,2799.39,ativo
+VTX-017,Roseli Zago Melo,Gerente de Loja,Comercial/Lojas,Shopping Ibirapuera - SP,2021-02-17,6709.45,ativo
+VTX-018,Aparecida Magalhaes Quadros,Vendedor,Comercial/Lojas,Shopping Ibirapuera - SP,2024-09-15,2719.52,ativo
+VTX-019,Fernando Matos Iunes,Vendedor,Comercial/Lojas,Shopping Ibirapuera - SP,2019-03-08,3004.63,ativo
+VTX-020,Natalia Castro Pessoa,Vendedor,Comercial/Lojas,Shopping Ibirapuera - SP,2024-11-06,2450.82,ativo
+VTX-021,Davi Ruela Siqueira,Vendedor,Comercial/Lojas,Shopping Ibirapuera - SP,2024-05-14,3088.62,ativo
+VTX-022,Natan Freitas Terres,Vendedor,Comercial/Lojas,Shopping Ibirapuera - SP,2021-02-25,3014.88,ativo
+VTX-023,Sebastiao Serrano Castro,Vendedor,Comercial/Lojas,Shopping Ibirapuera - SP,2023-04-02,2402.6,ativo
+VTX-024,Herica Magalhaes Kaneto,Vendedor,Comercial/Lojas,Shopping Ibirapuera - SP,2020-03-01,2806.15,ativo
+VTX-025,Beto Esteves Lessa,Vendedor,Comercial/Lojas,Shopping Ibirapuera - SP,2024-12-28,2559.13,ativo
+VTX-026,Mateus Uchoa Ruela,Vendedor,Comercial/Lojas,Shopping Ibirapuera - SP,2018-03-03,2879.16,ativo
+VTX-027,Gustavo Valente Henriques,Gerente de Loja,Comercial/Lojas,Shopping Eldorado - SP,2020-11-05,6586.89,ativo
+VTX-028,Daniela Dias Greco,Vendedor,Comercial/Lojas,Shopping Eldorado - SP,2018-12-09,3182.39,ativo
+VTX-029,Karen Moraes Delgado,Vendedor,Comercial/Lojas,Shopping Eldorado - SP,2024-04-29,2532.1,ativo
+VTX-030,Livia Pessoa Miranda,Vendedor,Comercial/Lojas,Shopping Eldorado - SP,2024-03-17,3004.21,ativo
+VTX-031,Geni Iglesias Inocencio,Vendedor,Comercial/Lojas,Shopping Eldorado - SP,2025-09-11,2919.9,ativo
+VTX-032,Kleber Werneck Cardoso,Vendedor,Comercial/Lojas,Shopping Eldorado - SP,2020-12-10,2579.76,ativo
+VTX-033,Valdeci Brito Guimaraes,Vendedor,Comercial/Lojas,Shopping Eldorado - SP,2018-03-30,2456.79,ativo
+VTX-034,Zilda Fernandes Lima,Vendedor,Comercial/Lojas,Shopping Eldorado - SP,2021-11-13,2456.69,ativo
+VTX-035,Geovani Greco Miranda,Vendedor,Comercial/Lojas,Shopping Eldorado - SP,2024-03-17,2505.85,ativo
+VTX-036,Hortencia Delgado Lacerda,Vendedor,Comercial/Lojas,Shopping Eldorado - SP,2023-06-20,3046.0,ativo
+VTX-037,Rodrigo Roque Tobias,Gerente de Loja,Comercial/Lojas,Rua Oscar Freire - SP,2022-11-29,7116.65,ativo
+VTX-038,Aline Nunes Lopes,Vendedor,Comercial/Lojas,Rua Oscar Freire - SP,2022-09-05,2982.57,ativo
+VTX-039,Helena Prado Borges,Vendedor,Comercial/Lojas,Rua Oscar Freire - SP,2020-04-18,2829.03,ativo
+VTX-040,Ricardo Leite Abreu,Vendedor,Comercial/Lojas,Rua Oscar Freire - SP,2020-12-18,3099.59,ativo
+VTX-041,Osvaldo Nunes Martins,Vendedor,Comercial/Lojas,Rua Oscar Freire - SP,2025-06-23,3199.43,ativo
+VTX-042,Eduarda Simoes Monteiro,Vendedor,Comercial/Lojas,Rua Oscar Freire - SP,2022-09-20,2788.51,ativo
+VTX-043,Tiago Lopes Monteiro,Vendedor,Comercial/Lojas,Rua Oscar Freire - SP,2022-05-31,2401.72,ativo
+VTX-044,Celso Damasceno Pessoa,Vendedor,Comercial/Lojas,Rua Oscar Freire - SP,2024-05-24,2929.5,ativo
+VTX-045,Henrique Coutinho Fonseca,Vendedor,Comercial/Lojas,Rua Oscar Freire - SP,2018-10-26,2863.34,ativo
+VTX-046,Keli Jacobsen Almeida,Vendedor,Comercial/Lojas,Rua Oscar Freire - SP,2018-09-22,2867.34,ativo
+VTX-047,Zelia Castro Almeida,Gerente de Loja,Comercial/Lojas,Shopping Morumbi - SP,2023-11-10,6620.17,ativo
+VTX-048,Wanderley Fernandes Simoes,Vendedor,Comercial/Lojas,Shopping Morumbi - SP,2022-09-09,2495.91,ativo
+VTX-049,Beatriz Costa Rocha,Vendedor,Comercial/Lojas,Shopping Morumbi - SP,2022-11-12,2925.9,ativo
+VTX-050,Katia Queiroz Amorim,Vendedor,Comercial/Lojas,Shopping Morumbi - SP,2025-09-03,2972.95,ativo
+VTX-051,Samuel Correia Esteves,Vendedor,Comercial/Lojas,Shopping Morumbi - SP,2023-04-16,2652.94,ativo
+VTX-052,Carolina Oliveira Zago,Vendedor,Comercial/Lojas,Shopping Morumbi - SP,2025-02-16,3198.76,ativo
+VTX-053,Carolina Terres Miranda,Vendedor,Comercial/Lojas,Shopping Morumbi - SP,2023-11-02,2612.16,ativo
+VTX-054,Bruna Lacerda Yunes,Vendedor,Comercial/Lojas,Shopping Morumbi - SP,2021-05-11,2526.2,ativo
+VTX-055,Fabiola Godoy Ruela,Vendedor,Comercial/Lojas,Shopping Morumbi - SP,2018-04-02,2934.29,ativo
+VTX-056,Tereza Marques Teixeira,Vendedor,Comercial/Lojas,Shopping Morumbi - SP,2021-02-16,2492.34,ativo
+VTX-057,Osvaldo Azevedo Xavier,Gerente de Loja,Comercial/Lojas,Shopping Center Norte - SP,2021-04-28,7407.24,ativo
+VTX-058,Vanessa Magalhaes Lessa,Vendedor,Comercial/Lojas,Shopping Center Norte - SP,2023-08-23,2600.9,ativo
+VTX-059,Aline Andrade Pessoa,Vendedor,Comercial/Lojas,Shopping Center Norte - SP,2021-04-07,2435.27,ativo
+VTX-060,Eduardo Magalhaes Campos,Vendedor,Comercial/Lojas,Shopping Center Norte - SP,2023-02-12,2841.34,ativo
+VTX-061,Jose Mendes Barbosa,Vendedor,Comercial/Lojas,Shopping Center Norte - SP,2025-11-29,3123.14,ativo
+VTX-062,Tania Cavalcante Roque,Vendedor,Comercial/Lojas,Shopping Center Norte - SP,2019-08-05,2433.46,ativo
+VTX-063,Lucas Ulhoa Tavares,Vendedor,Comercial/Lojas,Shopping Center Norte - SP,2025-10-23,2599.62,ativo
+VTX-064,Vagner Lago Azevedo,Vendedor,Comercial/Lojas,Shopping Center Norte - SP,2020-10-25,3091.68,ativo
+VTX-065,Rafaela Macedo Alves,Vendedor,Comercial/Lojas,Shopping Center Norte - SP,2020-03-04,2989.25,ativo
+VTX-066,Ubiratan Prado Coelho,Vendedor,Comercial/Lojas,Shopping Center Norte - SP,2019-12-13,3029.9,ativo
+VTX-067,Paulo Cabral Guimaraes,Gerente de Loja,Comercial/Lojas,Jardins - SP,2020-05-26,7724.88,ativo
+VTX-068,Otavio Brito Rezende,Vendedor,Comercial/Lojas,Jardins - SP,2018-06-05,2928.03,ativo
+VTX-069,Raimundo Fernandes Leite,Vendedor,Comercial/Lojas,Jardins - SP,2022-02-06,2913.19,ativo
+VTX-070,Moises Neves Pereira,Vendedor,Comercial/Lojas,Jardins - SP,2019-06-16,3101.63,ativo
+VTX-071,Ulisses Magalhaes Gomes,Vendedor,Comercial/Lojas,Jardins - SP,2019-05-19,2877.26,ativo
+VTX-072,Alan Serrano Matos,Vendedor,Comercial/Lojas,Jardins - SP,2019-06-17,2708.16,ativo
+VTX-073,Cristina Ribeiro Serrano,Vendedor,Comercial/Lojas,Jardins - SP,2018-03-07,2815.94,ativo
+VTX-074,Xenia Cruz Wendling,Vendedor,Comercial/Lojas,Jardins - SP,2022-12-31,2455.98,ativo
+VTX-075,Monica Jacobsen Ramos,Vendedor,Comercial/Lojas,Jardins - SP,2021-07-13,2805.7,ativo
+VTX-076,Leticia Jardim Coutinho,Vendedor,Comercial/Lojas,Jardins - SP,2024-05-18,2501.83,ativo
+VTX-077,Omar Cunha Godoy,Gerente de Loja,Comercial/Lojas,Shopping Analia Franco - SP,2022-09-19,7321.91,ativo
+VTX-078,Francisco Tavares Roque,Vendedor,Comercial/Lojas,Shopping Analia Franco - SP,2024-08-31,2885.33,ativo
+VTX-079,Adilson Urbano Miranda,Vendedor,Comercial/Lojas,Shopping Analia Franco - SP,2023-11-23,2778.55,ativo
+VTX-080,Jucelia Pires Dias,Vendedor,Comercial/Lojas,Shopping Analia Franco - SP,2021-05-06,2812.36,ativo
+VTX-081,Monica Andrade Simoes,Vendedor,Comercial/Lojas,Shopping Analia Franco - SP,2025-09-15,2648.34,ativo
+VTX-082,Mariana Alves Ribeiro,Vendedor,Comercial/Lojas,Shopping Analia Franco - SP,2020-11-27,3187.15,ativo
+VTX-083,Naira Vieira Yates,Vendedor,Comercial/Lojas,Shopping Analia Franco - SP,2022-10-23,3108.91,ativo
+VTX-084,Geni Drummond Iunes,Vendedor,Comercial/Lojas,Shopping Analia Franco - SP,2022-08-23,2595.19,ativo
+VTX-085,Maria Machado Pessoa,Vendedor,Comercial/Lojas,Shopping Analia Franco - SP,2020-08-13,2540.71,ativo
+VTX-086,Valdirene Abreu Martins,Vendedor,Comercial/Lojas,Shopping Analia Franco - SP,2024-05-31,2599.36,afastado
+VTX-087,Irene Teixeira Abreu,Gerente de Loja,Comercial/Lojas,Shopping RioSul - RJ,2025-08-25,7296.7,ativo
+VTX-088,Katia Urbano Lessa,Vendedor,Comercial/Lojas,Shopping RioSul - RJ,2022-12-12,3064.46,ativo
+VTX-089,Olivia Delgado Werneck,Vendedor,Comercial/Lojas,Shopping RioSul - RJ,2021-01-25,3001.42,ativo
+VTX-090,Flavia Portela Greco,Vendedor,Comercial/Lojas,Shopping RioSul - RJ,2025-03-11,2591.4,ativo
+VTX-091,Marcelo Damasceno Simoes,Vendedor,Comercial/Lojas,Shopping RioSul - RJ,2021-03-17,2668.68,ativo
+VTX-092,Daniela Araujo Pinto,Vendedor,Comercial/Lojas,Shopping RioSul - RJ,2020-10-03,2706.43,ativo
+VTX-093,Sergio Sousa Navarro,Vendedor,Comercial/Lojas,Shopping RioSul - RJ,2022-09-25,2664.71,ativo
+VTX-094,Rafael Amorim Ormonde,Vendedor,Comercial/Lojas,Shopping RioSul - RJ,2022-07-13,3123.87,ativo
+VTX-095,Estela Ferreira Belem,Vendedor,Comercial/Lojas,Shopping RioSul - RJ,2023-07-06,2404.72,ativo
+VTX-096,Reginaldo Fontes Ormonde,Vendedor,Comercial/Lojas,Shopping RioSul - RJ,2024-03-13,2998.01,ativo
+VTX-097,Livia Guimaraes Greco,Gerente de Loja,Comercial/Lojas,Barra Shopping - RJ,2020-08-15,6909.4,ativo
+VTX-098,Pablo Pimenta Jardim,Vendedor,Comercial/Lojas,Barra Shopping - RJ,2020-01-06,3072.4,ativo
+VTX-099,Nadia Salles Alves,Vendedor,Comercial/Lojas,Barra Shopping - RJ,2022-07-31,2873.51,ativo
+VTX-100,Daniela Quadros Teixeira,Vendedor,Comercial/Lojas,Barra Shopping - RJ,2023-05-05,2545.38,ativo
+VTX-101,Igor Miranda Yates,Vendedor,Comercial/Lojas,Barra Shopping - RJ,2021-10-29,2670.0,ativo
+VTX-102,Flavia Ormonde Siqueira,Vendedor,Comercial/Lojas,Barra Shopping - RJ,2019-01-30,2776.25,ativo
+VTX-103,Aline Sampaio Rezende,Vendedor,Comercial/Lojas,Barra Shopping - RJ,2025-06-14,2454.89,ativo
+VTX-104,Camila Pereira Prado,Vendedor,Comercial/Lojas,Barra Shopping - RJ,2020-05-25,3071.38,ativo
+VTX-105,Adriana Moraes Delgado,Vendedor,Comercial/Lojas,Barra Shopping - RJ,2025-09-02,2491.51,ativo
+VTX-106,Lucia Vasconcelos Yunes,Vendedor,Comercial/Lojas,Barra Shopping - RJ,2020-01-17,2884.71,ativo
+VTX-107,Geni Freitas Campos,Gerente de Loja,Comercial/Lojas,Shopping Tijuca - RJ,2021-08-26,6662.15,ferias
+VTX-108,Otavio Aguiar Holanda,Vendedor,Comercial/Lojas,Shopping Tijuca - RJ,2020-05-21,2460.8,ativo
+VTX-109,Orlanda Lacerda Marques,Vendedor,Comercial/Lojas,Shopping Tijuca - RJ,2021-07-18,3080.23,ativo
+VTX-110,Jessica Costa Rangel,Vendedor,Comercial/Lojas,Shopping Tijuca - RJ,2024-02-20,2742.7,ativo
+VTX-111,Isaias Quaresma Souza,Vendedor,Comercial/Lojas,Shopping Tijuca - RJ,2022-11-15,3057.86,ativo
+VTX-112,Murilo Zago Azevedo,Vendedor,Comercial/Lojas,Shopping Tijuca - RJ,2023-01-17,2540.91,ativo
+VTX-113,Solange Xavier Terres,Vendedor,Comercial/Lojas,Shopping Tijuca - RJ,2023-08-02,2771.9,ativo
+VTX-114,Jamila Coelho Lorenz,Vendedor,Comercial/Lojas,Shopping Tijuca - RJ,2020-11-30,3064.58,ativo
+VTX-115,Benedito Lacerda Abreu,Vendedor,Comercial/Lojas,Shopping Tijuca - RJ,2024-07-21,2888.27,ativo
+VTX-116,Pedro Iunes Meireles,Vendedor,Comercial/Lojas,Shopping Tijuca - RJ,2020-03-14,2790.04,ativo
+VTX-117,Luiz Quaresma Leite,Gerente de Loja,Comercial/Lojas,Village Mall - RJ,2024-11-05,7551.78,ativo
+VTX-118,Jose Orsi Mota,Vendedor,Comercial/Lojas,Village Mall - RJ,2019-02-14,2593.08,ativo
+VTX-119,Reinaldo Assis Delgado,Vendedor,Comercial/Lojas,Village Mall - RJ,2025-05-28,2969.47,ativo
+VTX-120,Joao Andrade Coutinho,Vendedor,Comercial/Lojas,Village Mall - RJ,2020-08-24,2723.52,ativo
+VTX-121,Flavio Yunes Delgado,Vendedor,Comercial/Lojas,Village Mall - RJ,2024-05-15,2824.74,ativo
+VTX-122,Quentin Neves Tobias,Vendedor,Comercial/Lojas,Village Mall - RJ,2023-04-02,2616.73,ativo
+VTX-123,Alexandre Borges Jacobsen,Vendedor,Comercial/Lojas,Village Mall - RJ,2019-07-03,2994.3,ativo
+VTX-124,Zilma Duarte Borges,Vendedor,Comercial/Lojas,Village Mall - RJ,2020-08-03,2990.88,afastado
+VTX-125,Valdeci Quindere Pacheco,Vendedor,Comercial/Lojas,Village Mall - RJ,2019-04-16,3066.1,ativo
+VTX-126,Murilo Medeiros Godoy,Vendedor,Comercial/Lojas,Village Mall - RJ,2018-04-27,2966.41,ativo
+VTX-127,Lucas Carvalho Benicio,Gerente de Loja,Comercial/Lojas,Shopping Curitiba - PR,2019-07-31,7456.8,ativo
+VTX-128,Helena Souza Pacheco,Vendedor,Comercial/Lojas,Shopping Curitiba - PR,2023-06-05,2782.97,ativo
+VTX-129,Marcos Siqueira Espinoza,Vendedor,Comercial/Lojas,Shopping Curitiba - PR,2019-06-11,3057.69,ativo
+VTX-130,Bruno Carvalho Pinto,Vendedor,Comercial/Lojas,Shopping Curitiba - PR,2019-11-02,3048.91,ativo
+VTX-131,Daniela Prado Cardoso,Vendedor,Comercial/Lojas,Shopping Curitiba - PR,2024-06-02,3011.55,ativo
+VTX-132,Nadia Rezende Portela,Vendedor,Comercial/Lojas,Shopping Curitiba - PR,2022-06-06,2760.41,ativo
+VTX-133,Valdeci Quadros Henriques,Vendedor,Comercial/Lojas,Shopping Curitiba - PR,2024-07-16,2896.82,ativo
+VTX-134,Jucelia Nunes Tavares,Vendedor,Comercial/Lojas,Shopping Curitiba - PR,2025-03-06,2568.82,ativo
+VTX-135,Olivia Assis Cunha,Vendedor,Comercial/Lojas,Shopping Curitiba - PR,2024-05-08,2460.05,ativo
+VTX-136,Benedito Cabral Benicio,Vendedor,Comercial/Lojas,Shopping Curitiba - PR,2018-07-12,2585.18,ativo
+VTX-137,Estela Yates Vieira,Gerente de Loja,Comercial/Lojas,Patio Batel - PR,2025-11-14,6850.14,ativo
+VTX-138,Beto Cruz Pessoa,Vendedor,Comercial/Lojas,Patio Batel - PR,2019-06-14,2835.65,ativo
+VTX-139,Eliane Melo Vieira,Vendedor,Comercial/Lojas,Patio Batel - PR,2018-10-31,2532.74,ativo
+VTX-140,Quentin Damasceno Trindade,Vendedor,Comercial/Lojas,Patio Batel - PR,2019-07-23,2774.96,ativo
+VTX-141,Tiago Xavier Kaneto,Vendedor,Comercial/Lojas,Patio Batel - PR,2024-03-20,2795.04,ativo
+VTX-142,Lucas Roque Lorenz,Vendedor,Comercial/Lojas,Patio Batel - PR,2024-12-06,2600.29,ativo
+VTX-143,Haroldo Ferreira Coelho,Vendedor,Comercial/Lojas,Patio Batel - PR,2024-08-16,2432.19,ativo
+VTX-144,Maristela Orsi Urbano,Vendedor,Comercial/Lojas,Patio Batel - PR,2021-04-13,2545.19,ativo
+VTX-145,Queila Hazin Andrade,Vendedor,Comercial/Lojas,Patio Batel - PR,2023-06-08,2678.37,ativo
+VTX-146,Geovani Marques Campos,Vendedor,Comercial/Lojas,Patio Batel - PR,2021-11-10,2729.32,ativo
+VTX-147,Flavio Inocencio Gomes,Gerente de Loja,Comercial/Lojas,Shopping Mueller - PR,2023-04-06,6632.09,ativo
+VTX-148,Gustavo Jardim Nepomuceno,Vendedor,Comercial/Lojas,Shopping Mueller - PR,2018-03-05,2926.13,ativo
+VTX-149,Tais Carvalho Mota,Vendedor,Comercial/Lojas,Shopping Mueller - PR,2023-12-23,2689.42,ativo
+VTX-150,Orlanda Urbano Carvalho,Vendedor,Comercial/Lojas,Shopping Mueller - PR,2020-06-11,2613.64,ativo
+VTX-151,Francisco Trindade Greco,Vendedor,Comercial/Lojas,Shopping Mueller - PR,2019-07-11,2423.1,ativo
+VTX-152,Adriana Castro Iglesias,Vendedor,Comercial/Lojas,Shopping Mueller - PR,2024-05-04,2410.94,ativo
+VTX-153,Wilson Freitas Abreu,Vendedor,Comercial/Lojas,Shopping Mueller - PR,2019-06-25,2918.17,ativo
+VTX-154,Marcelo Benicio Matos,Vendedor,Comercial/Lojas,Shopping Mueller - PR,2021-03-24,2732.39,ativo
+VTX-155,Elton Lacerda Yates,Vendedor,Comercial/Lojas,Shopping Mueller - PR,2024-05-05,2515.71,ativo
+VTX-156,Wanderley Matos Teixeira,Vendedor,Comercial/Lojas,Shopping Mueller - PR,2018-12-11,2621.0,ativo
+VTX-157,Viviane Quaresma Lessa,Gerente de Loja,Comercial/Lojas,Rua XV de Novembro - PR,2021-02-27,7730.82,ativo
+VTX-158,Edmundo Hazin Pinto,Vendedor,Comercial/Lojas,Rua XV de Novembro - PR,2023-03-04,2830.86,ativo
+VTX-159,Osvaldo Villela Aguiar,Vendedor,Comercial/Lojas,Rua XV de Novembro - PR,2023-04-09,3146.28,ativo
+VTX-160,Estela Assis Drummond,Vendedor,Comercial/Lojas,Rua XV de Novembro - PR,2020-10-12,3084.81,ativo
+VTX-161,Alan Delgado Belem,Vendedor,Comercial/Lojas,Rua XV de Novembro - PR,2022-06-29,3190.73,ativo
+VTX-162,Solange Pinto Iunes,Vendedor,Comercial/Lojas,Rua XV de Novembro - PR,2018-07-30,2501.0,ativo
+VTX-163,Monica Nunes Trindade,Vendedor,Comercial/Lojas,Rua XV de Novembro - PR,2019-04-13,2820.76,ativo
+VTX-164,Natan Melo Lago,Vendedor,Comercial/Lojas,Rua XV de Novembro - PR,2025-07-03,3175.97,ativo
+VTX-165,Luiz Pimenta Holanda,Vendedor,Comercial/Lojas,Rua XV de Novembro - PR,2025-06-13,2464.25,ativo
+VTX-166,Haroldo Salles Belem,Vendedor,Comercial/Lojas,Rua XV de Novembro - PR,2021-09-18,2901.44,ativo
+VTX-167,Odete Uchoa Gomes,Gerente de Loja,Comercial/Lojas,Shopping Iguatemi Florianopolis - SC,2025-02-01,6602.63,ativo
+VTX-168,Gisele Brito Andrade,Vendedor,Comercial/Lojas,Shopping Iguatemi Florianopolis - SC,2023-01-11,3182.67,ativo
+VTX-169,Fabiola Nunes Urbano,Vendedor,Comercial/Lojas,Shopping Iguatemi Florianopolis - SC,2020-01-11,2955.2,ativo
+VTX-170,Camila Meireles Almeida,Vendedor,Comercial/Lojas,Shopping Iguatemi Florianopolis - SC,2021-06-14,2686.77,ativo
+VTX-171,Fabio Ruela Macedo,Vendedor,Comercial/Lojas,Shopping Iguatemi Florianopolis - SC,2024-07-05,2945.44,ativo
+VTX-172,Gabriel Rocha Belem,Vendedor,Comercial/Lojas,Shopping Iguatemi Florianopolis - SC,2025-02-10,2946.51,ativo
+VTX-173,Ulisses Melo Nogueira,Vendedor,Comercial/Lojas,Shopping Iguatemi Florianopolis - SC,2023-05-02,2910.32,ativo
+VTX-174,Geovani Oliveira Bahia,Vendedor,Comercial/Lojas,Shopping Iguatemi Florianopolis - SC,2021-05-22,2942.09,ativo
+VTX-175,Adilson Rangel Esteves,Vendedor,Comercial/Lojas,Shopping Iguatemi Florianopolis - SC,2025-04-30,3169.62,ativo
+VTX-176,Irene Godoy Cruz,Vendedor,Comercial/Lojas,Shopping Iguatemi Florianopolis - SC,2022-06-23,3082.67,ativo
+VTX-177,Omar Ulhoa Coutinho,Gerente de Loja,Comercial/Lojas,Beiramar Shopping - SC,2021-06-22,6532.91,ativo
+VTX-178,Renata Amaral Oliveira,Vendedor,Comercial/Lojas,Beiramar Shopping - SC,2024-07-05,3092.05,ativo
+VTX-179,Aline Jales Damasceno,Vendedor,Comercial/Lojas,Beiramar Shopping - SC,2020-09-28,2885.65,ativo
+VTX-180,Cristiano Mota Siqueira,Vendedor,Comercial/Lojas,Beiramar Shopping - SC,2025-10-06,3004.46,ativo
+VTX-181,Xenia Araujo Moreira,Vendedor,Comercial/Lojas,Beiramar Shopping - SC,2025-03-14,2917.07,ativo
+VTX-182,Adilson Lima Wendling,Vendedor,Comercial/Lojas,Beiramar Shopping - SC,2019-08-21,2472.11,ativo
+VTX-183,Quentin Navarro Cunha,Vendedor,Comercial/Lojas,Beiramar Shopping - SC,2020-05-31,2505.73,ativo
+VTX-184,Simone Ruela Kaneto,Vendedor,Comercial/Lojas,Beiramar Shopping - SC,2021-03-21,3064.38,ativo
+VTX-185,Fausto Coutinho Pimenta,Vendedor,Comercial/Lojas,Beiramar Shopping - SC,2019-06-15,2774.67,ativo
+VTX-186,Reginaldo Rezende Holanda,Vendedor,Comercial/Lojas,Beiramar Shopping - SC,2024-05-30,2692.62,ativo
+VTX-187,Ana Magalhaes Terres,Gerente de Loja,Comercial/Lojas,Shopping Itaguacu - SC,2019-07-20,7182.18,ativo
+VTX-188,Walkiria Magalhaes Belem,Vendedor,Comercial/Lojas,Shopping Itaguacu - SC,2025-04-28,3152.23,ativo
+VTX-189,Claudio Cabral Alves,Vendedor,Comercial/Lojas,Shopping Itaguacu - SC,2025-02-09,3107.39,ativo
+VTX-190,Miriam Guimaraes Sousa,Vendedor,Comercial/Lojas,Shopping Itaguacu - SC,2025-04-15,3059.08,ativo
+VTX-191,Ingrid Lago Freitas,Vendedor,Comercial/Lojas,Shopping Itaguacu - SC,2019-09-24,2436.28,ativo
+VTX-192,Heraldo Freitas Moreira,Vendedor,Comercial/Lojas,Shopping Itaguacu - SC,2020-10-17,3109.81,ativo
+VTX-193,Celso Yunes Uchoa,Vendedor,Comercial/Lojas,Shopping Itaguacu - SC,2022-11-11,2869.87,ativo
+VTX-194,Viviane Nunes Hazin,Vendedor,Comercial/Lojas,Shopping Itaguacu - SC,2025-01-24,2726.49,ativo
+VTX-195,Patricia Yunes Fonseca,Vendedor,Comercial/Lojas,Shopping Itaguacu - SC,2023-02-19,2755.76,ativo
+VTX-196,Murilo Nunes Yunes,Vendedor,Comercial/Lojas,Shopping Itaguacu - SC,2024-04-08,3121.36,ativo
+VTX-197,Amanda Holanda Amaral,Gerente de Loja,Comercial/Lojas,Norte Shopping Floripa - SC,2020-04-16,7952.31,ativo
+VTX-198,Irene Andrade Miranda,Vendedor,Comercial/Lojas,Norte Shopping Floripa - SC,2025-05-11,2911.59,ativo
+VTX-199,Aline Ornelas Lacerda,Vendedor,Comercial/Lojas,Norte Shopping Floripa - SC,2019-07-29,3029.58,ativo
+VTX-200,Sinval Tavares Fonseca,Vendedor,Comercial/Lojas,Norte Shopping Floripa - SC,2020-10-10,2662.85,ativo
+VTX-201,Wanderley Silva Amaral,Vendedor,Comercial/Lojas,Norte Shopping Floripa - SC,2019-10-14,3190.02,ativo
+VTX-202,Rafaela Mendes Alves,Vendedor,Comercial/Lojas,Norte Shopping Floripa - SC,2019-08-22,2411.89,ativo
+VTX-203,Adriana Lorenz Rodrigues,Vendedor,Comercial/Lojas,Norte Shopping Floripa - SC,2020-02-12,2612.29,ativo
+VTX-204,Valdir Quindere Freitas,Vendedor,Comercial/Lojas,Norte Shopping Floripa - SC,2018-11-16,2781.0,ativo
+VTX-205,Sheila Machado Werneck,Vendedor,Comercial/Lojas,Norte Shopping Floripa - SC,2023-10-24,2577.24,ativo
+VTX-206,Ieda Portela Godoy,Vendedor,Comercial/Lojas,Norte Shopping Floripa - SC,2023-04-20,2914.67,ativo
+VTX-207,Fausto Inocencio Quadros,Supervisor de Linha,Producao,Fabrica - Campinas,2025-11-09,5661.94,ativo
+VTX-208,Elaine Vieira Rocha,Supervisor de Linha,Producao,Fabrica - Campinas,2021-10-10,6412.45,ativo
+VTX-209,Raimundo Meireles Belem,Supervisor de Linha,Producao,Fabrica - Campinas,2024-11-10,6295.84,ativo
+VTX-210,Xavier Roque Nunes,Supervisor de Linha,Producao,Fabrica - Campinas,2019-06-12,6779.19,ativo
+VTX-211,Naira Fonseca Roque,Supervisor de Linha,Producao,Fabrica - Campinas,2023-03-24,6832.14,ativo
+VTX-212,Celso Inocencio Navarro,Supervisor de Linha,Producao,Fabrica - Campinas,2019-03-25,5968.82,ativo
+VTX-213,Leandro Zanini Azevedo,Supervisor de Linha,Producao,Fabrica - Campinas,2025-11-12,6884.48,ativo
+VTX-214,Andre Andrade Roque,Supervisor de Linha,Producao,Fabrica - Campinas,2019-03-31,6616.88,ativo
+VTX-215,Eduardo Lopes Neves,Supervisor de Linha,Producao,Fabrica - Campinas,2025-09-04,5683.35,ativo
+VTX-216,Geovani Pessoa Carvalho,Supervisor de Linha,Producao,Fabrica - Campinas,2021-05-22,6400.62,ativo
+VTX-217,Tomas Lessa Miranda,Supervisor de Linha,Producao,Fabrica - Campinas,2019-11-24,6485.1,ativo
+VTX-218,Leonardo Sampaio Yunes,Supervisor de Linha,Producao,Fabrica - Campinas,2019-06-14,6643.91,ativo
+VTX-219,Claudia Alves Coelho,Supervisor de Linha,Producao,Fabrica - Campinas,2018-06-27,5770.62,ativo
+VTX-220,Joana Pimenta Sampaio,Supervisor de Linha,Producao,Fabrica - Campinas,2018-03-26,5772.11,ativo
+VTX-221,Flavio Inocencio Fernandes,Supervisor de Linha,Producao,Fabrica - Campinas,2019-10-03,6611.45,ativo
+VTX-222,Eduarda Ruela Fonseca,Supervisor de Linha,Producao,Fabrica - Campinas,2022-05-19,6129.75,ativo
+VTX-223,Nelson Iglesias Meireles,Supervisor de Linha,Producao,Fabrica - Campinas,2024-07-11,6394.34,ativo
+VTX-224,Natalia Castro Martins,Supervisor de Linha,Producao,Fabrica - Campinas,2025-09-20,5622.37,ativo
+VTX-225,Wagner Greco Urbano,Supervisor de Linha,Producao,Fabrica - Campinas,2022-10-22,5909.75,ativo
+VTX-226,Isabela Rangel Roque,Supervisor de Linha,Producao,Fabrica - Campinas,2019-05-29,5924.87,ativo
+VTX-227,Odete Quindere Henriques,Encarregado,Producao,Fabrica - Campinas,2018-09-03,4786.67,ativo
+VTX-228,Amanda Santos Amorim,Encarregado,Producao,Fabrica - Campinas,2021-07-17,5728.92,ativo
+VTX-229,Milena Vasconcelos Benicio,Encarregado,Producao,Fabrica - Campinas,2021-11-03,4655.98,ativo
+VTX-230,Yago Cunha Correia,Encarregado,Producao,Fabrica - Campinas,2022-06-05,5192.36,ativo
+VTX-231,Reinaldo Tobias Vieira,Encarregado,Producao,Fabrica - Campinas,2022-08-13,5620.29,ativo
+VTX-232,Joao Zago Barbosa,Encarregado,Producao,Fabrica - Campinas,2021-09-03,5248.49,ativo
+VTX-233,Fabiola Navarro Benicio,Encarregado,Producao,Fabrica - Campinas,2019-06-15,5026.54,ativo
+VTX-234,Paula Zago Valente,Encarregado,Producao,Fabrica - Campinas,2019-02-24,5067.73,ativo
+VTX-235,Yago Inocencio Quindere,Encarregado,Producao,Fabrica - Campinas,2019-01-17,5014.5,ativo
+VTX-236,Julio Guimaraes Ornelas,Encarregado,Producao,Fabrica - Campinas,2020-01-18,4599.29,ativo
+VTX-237,Zelia Matos Borges,Encarregado,Producao,Fabrica - Campinas,2022-01-30,4956.43,ativo
+VTX-238,Roseli Cavalcante Simoes,Encarregado,Producao,Fabrica - Campinas,2019-04-26,4690.38,ativo
+VTX-239,Xavier Azevedo Barbosa,Encarregado,Producao,Fabrica - Campinas,2020-02-24,5736.68,ativo
+VTX-240,Lucia Vasquez Lorenz,Encarregado,Producao,Fabrica - Campinas,2025-03-13,4910.98,ativo
+VTX-241,Elton Urbano Godoy,Encarregado,Producao,Fabrica - Campinas,2021-03-30,5268.85,ativo
+VTX-242,Bruno Iglesias Abreu,Encarregado,Producao,Fabrica - Campinas,2023-03-26,4548.89,ativo
+VTX-243,Francisco Barbosa Andrade,Encarregado,Producao,Fabrica - Campinas,2025-01-22,5272.3,ativo
+VTX-244,Ulisses Costa Werneck,Encarregado,Producao,Fabrica - Campinas,2024-07-28,5347.39,ativo
+VTX-245,Elton Kaneto Pinto,Encarregado,Producao,Fabrica - Campinas,2018-11-09,5085.68,ativo
+VTX-246,Noemi Dias Lessa,Encarregado,Producao,Fabrica - Campinas,2025-05-29,4724.33,ativo
+VTX-247,Adilson Trindade Quindere,Costureiro,Producao,Fabrica - Campinas,2024-01-10,2626.86,ativo
+VTX-248,Francisco Fontes Lago,Costureiro,Producao,Fabrica - Campinas,2021-12-15,2675.23,ativo
+VTX-249,Beto Ornelas Sousa,Costureiro,Producao,Fabrica - Campinas,2021-11-10,2266.15,ativo
+VTX-250,Gisele Siqueira Pinto,Costureiro,Producao,Fabrica - Campinas,2021-11-25,2257.05,ativo
+VTX-251,Priscila Iglesias Goncalves,Costureiro,Producao,Fabrica - Campinas,2019-08-11,2616.53,ativo
+VTX-252,Joana Aguiar Neves,Costureiro,Producao,Fabrica - Campinas,2019-08-06,2669.08,ativo
+VTX-253,Jucelia Quindere Andrade,Costureiro,Producao,Fabrica - Campinas,2025-05-29,2669.32,ativo
+VTX-254,Fernanda Valente Iglesias,Costureiro,Producao,Fabrica - Campinas,2020-03-08,2865.82,ativo
+VTX-255,Tulio Greco Borges,Costureiro,Producao,Fabrica - Campinas,2020-09-13,2899.98,ativo
+VTX-256,Sebastiao Nunes Lessa,Costureiro,Producao,Fabrica - Campinas,2024-03-19,2784.58,ativo
+VTX-257,Patricia Pimenta Correia,Costureiro,Producao,Fabrica - Campinas,2024-11-10,2463.7,ativo
+VTX-258,Jair Monteiro Trindade,Costureiro,Producao,Fabrica - Campinas,2018-08-26,2487.6,ativo
+VTX-259,Adriana Urbano Pacheco,Costureiro,Producao,Fabrica - Campinas,2023-03-13,2363.8,ativo
+VTX-260,Elton Borges Yunes,Costureiro,Producao,Fabrica - Campinas,2025-10-08,2862.99,ativo
+VTX-261,Lucia Pacheco Belem,Costureiro,Producao,Fabrica - Campinas,2023-10-20,2569.22,ativo
+VTX-262,Ursula Araujo Siqueira,Costureiro,Producao,Fabrica - Campinas,2018-09-30,2648.83,ativo
+VTX-263,Edilaine Marques Orsi,Costureiro,Producao,Fabrica - Campinas,2019-07-24,2399.54,ativo
+VTX-264,Eliane Werneck Nepomuceno,Costureiro,Producao,Fabrica - Campinas,2019-10-25,2781.73,ativo
+VTX-265,Wilson Werneck Sampaio,Costureiro,Producao,Fabrica - Campinas,2018-06-18,2490.43,ativo
+VTX-266,Nelson Simoes Drummond,Costureiro,Producao,Fabrica - Campinas,2019-01-29,2462.44,ativo
+VTX-267,Rodrigo Ornelas Cavalcante,Costureiro,Producao,Fabrica - Campinas,2019-09-15,2226.81,ativo
+VTX-268,Maristela Araujo Cabral,Costureiro,Producao,Fabrica - Campinas,2023-03-12,2630.74,ativo
+VTX-269,Fernanda Vasconcelos Fonseca,Costureiro,Producao,Fabrica - Campinas,2019-11-03,2584.16,ativo
+VTX-270,Zelia Pessoa Mendes,Costureiro,Producao,Fabrica - Campinas,2021-05-24,2366.35,ativo
+VTX-271,Marcio Ormonde Zago,Costureiro,Producao,Fabrica - Campinas,2018-11-13,2277.6,ativo
+VTX-272,Keila Terres Rodrigues,Costureiro,Producao,Fabrica - Campinas,2025-04-01,2560.76,ativo
+VTX-273,Thiago Benicio Quadros,Costureiro,Producao,Fabrica - Campinas,2018-03-07,2630.37,ativo
+VTX-274,Valdir Duarte Dias,Costureiro,Producao,Fabrica - Campinas,2024-01-13,2882.26,ativo
+VTX-275,Laercio Villela Lessa,Costureiro,Producao,Fabrica - Campinas,2023-11-09,2587.91,ativo
+VTX-276,Elton Ribeiro Fontes,Costureiro,Producao,Fabrica - Campinas,2022-05-08,2377.56,ativo
+VTX-277,Felipe Rangel Assis,Costureiro,Producao,Fabrica - Campinas,2025-07-13,2639.78,ativo
+VTX-278,Jucelia Ornelas Teixeira,Costureiro,Producao,Fabrica - Campinas,2018-08-29,2446.61,ativo
+VTX-279,Denilson Cunha Abreu,Costureiro,Producao,Fabrica - Campinas,2023-07-13,2642.22,ativo
+VTX-280,Bruna Zago Gomes,Costureiro,Producao,Fabrica - Campinas,2021-06-14,2341.11,ativo
+VTX-281,Camila Jacobsen Iglesias,Costureiro,Producao,Fabrica - Campinas,2023-12-11,2478.76,ativo
+VTX-282,Maristela Siqueira Gomes,Costureiro,Producao,Fabrica - Campinas,2025-06-01,2333.77,ativo
+VTX-283,Vagner Martins Neves,Costureiro,Producao,Fabrica - Campinas,2021-03-24,2287.13,ativo
+VTX-284,Tiago Trindade Drummond,Costureiro,Producao,Fabrica - Campinas,2021-12-18,2881.61,ativo
+VTX-285,Heraldo Yunes Orsi,Costureiro,Producao,Fabrica - Campinas,2021-02-25,2760.8,ativo
+VTX-286,Daniela Roque Batista,Costureiro,Producao,Fabrica - Campinas,2024-04-12,2405.64,ativo
+VTX-287,Igor Coutinho Henriques,Costureiro,Producao,Fabrica - Campinas,2023-03-01,2621.84,ativo
+VTX-288,Jair Urbano Sampaio,Costureiro,Producao,Fabrica - Campinas,2023-03-06,2229.65,ativo
+VTX-289,Roberta Serrano Amaral,Costureiro,Producao,Fabrica - Campinas,2025-05-02,2886.02,ativo
+VTX-290,Carolina Jardim Wendling,Costureiro,Producao,Fabrica - Campinas,2023-12-01,2760.77,ativo
+VTX-291,Juliana Melo Trindade,Costureiro,Producao,Fabrica - Campinas,2018-07-21,2288.36,ativo
+VTX-292,Denilson Wendling Valente,Costureiro,Producao,Fabrica - Campinas,2022-06-16,2864.63,ativo
+VTX-293,Daniel Werneck Yunes,Costureiro,Producao,Fabrica - Campinas,2022-05-02,2510.76,ativo
+VTX-294,Fernando Ruela Wendling,Costureiro,Producao,Fabrica - Campinas,2022-08-17,2420.07,ativo
+VTX-295,Gustavo Alves Duarte,Costureiro,Producao,Fabrica - Campinas,2023-10-05,2562.42,ativo
+VTX-296,Jessica Magalhaes Queiroz,Costureiro,Producao,Fabrica - Campinas,2023-03-02,2350.2,ativo
+VTX-297,Zilma Hazin Figueiredo,Costureiro,Producao,Fabrica - Campinas,2019-07-16,2295.01,ativo
+VTX-298,Gabriel Urbano Nascimento,Costureiro,Producao,Fabrica - Campinas,2025-10-23,2877.29,ativo
+VTX-299,Waldirene Rangel Sousa,Costureiro,Producao,Fabrica - Campinas,2024-04-30,2579.52,ativo
+VTX-300,Olivia Cunha Valente,Costureiro,Producao,Fabrica - Campinas,2023-11-13,2356.97,ativo
+VTX-301,Larissa Simoes Iunes,Costureiro,Producao,Fabrica - Campinas,2018-06-16,2452.63,ativo
+VTX-302,Lucia Correia Nascimento,Costureiro,Producao,Fabrica - Campinas,2018-11-25,2416.5,ativo
+VTX-303,Herica Espinoza Quindere,Costureiro,Producao,Fabrica - Campinas,2022-10-08,2738.42,ativo
+VTX-304,Carolina Moraes Keller,Costureiro,Producao,Fabrica - Campinas,2025-05-14,2251.92,ativo
+VTX-305,Kleber Rangel Moraes,Costureiro,Producao,Fabrica - Campinas,2024-05-06,2647.86,ativo
+VTX-306,Eduardo Roque Kaneto,Costureiro,Producao,Fabrica - Campinas,2018-10-13,2781.97,ativo
+VTX-307,Ingrid Monteiro Campos,Costureiro,Producao,Fabrica - Campinas,2021-10-12,2854.32,ativo
+VTX-308,Kleber Pacheco Rocha,Costureiro,Producao,Fabrica - Campinas,2020-12-21,2337.41,ativo
+VTX-309,Flavia Moraes Godoy,Costureiro,Producao,Fabrica - Campinas,2025-01-19,2573.43,ativo
+VTX-310,Paula Azevedo Pires,Costureiro,Producao,Fabrica - Campinas,2025-07-20,2637.14,ativo
+VTX-311,Noemi Costa Pereira,Costureiro,Producao,Fabrica - Campinas,2019-01-27,2231.82,ativo
+VTX-312,Hortencia Magalhaes Tavares,Costureiro,Producao,Fabrica - Campinas,2024-07-30,2491.61,ativo
+VTX-313,Pollyana Villela Benicio,Costureiro,Producao,Fabrica - Campinas,2025-05-12,2869.66,ativo
+VTX-314,Ideraldo Jardim Esteves,Costureiro,Producao,Fabrica - Campinas,2023-04-01,2251.08,ativo
+VTX-315,Adilson Navarro Falcao,Costureiro,Producao,Fabrica - Campinas,2023-05-16,2342.82,ativo
+VTX-316,Katia Keller Rangel,Costureiro,Producao,Fabrica - Campinas,2022-08-20,2291.54,ativo
+VTX-317,Reinaldo Machado Keller,Costureiro,Producao,Fabrica - Campinas,2020-11-15,2526.53,ativo
+VTX-318,Fabio Melo Moreira,Costureiro,Producao,Fabrica - Campinas,2018-09-24,2403.15,ativo
+VTX-319,Zacarias Ormonde Prado,Costureiro,Producao,Fabrica - Campinas,2019-12-15,2769.43,ativo
+VTX-320,Herica Jacobsen Mota,Costureiro,Producao,Fabrica - Campinas,2019-12-13,2548.79,ativo
+VTX-321,Pollyana Henriques Jales,Costureiro,Producao,Fabrica - Campinas,2018-06-03,2263.03,ativo
+VTX-322,Celso Assis Fonseca,Costureiro,Producao,Fabrica - Campinas,2024-09-14,2447.03,ativo
+VTX-323,Heraldo Cabral Damasceno,Costureiro,Producao,Fabrica - Campinas,2024-03-07,2205.72,ativo
+VTX-324,Fernando Magalhaes Wendling,Costureiro,Producao,Fabrica - Campinas,2022-09-07,2456.16,ativo
+VTX-325,Silvio Borges Valente,Costureiro,Producao,Fabrica - Campinas,2024-05-14,2402.02,ativo
+VTX-326,Benedito Leite Cardoso,Costureiro,Producao,Fabrica - Campinas,2019-08-10,2882.56,ativo
+VTX-327,Julio Wendling Melo,Costureiro,Producao,Fabrica - Campinas,2020-05-24,2621.72,ativo
+VTX-328,Lucas Ribeiro Gomes,Costureiro,Producao,Fabrica - Campinas,2019-09-13,2699.51,ativo
+VTX-329,Valdirene Yates Pinto,Costureiro,Producao,Fabrica - Campinas,2024-12-17,2825.19,ativo
+VTX-330,Zacarias Keller Campos,Costureiro,Producao,Fabrica - Campinas,2022-07-27,2893.43,ativo
+VTX-331,Ingrid Pimenta Lessa,Costureiro,Producao,Fabrica - Campinas,2023-11-17,2572.64,ativo
+VTX-332,Ingrid Delgado Rodrigues,Costureiro,Producao,Fabrica - Campinas,2022-04-17,2431.87,ativo
+VTX-333,Valdir Henriques Alves,Costureiro,Producao,Fabrica - Campinas,2024-11-08,2532.21,ativo
+VTX-334,Odaleia Brito Carvalho,Costureiro,Producao,Fabrica - Campinas,2024-09-15,2536.31,ativo
+VTX-335,Herica Belem Cavalcante,Costureiro,Producao,Fabrica - Campinas,2025-10-18,2369.54,ativo
+VTX-336,Estela Mendes Mota,Costureiro,Producao,Fabrica - Campinas,2018-05-17,2508.73,ativo
+VTX-337,Ubiratan Amorim Macedo,Costureira,Producao,Fabrica - Campinas,2023-10-16,2742.48,ativo
+VTX-338,Jucelia Lopes Araujo,Costureira,Producao,Fabrica - Campinas,2023-12-24,2345.14,ativo
+VTX-339,Flavio Espinoza Quindere,Costureira,Producao,Fabrica - Campinas,2022-05-22,2419.63,ativo
+VTX-340,Moises Quaresma Villela,Costureira,Producao,Fabrica - Campinas,2022-02-19,2673.11,ativo
+VTX-341,Xenia Magalhaes Falcao,Costureira,Producao,Fabrica - Campinas,2020-04-26,2870.14,ativo
+VTX-342,Edmundo Rezende Esteves,Costureira,Producao,Fabrica - Campinas,2021-05-27,2693.43,ferias
+VTX-343,Odete Keller Espinoza,Costureira,Producao,Fabrica - Campinas,2022-01-27,2592.34,ativo
+VTX-344,Herica Amaral Damasceno,Costureira,Producao,Fabrica - Campinas,2019-07-13,2601.43,ativo
+VTX-345,Renata Rangel Cavalcante,Costureira,Producao,Fabrica - Campinas,2021-06-02,2229.45,ativo
+VTX-346,Daniela Rangel Urbano,Costureira,Producao,Fabrica - Campinas,2025-07-08,2379.51,ativo
+VTX-347,Renato Terres Xavier,Costureira,Producao,Fabrica - Campinas,2024-06-19,2687.32,ativo
+VTX-348,Zacarias Assis Lacerda,Costureira,Producao,Fabrica - Campinas,2018-09-24,2668.88,ativo
+VTX-349,Queila Nogueira Carvalho,Costureira,Producao,Fabrica - Campinas,2019-04-15,2489.31,ativo
+VTX-350,Gabriela Araujo Santos,Costureira,Producao,Fabrica - Campinas,2024-05-02,2884.54,ativo
+VTX-351,Emerson Delgado Espinoza,Costureira,Producao,Fabrica - Campinas,2025-06-16,2339.62,ativo
+VTX-352,Leticia Damasceno Lopes,Costureira,Producao,Fabrica - Campinas,2019-03-02,2656.61,ativo
+VTX-353,Patrick Gomes Cunha,Costureira,Producao,Fabrica - Campinas,2022-11-06,2817.57,ativo
+VTX-354,Paulo Holanda Iunes,Costureira,Producao,Fabrica - Campinas,2020-04-02,2855.63,ativo
+VTX-355,Heloisa Gomes Oliveira,Costureira,Producao,Fabrica - Campinas,2021-07-05,2597.57,ativo
+VTX-356,Ivan Pacheco Yates,Costureira,Producao,Fabrica - Campinas,2025-05-09,2580.31,ativo
+VTX-357,Fernando Lessa Bahia,Costureira,Producao,Fabrica - Campinas,2021-03-22,2334.97,ativo
+VTX-358,Mateus Zago Vasconcelos,Costureira,Producao,Fabrica - Campinas,2020-04-01,2209.86,ativo
+VTX-359,Sebastiao Borges Cunha,Costureira,Producao,Fabrica - Campinas,2025-01-05,2799.3,ativo
+VTX-360,Claudia Nepomuceno Meireles,Costureira,Producao,Fabrica - Campinas,2019-02-19,2480.58,ativo
+VTX-361,Fernando Espinoza Lorenz,Costureira,Producao,Fabrica - Campinas,2020-12-11,2204.78,ativo
+VTX-362,Benedito Coelho Neves,Costureira,Producao,Fabrica - Campinas,2021-07-19,2607.72,ativo
+VTX-363,Debora Valente Simoes,Costureira,Producao,Fabrica - Campinas,2018-11-10,2667.45,ativo
+VTX-364,Mateus Jardim Kaneto,Costureira,Producao,Fabrica - Campinas,2021-08-25,2683.2,ativo
+VTX-365,Heloisa Yunes Guimaraes,Costureira,Producao,Fabrica - Campinas,2020-08-14,2870.15,ativo
+VTX-366,Celso Zanini Navarro,Costureira,Producao,Fabrica - Campinas,2024-04-27,2838.96,ativo
+VTX-367,Waldirene Fonseca Prado,Costureira,Producao,Fabrica - Campinas,2025-10-16,2728.32,ativo
+VTX-368,Daniela Quindere Vasquez,Costureira,Producao,Fabrica - Campinas,2024-02-01,2692.64,ativo
+VTX-369,Silvio Mendes Lopes,Costureira,Producao,Fabrica - Campinas,2024-04-21,2832.02,ativo
+VTX-370,Moises Pinto Monteiro,Costureira,Producao,Fabrica - Campinas,2021-11-03,2798.14,ativo
+VTX-371,Ideraldo Amorim Hazin,Costureira,Producao,Fabrica - Campinas,2019-03-08,2829.22,ativo
+VTX-372,Rafael Yates Correia,Costureira,Producao,Fabrica - Campinas,2023-12-02,2490.8,ativo
+VTX-373,Francine Abreu Henriques,Costureira,Producao,Fabrica - Campinas,2018-05-29,2477.16,ativo
+VTX-374,Keli Fonseca Vieira,Costureira,Producao,Fabrica - Campinas,2018-09-02,2496.59,ativo
+VTX-375,Celia Lopes Fernandes,Costureira,Producao,Fabrica - Campinas,2023-06-16,2222.21,ativo
+VTX-376,Tulio Teixeira Ormonde,Costureira,Producao,Fabrica - Campinas,2022-05-12,2895.0,ativo
+VTX-377,Omar Aguiar Rocha,Costureira,Producao,Fabrica - Campinas,2025-10-26,2874.9,ativo
+VTX-378,Larissa Sampaio Cardoso,Costureira,Producao,Fabrica - Campinas,2020-03-01,2894.99,ativo
+VTX-379,Eduardo Rezende Silva,Costureira,Producao,Fabrica - Campinas,2018-06-02,2884.94,ativo
+VTX-380,Natan Villela Pessoa,Costureira,Producao,Fabrica - Campinas,2024-02-16,2465.49,ativo
+VTX-381,Celso Rangel Azevedo,Costureira,Producao,Fabrica - Campinas,2021-04-03,2331.94,ativo
+VTX-382,Milena Mendes Lima,Costureira,Producao,Fabrica - Campinas,2025-07-26,2493.47,ativo
+VTX-383,Fernanda Assis Amorim,Costureira,Producao,Fabrica - Campinas,2018-12-01,2270.63,ativo
+VTX-384,Wanderley Martins Lacerda,Costureira,Producao,Fabrica - Campinas,2018-08-29,2481.59,ativo
+VTX-385,Sergio Almeida Araujo,Costureira,Producao,Fabrica - Campinas,2023-10-24,2895.44,ativo
+VTX-386,Odair Keller Lorenz,Costureira,Producao,Fabrica - Campinas,2020-10-26,2411.24,ativo
+VTX-387,Flavio Portela Guimaraes,Costureira,Producao,Fabrica - Campinas,2022-10-19,2410.35,ativo
+VTX-388,Valdeci Cunha Quadros,Costureira,Producao,Fabrica - Campinas,2024-05-24,2546.93,ativo
+VTX-389,Roseli Belem Quindere,Costureira,Producao,Fabrica - Campinas,2021-09-26,2687.42,ativo
+VTX-390,Edmundo Aguiar Duarte,Costureira,Producao,Fabrica - Campinas,2024-03-12,2531.46,ativo
+VTX-391,Ingrid Melo Abreu,Costureira,Producao,Fabrica - Campinas,2018-10-23,2593.67,ativo
+VTX-392,Francine Ruela Teixeira,Costureira,Producao,Fabrica - Campinas,2022-07-08,2370.0,ativo
+VTX-393,Denilson Rocha Werneck,Costureira,Producao,Fabrica - Campinas,2022-04-28,2264.72,ativo
+VTX-394,Tatiana Carvalho Coelho,Costureira,Producao,Fabrica - Campinas,2022-05-23,2671.57,ativo
+VTX-395,Carolina Mota Fonseca,Costureira,Producao,Fabrica - Campinas,2023-07-16,2346.22,ativo
+VTX-396,Ingrid Souza Miranda,Costureira,Producao,Fabrica - Campinas,2020-04-17,2873.45,ativo
+VTX-397,Reginaldo Espinoza Lacerda,Costureira,Producao,Fabrica - Campinas,2024-12-09,2692.64,ativo
+VTX-398,Marcio Lorenz Pacheco,Costureira,Producao,Fabrica - Campinas,2022-06-07,2526.38,ativo
+VTX-399,Joana Queiroz Valente,Costureira,Producao,Fabrica - Campinas,2023-11-30,2817.97,ativo
+VTX-400,Natan Cabral Keller,Costureira,Producao,Fabrica - Campinas,2020-06-10,2459.49,ativo
+VTX-401,Silvio Guimaraes Cavalcante,Costureira,Producao,Fabrica - Campinas,2018-05-06,2382.54,ativo
+VTX-402,Ivone Navarro Coutinho,Costureira,Producao,Fabrica - Campinas,2019-11-15,2337.33,ativo
+VTX-403,Silvio Lacerda Jales,Costureira,Producao,Fabrica - Campinas,2024-05-03,2658.23,ativo
+VTX-404,Cristina Hazin Hazin,Costureira,Producao,Fabrica - Campinas,2023-05-01,2317.76,ativo
+VTX-405,Paula Araujo Villela,Costureira,Producao,Fabrica - Campinas,2023-08-22,2328.83,ativo
+VTX-406,Roseli Lopes Quindere,Costureira,Producao,Fabrica - Campinas,2018-07-17,2787.35,ativo
+VTX-407,Geovani Martins Santos,Costureira,Producao,Fabrica - Campinas,2022-10-15,2296.24,ativo
+VTX-408,Bruna Pinto Oliveira,Costureira,Producao,Fabrica - Campinas,2020-08-12,2554.01,ativo
+VTX-409,Ademar Falcao Greco,Costureira,Producao,Fabrica - Campinas,2018-05-04,2204.63,ativo
+VTX-410,Ana Rodrigues Ruela,Costureira,Producao,Fabrica - Campinas,2021-03-30,2575.02,ativo
+VTX-411,Isaias Roque Medeiros,Costureira,Producao,Fabrica - Campinas,2019-05-13,2842.63,ativo
+VTX-412,Adriana Borges Quindere,Costureira,Producao,Fabrica - Campinas,2020-12-28,2770.65,ativo
+VTX-413,Samuel Rocha Zanini,Costureira,Producao,Fabrica - Campinas,2022-09-19,2521.3,ativo
+VTX-414,Kevin Rezende Esteves,Costureira,Producao,Fabrica - Campinas,2025-10-31,2779.64,ativo
+VTX-415,Emerson Lima Andrade,Costureira,Producao,Fabrica - Campinas,2022-09-16,2465.48,ativo
+VTX-416,Amanda Oliveira Pires,Costureira,Producao,Fabrica - Campinas,2019-02-02,2549.9,ativo
+VTX-417,Ivan Moreira Ruela,Costureira,Producao,Fabrica - Campinas,2018-08-22,2360.84,ativo
+VTX-418,Zilma Delgado Xavier,Costureira,Producao,Fabrica - Campinas,2018-09-07,2846.91,ativo
+VTX-419,Flavia Villela Lima,Costureira,Producao,Fabrica - Campinas,2020-03-04,2850.14,ativo
+VTX-420,Roberto Melo Holanda,Costureira,Producao,Fabrica - Campinas,2019-01-10,2409.49,ativo
+VTX-421,Graziela Fontes Uchoa,Costureira,Producao,Fabrica - Campinas,2021-11-18,2468.69,ativo
+VTX-422,Zilma Rocha Kaneto,Costureira,Producao,Fabrica - Campinas,2022-01-15,2237.59,ativo
+VTX-423,Bruno Quaresma Holanda,Costureira,Producao,Fabrica - Campinas,2021-10-27,2220.74,ativo
+VTX-424,Benedito Hazin Brito,Costureira,Producao,Fabrica - Campinas,2022-02-25,2587.13,ativo
+VTX-425,Ricardo Belem Dias,Costureira,Producao,Fabrica - Campinas,2025-02-05,2406.77,ativo
+VTX-426,Bruno Dias Coelho,Costureira,Producao,Fabrica - Campinas,2019-11-22,2466.0,ativo
+VTX-427,Natalia Fontes Keller,Cortador,Producao,Fabrica - Campinas,2022-03-17,2374.59,ativo
+VTX-428,Otavio Urbano Valente,Cortador,Producao,Fabrica - Campinas,2021-03-09,2371.56,ativo
+VTX-429,Yago Vasquez Nepomuceno,Cortador,Producao,Fabrica - Campinas,2022-09-27,2372.31,ativo
+VTX-430,Osvaldo Andrade Meireles,Cortador,Producao,Fabrica - Campinas,2022-06-25,2308.64,ativo
+VTX-431,Vagner Dias Lacerda,Cortador,Producao,Fabrica - Campinas,2024-07-29,2664.77,ativo
+VTX-432,Paula Araujo Coelho,Cortador,Producao,Fabrica - Campinas,2021-07-16,2487.88,ativo
+VTX-433,Vinicius Serrano Amaral,Cortador,Producao,Fabrica - Campinas,2022-11-19,2509.83,ativo
+VTX-434,Simone Siqueira Prado,Cortador,Producao,Fabrica - Campinas,2025-03-04,2647.06,ativo
+VTX-435,Irene Machado Teixeira,Cortador,Producao,Fabrica - Campinas,2021-07-30,2304.74,ativo
+VTX-436,Ademar Belem Neves,Cortador,Producao,Fabrica - Campinas,2023-02-06,2534.32,ativo
+VTX-437,Solange Teixeira Esteves,Cortador,Producao,Fabrica - Campinas,2021-10-04,2722.25,ativo
+VTX-438,Neide Jacobsen Medeiros,Cortador,Producao,Fabrica - Campinas,2022-08-18,2978.11,ativo
+VTX-439,Jair Hazin Lacerda,Cortador,Producao,Fabrica - Campinas,2021-10-25,2563.24,ativo
+VTX-440,Renata Wendling Freitas,Cortador,Producao,Fabrica - Campinas,2024-06-26,2439.86,ativo
+VTX-441,Sandra Alves Abreu,Cortador,Producao,Fabrica - Campinas,2020-07-06,2606.92,ativo
+VTX-442,Jair Fernandes Lago,Cortador,Producao,Fabrica - Campinas,2025-09-16,2649.51,ativo
+VTX-443,Adriana Siqueira Azevedo,Cortador,Producao,Fabrica - Campinas,2022-11-28,2852.35,ativo
+VTX-444,Wanderley Espinoza Inocencio,Cortador,Producao,Fabrica - Campinas,2024-02-26,2654.63,ativo
+VTX-445,Zilma Ormonde Villela,Cortador,Producao,Fabrica - Campinas,2018-07-29,2853.5,ativo
+VTX-446,Moises Dias Machado,Cortador,Producao,Fabrica - Campinas,2020-12-11,2760.32,ativo
+VTX-447,Denilson Ribeiro Inocencio,Cortador,Producao,Fabrica - Campinas,2021-11-18,2976.0,ativo
+VTX-448,Jose Nunes Queiroz,Cortador,Producao,Fabrica - Campinas,2020-08-26,2657.47,ativo
+VTX-449,Ivone Guimaraes Vasquez,Cortador,Producao,Fabrica - Campinas,2022-05-11,2573.79,ativo
+VTX-450,Jamila Kaneto Pinto,Cortador,Producao,Fabrica - Campinas,2022-01-11,2998.39,ativo
+VTX-451,Sebastiao Navarro Dias,Cortador,Producao,Fabrica - Campinas,2019-06-19,2881.92,ativo
+VTX-452,Priscila Iglesias Quaresma,Cortador,Producao,Fabrica - Campinas,2023-04-09,2848.99,ativo
+VTX-453,Priscila Delgado Moreira,Cortador,Producao,Fabrica - Campinas,2023-01-28,2805.4,ativo
+VTX-454,Felipe Esteves Ribeiro,Cortador,Producao,Fabrica - Campinas,2019-06-15,2315.81,ativo
+VTX-455,Leonardo Monteiro Lacerda,Cortador,Producao,Fabrica - Campinas,2023-12-13,2422.12,ativo
+VTX-456,Reinaldo Quadros Abreu,Cortador,Producao,Fabrica - Campinas,2020-10-05,2858.43,ativo
+VTX-457,Sandra Roque Holanda,Cortador,Producao,Fabrica - Campinas,2018-06-28,2816.17,ativo
+VTX-458,Giovana Quadros Fontes,Cortador,Producao,Fabrica - Campinas,2018-03-19,2793.31,ativo
+VTX-459,Reginaldo Sousa Marques,Cortador,Producao,Fabrica - Campinas,2024-03-08,2430.87,ativo
+VTX-460,Celso Freitas Magalhaes,Cortador,Producao,Fabrica - Campinas,2025-09-07,2903.85,ativo
+VTX-461,Queila Jacobsen Fontes,Cortador,Producao,Fabrica - Campinas,2025-01-06,2574.78,ativo
+VTX-462,Lucio Zago Cunha,Cortador,Producao,Fabrica - Campinas,2025-09-19,2794.19,ativo
+VTX-463,Zacarias Dias Teixeira,Cortador,Producao,Fabrica - Campinas,2021-09-03,2382.5,ativo
+VTX-464,Ricardo Zanini Melo,Cortador,Producao,Fabrica - Campinas,2023-11-22,2571.92,ativo
+VTX-465,Hortencia Drummond Pessoa,Cortador,Producao,Fabrica - Campinas,2020-03-30,2640.67,ativo
+VTX-466,Roseli Cunha Monteiro,Cortador,Producao,Fabrica - Campinas,2023-08-27,2502.18,ativo
+VTX-467,Benedito Carvalho Ulhoa,Cortador,Producao,Fabrica - Campinas,2018-04-09,2639.23,ativo
+VTX-468,Pablo Lessa Iunes,Cortador,Producao,Fabrica - Campinas,2022-10-01,2779.29,ativo
+VTX-469,Adilson Hazin Monteiro,Cortador,Producao,Fabrica - Campinas,2019-02-02,2695.78,ativo
+VTX-470,Yasmin Benicio Lima,Cortador,Producao,Fabrica - Campinas,2021-03-30,2457.39,ativo
+VTX-471,Vagner Zago Iunes,Cortador,Producao,Fabrica - Campinas,2024-04-29,2657.56,ativo
+VTX-472,Eliane Villela Wendling,Cortador,Producao,Fabrica - Campinas,2024-03-29,2875.83,ativo
+VTX-473,Natan Trindade Villela,Cortador,Producao,Fabrica - Campinas,2020-08-12,2992.84,ativo
+VTX-474,Emerson Prado Esteves,Cortador,Producao,Fabrica - Campinas,2018-07-11,2614.81,ativo
+VTX-475,Diego Trindade Cardoso,Cortador,Producao,Fabrica - Campinas,2020-10-26,2446.91,ativo
+VTX-476,Zilma Sampaio Quadros,Cortador,Producao,Fabrica - Campinas,2020-01-09,2731.31,ativo
+VTX-477,Vanessa Lopes Sampaio,Cortador,Producao,Fabrica - Campinas,2024-02-18,2496.76,ativo
+VTX-478,Leticia Benicio Benicio,Cortador,Producao,Fabrica - Campinas,2024-08-01,2487.14,ativo
+VTX-479,Walkiria Moreira Teixeira,Cortador,Producao,Fabrica - Campinas,2022-10-11,2943.14,ativo
+VTX-480,Solange Moraes Correia,Cortador,Producao,Fabrica - Campinas,2020-12-17,2402.37,ativo
+VTX-481,Fabio Goncalves Hazin,Cortador,Producao,Fabrica - Campinas,2019-10-04,2704.2,ativo
+VTX-482,Valdir Aguiar Werneck,Cortador,Producao,Fabrica - Campinas,2019-01-04,2743.54,ativo
+VTX-483,Eduarda Jardim Nepomuceno,Cortador,Producao,Fabrica - Campinas,2021-04-13,2786.29,ferias
+VTX-484,Irene Greco Meireles,Cortador,Producao,Fabrica - Campinas,2024-09-08,2301.73,ativo
+VTX-485,Ieda Andrade Zago,Cortador,Producao,Fabrica - Campinas,2025-04-13,2764.9,ativo
+VTX-486,Felipe Salles Holanda,Cortador,Producao,Fabrica - Campinas,2020-08-09,2977.69,ativo
+VTX-487,Pollyana Coelho Lorenz,Cortador,Producao,Fabrica - Campinas,2021-05-05,2536.43,ativo
+VTX-488,Graziela Greco Quaresma,Cortador,Producao,Fabrica - Campinas,2025-10-25,2833.58,ativo
+VTX-489,Beto Zago Rodrigues,Cortador,Producao,Fabrica - Campinas,2019-07-22,2950.6,ativo
+VTX-490,Celso Silva Quadros,Cortador,Producao,Fabrica - Campinas,2020-06-06,2996.99,ativo
+VTX-491,Solange Godoy Castro,Cortador,Producao,Fabrica - Campinas,2021-03-27,2365.34,ativo
+VTX-492,Andre Zanini Monteiro,Cortador,Producao,Fabrica - Campinas,2018-09-29,2577.44,ativo
+VTX-493,Kevin Nogueira Quadros,Cortador,Producao,Fabrica - Campinas,2025-07-06,2363.84,ativo
+VTX-494,Sergio Espinoza Barbosa,Cortador,Producao,Fabrica - Campinas,2019-08-26,2715.58,ativo
+VTX-495,Elaine Oliveira Oliveira,Cortador,Producao,Fabrica - Campinas,2022-01-06,2871.98,ativo
+VTX-496,Claudia Correia Espinoza,Cortador,Producao,Fabrica - Campinas,2018-12-16,2460.26,ativo
+VTX-497,Leonardo Marques Jacobsen,Cortador,Producao,Fabrica - Campinas,2022-04-14,2916.69,ativo
+VTX-498,Vagner Teixeira Melo,Cortador,Producao,Fabrica - Campinas,2018-12-06,2671.36,ativo
+VTX-499,Emerson Monteiro Trindade,Cortador,Producao,Fabrica - Campinas,2022-02-06,2805.7,ativo
+VTX-500,Natalia Macedo Urbano,Cortador,Producao,Fabrica - Campinas,2020-08-06,2360.68,ativo
+VTX-501,Reginaldo Ramos Drummond,Cortador,Producao,Fabrica - Campinas,2022-02-07,2974.27,ativo
+VTX-502,Fernando Prado Amaral,Cortador,Producao,Fabrica - Campinas,2025-05-23,2358.97,ativo
+VTX-503,Keila Pacheco Alves,Cortador,Producao,Fabrica - Campinas,2025-07-18,2913.08,ativo
+VTX-504,Xavier Matos Mota,Cortador,Producao,Fabrica - Campinas,2022-07-22,2506.88,ativo
+VTX-505,Marcio Iunes Drummond,Cortador,Producao,Fabrica - Campinas,2019-06-05,2468.76,afastado
+VTX-506,Carolina Ruela Souza,Cortador,Producao,Fabrica - Campinas,2022-03-19,2953.75,ativo
+VTX-507,Silvio Ormonde Wendling,Estampador,Producao,Fabrica - Campinas,2024-04-15,2778.06,ativo
+VTX-508,Naira Vieira Rodrigues,Estampador,Producao,Fabrica - Campinas,2024-09-30,2347.27,ativo
+VTX-509,Lucas Lopes Holanda,Estampador,Producao,Fabrica - Campinas,2023-11-05,2500.54,ativo
+VTX-510,Naira Navarro Pessoa,Estampador,Producao,Fabrica - Campinas,2022-09-03,2357.7,ativo
+VTX-511,Miriam Azevedo Leite,Estampador,Producao,Fabrica - Campinas,2019-02-06,2516.93,ativo
+VTX-512,Vanessa Azevedo Terres,Estampador,Producao,Fabrica - Campinas,2021-10-29,2573.51,ativo
+VTX-513,Solange Sousa Iglesias,Estampador,Producao,Fabrica - Campinas,2023-01-25,2810.97,ativo
+VTX-514,Amanda Lacerda Nascimento,Estampador,Producao,Fabrica - Campinas,2023-01-13,2381.19,ativo
+VTX-515,Amanda Iglesias Cunha,Estampador,Producao,Fabrica - Campinas,2019-07-03,2308.87,ativo
+VTX-516,Jose Campos Jales,Estampador,Producao,Fabrica - Campinas,2022-01-19,2666.1,ativo
+VTX-517,Herica Queiroz Monteiro,Estampador,Producao,Fabrica - Campinas,2022-05-02,2388.85,ativo
+VTX-518,Eliane Cardoso Pereira,Estampador,Producao,Fabrica - Campinas,2021-12-02,2864.98,ativo
+VTX-519,Felipe Magalhaes Barbosa,Estampador,Producao,Fabrica - Campinas,2023-09-23,2618.64,ativo
+VTX-520,Heraldo Monteiro Yunes,Estampador,Producao,Fabrica - Campinas,2019-12-05,2478.58,ativo
+VTX-521,Tomas Freitas Brito,Estampador,Producao,Fabrica - Campinas,2023-11-14,2301.8,ativo
+VTX-522,Ana Lacerda Ribeiro,Estampador,Producao,Fabrica - Campinas,2023-06-15,2554.78,ativo
+VTX-523,Rafaela Gomes Ormonde,Estampador,Producao,Fabrica - Campinas,2020-09-05,2525.26,ativo
+VTX-524,Natan Keller Xavier,Estampador,Producao,Fabrica - Campinas,2019-01-14,2700.08,ativo
+VTX-525,Haroldo Carvalho Medeiros,Estampador,Producao,Fabrica - Campinas,2020-08-31,2863.04,ativo
+VTX-526,Suelen Fernandes Bahia,Estampador,Producao,Fabrica - Campinas,2021-04-30,2841.47,ativo
+VTX-527,Diego Yates Oliveira,Estampador,Producao,Fabrica - Campinas,2022-04-20,2440.47,ativo
+VTX-528,Ingrid Lacerda Abreu,Estampador,Producao,Fabrica - Campinas,2022-04-17,2714.18,ativo
+VTX-529,Tulio Cruz Villela,Estampador,Producao,Fabrica - Campinas,2020-11-29,2405.4,ativo
+VTX-530,Juliana Nogueira Uchoa,Estampador,Producao,Fabrica - Campinas,2022-01-17,2745.16,ativo
+VTX-531,Ana Ornelas Silva,Estampador,Producao,Fabrica - Campinas,2025-07-14,2563.39,ativo
+VTX-532,Joana Marques Amorim,Estampador,Producao,Fabrica - Campinas,2024-02-08,2988.18,ativo
+VTX-533,Rafael Melo Leite,Estampador,Producao,Fabrica - Campinas,2019-03-17,2330.73,ativo
+VTX-534,Kleber Macedo Zanini,Estampador,Producao,Fabrica - Campinas,2023-04-21,2982.19,ativo
+VTX-535,Rodrigo Lessa Teixeira,Estampador,Producao,Fabrica - Campinas,2025-04-23,2873.97,ativo
+VTX-536,Silvio Lopes Serrano,Estampador,Producao,Fabrica - Campinas,2025-08-04,2974.95,ativo
+VTX-537,Luiz Jacobsen Goncalves,Estampador,Producao,Fabrica - Campinas,2021-10-27,2522.64,ativo
+VTX-538,Bruno Figueiredo Teixeira,Estampador,Producao,Fabrica - Campinas,2024-09-19,2376.28,ativo
+VTX-539,Benedito Bahia Jacobsen,Estampador,Producao,Fabrica - Campinas,2022-09-21,2384.52,ativo
+VTX-540,Tulio Tavares Werneck,Estampador,Producao,Fabrica - Campinas,2021-08-14,2624.34,ativo
+VTX-541,Eduarda Castro Godoy,Estampador,Producao,Fabrica - Campinas,2024-12-05,2328.23,ativo
+VTX-542,Leticia Cavalcante Andrade,Estampador,Producao,Fabrica - Campinas,2020-12-11,2977.88,ativo
+VTX-543,Marcos Esteves Queiroz,Estampador,Producao,Fabrica - Campinas,2020-02-11,2321.76,ativo
+VTX-544,Benedito Prado Moreira,Estampador,Producao,Fabrica - Campinas,2023-05-06,2371.34,ativo
+VTX-545,Jessica Souza Lopes,Estampador,Producao,Fabrica - Campinas,2020-08-27,2391.5,ativo
+VTX-546,Tania Dias Queiroz,Estampador,Producao,Fabrica - Campinas,2019-01-02,2315.26,ativo
+VTX-547,Denilson Urbano Moraes,Estampador,Producao,Fabrica - Campinas,2019-03-12,2933.55,ativo
+VTX-548,Monica Ramos Costa,Estampador,Producao,Fabrica - Campinas,2023-05-02,2335.45,ativo
+VTX-549,Denise Holanda Jales,Estampador,Producao,Fabrica - Campinas,2018-06-29,2567.91,ativo
+VTX-550,Lucio Miranda Duarte,Estampador,Producao,Fabrica - Campinas,2021-03-31,2495.9,ativo
+VTX-551,Patricia Lacerda Coutinho,Estampador,Producao,Fabrica - Campinas,2023-10-04,2588.39,ativo
+VTX-552,Amanda Nascimento Leite,Estampador,Producao,Fabrica - Campinas,2022-06-16,2396.07,ativo
+VTX-553,Laercio Prado Villela,Estampador,Producao,Fabrica - Campinas,2018-05-19,2992.58,ativo
+VTX-554,Roberta Espinoza Villela,Estampador,Producao,Fabrica - Campinas,2023-08-07,2540.82,ativo
+VTX-555,Leticia Fontes Xavier,Estampador,Producao,Fabrica - Campinas,2020-03-06,2318.24,ativo
+VTX-556,Juliana Leite Almeida,Estampador,Producao,Fabrica - Campinas,2023-06-15,2670.6,ativo
+VTX-557,Zilda Castro Nunes,Estampador,Producao,Fabrica - Campinas,2020-12-10,2759.81,ativo
+VTX-558,Patrick Almeida Guimaraes,Estampador,Producao,Fabrica - Campinas,2024-08-14,2892.55,ativo
+VTX-559,Roberta Cunha Medeiros,Estampador,Producao,Fabrica - Campinas,2020-10-24,2714.76,ativo
+VTX-560,Estela Ulhoa Pereira,Estampador,Producao,Fabrica - Campinas,2022-02-08,2963.29,ativo
+VTX-561,Graziela Mota Iunes,Estampador,Producao,Fabrica - Campinas,2024-03-29,2516.34,ativo
+VTX-562,Diego Almeida Nogueira,Estampador,Producao,Fabrica - Campinas,2024-11-28,2453.17,ativo
+VTX-563,Maria Neves Figueiredo,Estampador,Producao,Fabrica - Campinas,2019-08-17,2538.53,ativo
+VTX-564,Igor Lopes Ferreira,Estampador,Producao,Fabrica - Campinas,2019-10-27,2710.63,ativo
+VTX-565,Odaleia Mendes Quindere,Estampador,Producao,Fabrica - Campinas,2022-04-03,2972.39,ativo
+VTX-566,Flavio Holanda Nunes,Estampador,Producao,Fabrica - Campinas,2021-12-08,2511.24,ativo
+VTX-567,Mateus Serrano Greco,Operador de Maquina,Producao,Fabrica - Campinas,2025-06-11,2390.37,ativo
+VTX-568,Francine Ulhoa Rezende,Operador de Maquina,Producao,Fabrica - Campinas,2025-08-17,2553.37,ativo
+VTX-569,Otavio Coutinho Moraes,Operador de Maquina,Producao,Fabrica - Campinas,2020-02-26,2637.3,ativo
+VTX-570,Hortencia Goncalves Lima,Operador de Maquina,Producao,Fabrica - Campinas,2020-03-15,2561.43,ativo
+VTX-571,Miriam Guimaraes Marques,Operador de Maquina,Producao,Fabrica - Campinas,2023-09-23,2284.39,ativo
+VTX-572,Adriana Rangel Keller,Operador de Maquina,Producao,Fabrica - Campinas,2020-01-17,2581.71,ativo
+VTX-573,Fabiola Ornelas Vasquez,Operador de Maquina,Producao,Fabrica - Campinas,2018-04-16,2359.13,ativo
+VTX-574,Felipe Sampaio Vasconcelos,Operador de Maquina,Producao,Fabrica - Campinas,2019-05-17,2632.25,ativo
+VTX-575,Adilson Ormonde Monteiro,Operador de Maquina,Producao,Fabrica - Campinas,2022-10-21,2495.85,ativo
+VTX-576,Nicanor Aguiar Nunes,Operador de Maquina,Producao,Fabrica - Campinas,2023-07-16,2673.24,ativo
+VTX-577,Milena Rezende Campos,Operador de Maquina,Producao,Fabrica - Campinas,2023-03-23,2244.23,ativo
+VTX-578,Heloisa Ferreira Keller,Operador de Maquina,Producao,Fabrica - Campinas,2021-02-02,2771.0,ferias
+VTX-579,Vinicius Aguiar Campos,Operador de Maquina,Producao,Fabrica - Campinas,2019-01-02,2528.23,ativo
+VTX-580,Eduarda Pimenta Falcao,Operador de Maquina,Producao,Fabrica - Campinas,2018-07-05,2458.79,ativo
+VTX-581,Livia Serrano Castro,Operador de Maquina,Producao,Fabrica - Campinas,2018-10-06,2260.75,ativo
+VTX-582,Henrique Lago Uchoa,Operador de Maquina,Producao,Fabrica - Campinas,2021-02-19,2596.36,ativo
+VTX-583,Rodrigo Martins Goncalves,Operador de Maquina,Producao,Fabrica - Campinas,2024-07-28,2529.8,ativo
+VTX-584,Marcos Valente Silva,Operador de Maquina,Producao,Fabrica - Campinas,2022-12-16,2252.58,ativo
+VTX-585,Orlanda Espinoza Figueiredo,Operador de Maquina,Producao,Fabrica - Campinas,2019-04-02,2215.44,ativo
+VTX-586,Sebastiao Rocha Delgado,Operador de Maquina,Producao,Fabrica - Campinas,2019-06-17,2385.01,ativo
+VTX-587,Gilberto Magalhaes Andrade,Operador de Maquina,Producao,Fabrica - Campinas,2025-05-12,2526.48,ativo
+VTX-588,Omar Yunes Duarte,Operador de Maquina,Producao,Fabrica - Campinas,2023-02-28,2226.77,ativo
+VTX-589,Luiz Rezende Coelho,Operador de Maquina,Producao,Fabrica - Campinas,2024-06-28,2236.98,ativo
+VTX-590,Waldirene Moreira Dias,Operador de Maquina,Producao,Fabrica - Campinas,2025-08-27,2406.27,ativo
+VTX-591,Laudiceia Brito Lopes,Operador de Maquina,Producao,Fabrica - Campinas,2022-07-03,2691.04,ativo
+VTX-592,Moises Delgado Simoes,Operador de Maquina,Producao,Fabrica - Campinas,2023-07-03,2379.31,ativo
+VTX-593,Marcelo Lima Kaneto,Operador de Maquina,Producao,Fabrica - Campinas,2024-07-26,2740.27,ativo
+VTX-594,Walkiria Cavalcante Cardoso,Operador de Maquina,Producao,Fabrica - Campinas,2023-03-14,2303.73,afastado
+VTX-595,Wanessa Borges Moraes,Operador de Maquina,Producao,Fabrica - Campinas,2018-08-22,2454.02,ativo
+VTX-596,Denise Figueiredo Cavalcante,Operador de Maquina,Producao,Fabrica - Campinas,2024-11-01,2354.73,ativo
+VTX-597,Bruna Nascimento Fontes,Operador de Maquina,Producao,Fabrica - Campinas,2024-05-26,2438.41,ativo
+VTX-598,Raimundo Portela Zago,Operador de Maquina,Producao,Fabrica - Campinas,2018-04-20,2671.93,ativo
+VTX-599,Valdirene Ormonde Mendes,Operador de Maquina,Producao,Fabrica - Campinas,2022-10-23,2289.79,ativo
+VTX-600,Ivone Nunes Machado,Operador de Maquina,Producao,Fabrica - Campinas,2024-06-21,2667.73,ativo
+VTX-601,Aparecida Rangel Macedo,Operador de Maquina,Producao,Fabrica - Campinas,2021-02-14,2429.83,ativo
+VTX-602,Xavier Delgado Gomes,Operador de Maquina,Producao,Fabrica - Campinas,2020-02-04,2365.25,ativo
+VTX-603,Xavier Inocencio Gomes,Operador de Maquina,Producao,Fabrica - Campinas,2022-08-08,2733.74,ativo
+VTX-604,Marcio Martins Delgado,Operador de Maquina,Producao,Fabrica - Campinas,2021-03-05,2738.22,ativo
+VTX-605,Edmundo Iglesias Leite,Operador de Maquina,Producao,Fabrica - Campinas,2023-09-04,2714.94,ativo
+VTX-606,Zilda Teixeira Esteves,Operador de Maquina,Producao,Fabrica - Campinas,2023-02-17,2664.42,ativo
+VTX-607,Odair Navarro Nascimento,Operador de Maquina,Producao,Fabrica - Campinas,2020-04-08,2465.03,ativo
+VTX-608,Tais Greco Orsi,Operador de Maquina,Producao,Fabrica - Campinas,2022-05-10,2692.61,ativo
+VTX-609,Olivia Sousa Iglesias,Operador de Maquina,Producao,Fabrica - Campinas,2023-11-05,2442.03,ativo
+VTX-610,Zelia Pereira Cunha,Operador de Maquina,Producao,Fabrica - Campinas,2020-04-28,2725.11,ativo
+VTX-611,Rafael Prado Lima,Operador de Maquina,Producao,Fabrica - Campinas,2023-04-13,2230.34,ativo
+VTX-612,Renato Amaral Yunes,Operador de Maquina,Producao,Fabrica - Campinas,2023-05-15,2503.08,ativo
+VTX-613,Jessica Pereira Assis,Operador de Maquina,Producao,Fabrica - Campinas,2022-05-04,2493.27,afastado
+VTX-614,Elton Sampaio Rangel,Operador de Maquina,Producao,Fabrica - Campinas,2019-12-30,2702.59,ativo
+VTX-615,Jair Andrade Pacheco,Operador de Maquina,Producao,Fabrica - Campinas,2018-06-21,2431.94,ativo
+VTX-616,Tomas Miranda Guimaraes,Operador de Maquina,Producao,Fabrica - Campinas,2025-06-03,2335.07,ativo
+VTX-617,Emerson Lago Nepomuceno,Operador de Maquina,Producao,Fabrica - Campinas,2018-05-22,2718.78,ativo
+VTX-618,Xenia Oliveira Delgado,Operador de Maquina,Producao,Fabrica - Campinas,2019-08-24,2588.42,ativo
+VTX-619,Ana Rezende Siqueira,Operador de Maquina,Producao,Fabrica - Campinas,2024-12-25,2683.05,ativo
+VTX-620,Lino Amaral Pessoa,Operador de Maquina,Producao,Fabrica - Campinas,2022-05-21,2710.95,ativo
+VTX-621,Sergio Bahia Godoy,Operador de Maquina,Producao,Fabrica - Campinas,2025-10-03,2512.38,ativo
+VTX-622,Ivone Marques Santos,Operador de Maquina,Producao,Fabrica - Campinas,2023-11-25,2799.66,ferias
+VTX-623,Tania Pacheco Esteves,Operador de Maquina,Producao,Fabrica - Campinas,2025-11-02,2264.86,ativo
+VTX-624,Raimundo Meireles Amaral,Operador de Maquina,Producao,Fabrica - Campinas,2021-02-02,2593.67,ativo
+VTX-625,Solange Esteves Mota,Operador de Maquina,Producao,Fabrica - Campinas,2019-11-05,2510.38,ativo
+VTX-626,Rafael Jardim Keller,Operador de Maquina,Producao,Fabrica - Campinas,2025-10-18,2283.96,ativo
+VTX-627,Heraldo Coutinho Queiroz,Operador de Maquina,Producao,Fabrica - Campinas,2022-11-09,2442.76,ativo
+VTX-628,Ivone Mota Quaresma,Operador de Maquina,Producao,Fabrica - Campinas,2020-08-27,2611.79,ativo
+VTX-629,Maristela Ulhoa Lessa,Operador de Maquina,Producao,Fabrica - Campinas,2021-07-12,2707.25,ativo
+VTX-630,Francine Batista Coutinho,Operador de Maquina,Producao,Fabrica - Campinas,2019-04-04,2482.47,ativo
+VTX-631,Herica Batista Ornelas,Operador de Maquina,Producao,Fabrica - Campinas,2025-07-02,2253.58,ativo
+VTX-632,Quentin Henriques Ormonde,Operador de Maquina,Producao,Fabrica - Campinas,2021-11-17,2423.01,ativo
+VTX-633,Lucia Cardoso Cabral,Operador de Maquina,Producao,Fabrica - Campinas,2018-10-06,2719.84,ativo
+VTX-634,Nadia Vieira Cabral,Operador de Maquina,Producao,Fabrica - Campinas,2020-05-05,2500.29,ativo
+VTX-635,Vera Ruela Esteves,Operador de Maquina,Producao,Fabrica - Campinas,2022-10-18,2232.44,ativo
+VTX-636,Larissa Figueiredo Quaresma,Operador de Maquina,Producao,Fabrica - Campinas,2022-10-02,2792.31,ativo
+VTX-637,Irene Melo Jacobsen,Operador de Maquina,Producao,Fabrica - Campinas,2020-03-08,2667.36,ativo
+VTX-638,Beto Medeiros Jacobsen,Operador de Maquina,Producao,Fabrica - Campinas,2025-04-11,2234.81,ativo
+VTX-639,Roberto Pires Castro,Operador de Maquina,Producao,Fabrica - Campinas,2023-08-27,2671.13,ativo
+VTX-640,Karen Serrano Quadros,Operador de Maquina,Producao,Fabrica - Campinas,2022-09-08,2457.42,ativo
+VTX-641,Carlos Gomes Salles,Operador de Maquina,Producao,Fabrica - Campinas,2020-05-25,2638.4,ativo
+VTX-642,Leticia Ruela Mota,Operador de Maquina,Producao,Fabrica - Campinas,2018-05-13,2606.05,ativo
+VTX-643,Beatriz Rezende Rangel,Operador de Maquina,Producao,Fabrica - Campinas,2021-08-30,2277.36,ativo
+VTX-644,Valdeci Henriques Monteiro,Operador de Maquina,Producao,Fabrica - Campinas,2018-11-23,2694.31,ativo
+VTX-645,Sebastiao Yates Portela,Operador de Maquina,Producao,Fabrica - Campinas,2024-11-06,2514.47,ativo
+VTX-646,Ideraldo Teixeira Quaresma,Operador de Maquina,Producao,Fabrica - Campinas,2023-08-29,2415.55,ativo
+VTX-647,Tiago Rodrigues Brito,Operador de Maquina,Producao,Fabrica - Campinas,2020-09-04,2636.3,ativo
+VTX-648,Odair Ferreira Lessa,Operador de Maquina,Producao,Fabrica - Campinas,2020-01-22,2273.9,ativo
+VTX-649,Patricia Aguiar Vasconcelos,Operador de Maquina,Producao,Fabrica - Campinas,2024-02-28,2573.88,ativo
+VTX-650,Aline Machado Ferreira,Operador de Maquina,Producao,Fabrica - Campinas,2018-09-14,2613.85,ativo
+VTX-651,Omar Ramos Siqueira,Operador de Maquina,Producao,Fabrica - Campinas,2023-06-26,2621.12,ativo
+VTX-652,Ideraldo Oliveira Godoy,Operador de Maquina,Producao,Fabrica - Campinas,2022-11-18,2597.0,ativo
+VTX-653,Eliane Araujo Ormonde,Operador de Maquina,Producao,Fabrica - Campinas,2019-05-04,2506.95,ativo
+VTX-654,Gisele Freitas Machado,Operador de Maquina,Producao,Fabrica - Campinas,2023-09-29,2319.19,ativo
+VTX-655,Luiz Portela Figueiredo,Operador de Maquina,Producao,Fabrica - Campinas,2022-03-06,2622.06,ativo
+VTX-656,Lucas Jales Tavares,Operador de Maquina,Producao,Fabrica - Campinas,2025-11-17,2759.87,ativo
+VTX-657,Carlos Souza Nascimento,Operador de Maquina,Producao,Fabrica - Campinas,2019-05-27,2701.14,ativo
+VTX-658,Natalia Andrade Matos,Operador de Maquina,Producao,Fabrica - Campinas,2019-01-02,2634.14,ativo
+VTX-659,Leandro Nogueira Yates,Operador de Maquina,Producao,Fabrica - Campinas,2021-06-25,2358.48,ativo
+VTX-660,Gabriel Costa Benicio,Operador de Maquina,Producao,Fabrica - Campinas,2022-03-15,2680.96,ativo
+VTX-661,Patrick Freitas Moreira,Operador de Maquina,Producao,Fabrica - Campinas,2018-09-04,2205.8,ativo
+VTX-662,Denilson Pires Neves,Operador de Maquina,Producao,Fabrica - Campinas,2022-03-04,2736.72,ativo
+VTX-663,Eliane Andrade Zanini,Operador de Maquina,Producao,Fabrica - Campinas,2022-01-02,2309.72,ativo
+VTX-664,Celso Xavier Drummond,Operador de Maquina,Producao,Fabrica - Campinas,2025-11-24,2710.4,ativo
+VTX-665,Solange Monteiro Mendes,Operador de Maquina,Producao,Fabrica - Campinas,2019-08-25,2617.7,ativo
+VTX-666,Mateus Marques Navarro,Operador de Maquina,Producao,Fabrica - Campinas,2024-10-14,2489.6,ativo
+VTX-667,Elaine Batista Belem,Inspetor de Qualidade,Producao,Fabrica - Campinas,2022-03-08,3227.95,ativo
+VTX-668,Ieda Correia Falcao,Inspetor de Qualidade,Producao,Fabrica - Campinas,2023-08-21,2879.06,ativo
+VTX-669,Lucas Sousa Queiroz,Inspetor de Qualidade,Producao,Fabrica - Campinas,2025-07-04,3019.97,ativo
+VTX-670,Walkiria Quindere Rezende,Inspetor de Qualidade,Producao,Fabrica - Campinas,2025-09-03,3411.2,ativo
+VTX-671,Zilma Moreira Roque,Inspetor de Qualidade,Producao,Fabrica - Campinas,2025-08-01,3308.66,ativo
+VTX-672,Flavio Drummond Pinto,Inspetor de Qualidade,Producao,Fabrica - Campinas,2024-06-03,3424.44,ativo
+VTX-673,Ana Castro Lessa,Inspetor de Qualidade,Producao,Fabrica - Campinas,2023-06-05,3396.31,ativo
+VTX-674,Carolina Hazin Lorenz,Inspetor de Qualidade,Producao,Fabrica - Campinas,2020-11-11,3031.63,ativo
+VTX-675,Isaias Rezende Aguiar,Inspetor de Qualidade,Producao,Fabrica - Campinas,2022-09-07,3371.97,ativo
+VTX-676,Adilson Vasquez Nascimento,Inspetor de Qualidade,Producao,Fabrica - Campinas,2023-10-02,3112.95,ativo
+VTX-677,Heraldo Rodrigues Marques,Inspetor de Qualidade,Producao,Fabrica - Campinas,2022-09-08,3088.64,ativo
+VTX-678,Maria Andrade Godoy,Inspetor de Qualidade,Producao,Fabrica - Campinas,2023-11-12,3193.63,ativo
+VTX-679,Irene Quaresma Wendling,Inspetor de Qualidade,Producao,Fabrica - Campinas,2018-10-09,3371.61,ativo
+VTX-680,Monica Delgado Wendling,Inspetor de Qualidade,Producao,Fabrica - Campinas,2023-03-28,2879.82,ativo
+VTX-681,Yasmin Silva Quaresma,Inspetor de Qualidade,Producao,Fabrica - Campinas,2022-02-22,3380.92,ativo
+VTX-682,Heloisa Portela Zanini,Inspetor de Qualidade,Producao,Fabrica - Campinas,2019-05-10,2832.04,ativo
+VTX-683,Fernando Lago Machado,Inspetor de Qualidade,Producao,Fabrica - Campinas,2021-01-05,3227.6,ativo
+VTX-684,Samuel Fonseca Zago,Inspetor de Qualidade,Producao,Fabrica - Campinas,2020-04-19,3301.75,ativo
+VTX-685,Valdir Ribeiro Ramos,Inspetor de Qualidade,Producao,Fabrica - Campinas,2023-03-20,3120.17,ativo
+VTX-686,Rosana Teixeira Jales,Inspetor de Qualidade,Producao,Fabrica - Campinas,2018-03-18,3171.26,ativo
+VTX-687,Yago Falcao Matos,Inspetor de Qualidade,Producao,Fabrica - Campinas,2020-02-24,3284.27,ativo
+VTX-688,Eduardo Marques Fontes,Inspetor de Qualidade,Producao,Fabrica - Campinas,2025-07-15,3220.38,ativo
+VTX-689,Rosana Drummond Ormonde,Inspetor de Qualidade,Producao,Fabrica - Campinas,2024-12-28,3441.14,ativo
+VTX-690,Flavia Holanda Quaresma,Inspetor de Qualidade,Producao,Fabrica - Campinas,2021-06-17,3116.99,ativo
+VTX-691,Ubiratan Nepomuceno Esteves,Inspetor de Qualidade,Producao,Fabrica - Campinas,2024-04-21,3402.5,ativo
+VTX-692,Edilaine Fonseca Figueiredo,Inspetor de Qualidade,Producao,Fabrica - Campinas,2020-07-06,3236.92,afastado
+VTX-693,Kaio Correia Medeiros,Inspetor de Qualidade,Producao,Fabrica - Campinas,2023-10-24,3179.74,ativo
+VTX-694,Fabiola Freitas Tobias,Inspetor de Qualidade,Producao,Fabrica - Campinas,2024-06-20,3136.26,ativo
+VTX-695,Waldirene Navarro Salles,Inspetor de Qualidade,Producao,Fabrica - Campinas,2021-05-15,3414.23,ativo
+VTX-696,Jose Portela Machado,Inspetor de Qualidade,Producao,Fabrica - Campinas,2018-06-12,3066.61,ativo
+VTX-697,Rafael Figueiredo Coelho,Inspetor de Qualidade,Producao,Fabrica - Campinas,2019-12-20,3488.47,ativo
+VTX-698,Mariana Lopes Coutinho,Inspetor de Qualidade,Producao,Fabrica - Campinas,2020-06-13,3327.52,ativo
+VTX-699,Benedito Marques Rezende,Inspetor de Qualidade,Producao,Fabrica - Campinas,2025-06-02,3192.89,ativo
+VTX-700,Kevin Damasceno Martins,Inspetor de Qualidade,Producao,Fabrica - Campinas,2022-06-10,3071.29,ativo
+VTX-701,Xenia Jacobsen Carvalho,Inspetor de Qualidade,Producao,Fabrica - Campinas,2018-04-23,3320.57,ativo
+VTX-702,Vagner Urbano Rezende,Inspetor de Qualidade,Producao,Fabrica - Campinas,2025-04-08,3293.24,ativo
+VTX-703,Laudiceia Villela Cruz,Inspetor de Qualidade,Producao,Fabrica - Campinas,2020-05-01,3005.92,ativo
+VTX-704,Ideraldo Barbosa Duarte,Inspetor de Qualidade,Producao,Fabrica - Campinas,2020-02-10,3314.56,ativo
+VTX-705,Lucas Quadros Leite,Inspetor de Qualidade,Producao,Fabrica - Campinas,2024-05-27,2984.97,ativo
+VTX-706,Leandro Santos Neves,Inspetor de Qualidade,Producao,Fabrica - Campinas,2023-05-24,3296.78,ativo
+VTX-707,Daniel Lorenz Carvalho,Inspetor de Qualidade,Producao,Fabrica - Campinas,2025-03-05,3230.93,ativo
+VTX-708,Odete Ulhoa Vieira,Inspetor de Qualidade,Producao,Fabrica - Campinas,2021-09-22,3167.78,ativo
+VTX-709,Valdirene Fernandes Lessa,Inspetor de Qualidade,Producao,Fabrica - Campinas,2019-12-13,3091.15,ativo
+VTX-710,Eduarda Sampaio Guimaraes,Inspetor de Qualidade,Producao,Fabrica - Campinas,2020-07-21,3264.33,ativo
+VTX-711,Sebastiao Fonseca Ruela,Inspetor de Qualidade,Producao,Fabrica - Campinas,2023-06-28,3497.64,ativo
+VTX-712,Solange Oliveira Freitas,Inspetor de Qualidade,Producao,Fabrica - Campinas,2025-08-30,3042.21,ativo
+VTX-713,Denilson Lacerda Costa,Inspetor de Qualidade,Producao,Fabrica - Campinas,2025-10-25,3419.96,ativo
+VTX-714,Gustavo Drummond Vasconcelos,Inspetor de Qualidade,Producao,Fabrica - Campinas,2024-03-21,3306.78,ativo
+VTX-715,Kleber Zanini Nepomuceno,Inspetor de Qualidade,Producao,Fabrica - Campinas,2023-11-13,3111.89,ativo
+VTX-716,Emerson Borges Lorenz,Inspetor de Qualidade,Producao,Fabrica - Campinas,2023-12-04,2857.64,ativo
+VTX-717,Tulio Terres Salles,Inspetor de Qualidade,Producao,Fabrica - Campinas,2018-03-31,3238.85,ativo
+VTX-718,Beto Miranda Pessoa,Inspetor de Qualidade,Producao,Fabrica - Campinas,2019-04-30,2943.91,ativo
+VTX-719,Jucelia Serrano Vieira,Inspetor de Qualidade,Producao,Fabrica - Campinas,2025-11-09,2907.63,ativo
+VTX-720,Ivan Gomes Nascimento,Inspetor de Qualidade,Producao,Fabrica - Campinas,2018-12-26,2837.99,ativo
+VTX-721,Francine Vieira Brito,Inspetor de Qualidade,Producao,Fabrica - Campinas,2021-01-23,3085.34,ativo
+VTX-722,Tiago Roque Jacobsen,Inspetor de Qualidade,Producao,Fabrica - Campinas,2018-05-09,3072.65,ativo
+VTX-723,Carlos Sousa Ribeiro,Inspetor de Qualidade,Producao,Fabrica - Campinas,2018-12-23,3050.39,ativo
+VTX-724,Heloisa Godoy Nascimento,Inspetor de Qualidade,Producao,Fabrica - Campinas,2021-04-27,3335.69,ativo
+VTX-725,Samuel Pereira Delgado,Inspetor de Qualidade,Producao,Fabrica - Campinas,2019-12-01,3173.43,ativo
+VTX-726,Samuel Villela Coutinho,Inspetor de Qualidade,Producao,Fabrica - Campinas,2025-04-10,2900.85,ativo
+VTX-727,Ieda Zanini Oliveira,Inspetor de Qualidade,Producao,Fabrica - Campinas,2024-05-15,3412.34,ativo
+VTX-728,Lucas Santos Goncalves,Inspetor de Qualidade,Producao,Fabrica - Campinas,2024-03-09,3183.27,ativo
+VTX-729,Roberto Rangel Miranda,Inspetor de Qualidade,Producao,Fabrica - Campinas,2022-10-16,3433.94,ativo
+VTX-730,Mariana Campos Duarte,Inspetor de Qualidade,Producao,Fabrica - Campinas,2020-08-21,3231.82,ativo
+VTX-731,Gustavo Batista Carvalho,Inspetor de Qualidade,Producao,Fabrica - Campinas,2024-04-26,3122.89,ativo
+VTX-732,Heloisa Fernandes Siqueira,Inspetor de Qualidade,Producao,Fabrica - Campinas,2019-04-07,2938.19,ativo
+VTX-733,Monica Ulhoa Moraes,Inspetor de Qualidade,Producao,Fabrica - Campinas,2025-09-09,3258.83,ativo
+VTX-734,Ademar Fernandes Borges,Inspetor de Qualidade,Producao,Fabrica - Campinas,2021-09-22,3140.1,ativo
+VTX-735,Flavio Henriques Azevedo,Inspetor de Qualidade,Producao,Fabrica - Campinas,2024-07-03,3196.8,afastado
+VTX-736,Claudia Pires Santos,Inspetor de Qualidade,Producao,Fabrica - Campinas,2021-09-03,2972.32,ativo
+VTX-737,Patrick Serrano Amaral,Inspetor de Qualidade,Producao,Fabrica - Campinas,2022-03-12,2894.01,ativo
+VTX-738,Neide Abreu Vasquez,Inspetor de Qualidade,Producao,Fabrica - Campinas,2022-03-09,3342.34,ativo
+VTX-739,Leonardo Cunha Rocha,Inspetor de Qualidade,Producao,Fabrica - Campinas,2021-04-23,3401.1,ativo
+VTX-740,Moises Cruz Magalhaes,Inspetor de Qualidade,Producao,Fabrica - Campinas,2025-03-10,2853.52,ativo
+VTX-741,Joao Lessa Pereira,Inspetor de Qualidade,Producao,Fabrica - Campinas,2024-09-08,3205.23,ativo
+VTX-742,Wanessa Gomes Queiroz,Inspetor de Qualidade,Producao,Fabrica - Campinas,2024-04-04,3425.79,ativo
+VTX-743,Solange Pinto Wendling,Inspetor de Qualidade,Producao,Fabrica - Campinas,2022-07-25,2956.31,ativo
+VTX-744,Ieda Benicio Teixeira,Inspetor de Qualidade,Producao,Fabrica - Campinas,2023-05-17,3150.79,ativo
+VTX-745,Murilo Kaneto Oliveira,Inspetor de Qualidade,Producao,Fabrica - Campinas,2025-08-05,2967.22,ativo
+VTX-746,Miriam Monteiro Nepomuceno,Inspetor de Qualidade,Producao,Fabrica - Campinas,2019-09-26,3112.35,ativo
+VTX-747,Silvio Cavalcante Falcao,Auxiliar de Producao,Producao,Fabrica - Campinas,2022-03-09,2216.17,ativo
+VTX-748,Zilda Sousa Magalhaes,Auxiliar de Producao,Producao,Fabrica - Campinas,2022-04-22,2293.61,ativo
+VTX-749,Valdirene Valente Fontes,Auxiliar de Producao,Producao,Fabrica - Campinas,2023-06-06,2567.16,ativo
+VTX-750,Camila Lorenz Marques,Auxiliar de Producao,Producao,Fabrica - Campinas,2024-01-04,2453.43,ativo
+VTX-751,Patrick Magalhaes Villela,Auxiliar de Producao,Producao,Fabrica - Campinas,2024-07-22,2269.54,ativo
+VTX-752,Simone Barbosa Orsi,Auxiliar de Producao,Producao,Fabrica - Campinas,2020-12-25,2350.53,ativo
+VTX-753,Valdirene Jardim Tobias,Auxiliar de Producao,Producao,Fabrica - Campinas,2022-01-12,2394.74,ativo
+VTX-754,Xavier Santos Kaneto,Auxiliar de Producao,Producao,Fabrica - Campinas,2019-09-21,2375.96,ativo
+VTX-755,Jonas Leite Miranda,Auxiliar de Producao,Producao,Fabrica - Campinas,2019-11-06,2274.76,ativo
+VTX-756,Marcelo Cardoso Brito,Auxiliar de Producao,Producao,Fabrica - Campinas,2022-10-24,2524.47,ativo
+VTX-757,Neide Espinoza Espinoza,Auxiliar de Producao,Producao,Fabrica - Campinas,2020-07-11,2436.32,ativo
+VTX-758,Tais Ferreira Lacerda,Auxiliar de Producao,Producao,Fabrica - Campinas,2018-08-24,2251.15,ativo
+VTX-759,Larissa Nepomuceno Costa,Auxiliar de Producao,Producao,Fabrica - Campinas,2024-07-31,2258.75,ativo
+VTX-760,Ricardo Orsi Jardim,Auxiliar de Producao,Producao,Fabrica - Campinas,2024-11-18,2587.7,ativo
+VTX-761,Herica Pacheco Dias,Auxiliar de Producao,Producao,Fabrica - Campinas,2020-08-04,2379.68,ativo
+VTX-762,Neide Pires Guimaraes,Auxiliar de Producao,Producao,Fabrica - Campinas,2022-10-08,2440.34,ativo
+VTX-763,Naira Batista Matos,Auxiliar de Producao,Producao,Fabrica - Campinas,2021-02-16,2267.09,ativo
+VTX-764,Irene Fernandes Brito,Auxiliar de Producao,Producao,Fabrica - Campinas,2022-05-28,2354.18,afastado
+VTX-765,Renato Portela Lessa,Auxiliar de Producao,Producao,Fabrica - Campinas,2025-11-02,2367.92,ativo
+VTX-766,Rodrigo Medeiros Delgado,Auxiliar de Producao,Producao,Fabrica - Campinas,2025-01-21,2439.93,ativo
+VTX-767,Aparecida Kaneto Cardoso,Auxiliar de Producao,Producao,Fabrica - Campinas,2019-03-17,2392.9,ativo
+VTX-768,Xavier Uchoa Silva,Auxiliar de Producao,Producao,Fabrica - Campinas,2025-10-09,2459.69,ativo
+VTX-769,Tania Ribeiro Ruela,Auxiliar de Producao,Producao,Fabrica - Campinas,2022-12-22,2291.79,ativo
+VTX-770,Naira Belem Sampaio,Auxiliar de Producao,Producao,Fabrica - Campinas,2024-10-07,2521.85,ativo
+VTX-771,Estela Nunes Pessoa,Auxiliar de Producao,Producao,Fabrica - Campinas,2019-08-31,2301.81,ativo
+VTX-772,Daniela Pacheco Villela,Auxiliar de Producao,Producao,Fabrica - Campinas,2022-09-29,2303.12,ativo
+VTX-773,Quentin Santos Portela,Auxiliar de Producao,Producao,Fabrica - Campinas,2019-06-26,2407.9,ativo
+VTX-774,Roberto Jacobsen Lago,Auxiliar de Producao,Producao,Fabrica - Campinas,2022-03-23,2242.63,ativo
+VTX-775,Ulisses Siqueira Queiroz,Auxiliar de Producao,Producao,Fabrica - Campinas,2024-03-04,2369.42,ativo
+VTX-776,Raimundo Holanda Amorim,Auxiliar de Producao,Producao,Fabrica - Campinas,2022-10-18,2420.84,ativo
+VTX-777,Rafaela Yunes Falcao,Auxiliar de Producao,Producao,Fabrica - Campinas,2021-01-03,2595.4,ativo
+VTX-778,Odaleia Holanda Araujo,Auxiliar de Producao,Producao,Fabrica - Campinas,2025-07-22,2247.63,ativo
+VTX-779,Kevin Campos Nunes,Auxiliar de Producao,Producao,Fabrica - Campinas,2020-07-26,2403.34,ativo
+VTX-780,Edilaine Carvalho Campos,Auxiliar de Producao,Producao,Fabrica - Campinas,2022-07-11,2585.83,ativo
+VTX-781,Diego Cavalcante Cabral,Auxiliar de Producao,Producao,Fabrica - Campinas,2024-11-22,2374.15,ativo
+VTX-782,Wilson Yunes Rocha,Auxiliar de Producao,Producao,Fabrica - Campinas,2024-12-28,2215.1,ativo
+VTX-783,Tiago Portela Damasceno,Auxiliar de Producao,Producao,Fabrica - Campinas,2024-11-11,2222.99,ativo
+VTX-784,Rafaela Iunes Trindade,Auxiliar de Producao,Producao,Fabrica - Campinas,2018-04-13,2280.68,ativo
+VTX-785,Valdirene Damasceno Borges,Auxiliar de Producao,Producao,Fabrica - Campinas,2018-07-16,2513.58,ativo
+VTX-786,Estela Nogueira Pires,Auxiliar de Producao,Producao,Fabrica - Campinas,2025-09-20,2214.42,ativo
+VTX-787,Carlos Castro Nascimento,Auxiliar de Producao,Producao,Fabrica - Campinas,2021-04-04,2511.87,ativo
+VTX-788,Samuel Jardim Figueiredo,Auxiliar de Producao,Producao,Fabrica - Campinas,2023-12-20,2206.15,ativo
+VTX-789,Eduarda Pacheco Sampaio,Auxiliar de Producao,Producao,Fabrica - Campinas,2022-01-22,2585.32,ativo
+VTX-790,Xavier Borges Yates,Auxiliar de Producao,Producao,Fabrica - Campinas,2022-09-10,2429.96,ativo
+VTX-791,Ubiratan Lessa Machado,Auxiliar de Producao,Producao,Fabrica - Campinas,2024-06-05,2228.95,ativo
+VTX-792,Gustavo Nepomuceno Vasconcelos,Auxiliar de Producao,Producao,Fabrica - Campinas,2024-03-12,2525.26,ativo
+VTX-793,Zilma Urbano Aguiar,Auxiliar de Producao,Producao,Fabrica - Campinas,2024-06-23,2393.45,ativo
+VTX-794,Julio Zago Zago,Auxiliar de Producao,Producao,Fabrica - Campinas,2024-09-28,2544.81,ativo
+VTX-795,Luiz Fernandes Belem,Auxiliar de Producao,Producao,Fabrica - Campinas,2025-04-08,2515.46,ativo
+VTX-796,Kevin Brito Jacobsen,Auxiliar de Producao,Producao,Fabrica - Campinas,2022-10-15,2582.18,ativo
+VTX-797,Ana Magalhaes Prado,Auxiliar de Producao,Producao,Fabrica - Campinas,2021-05-20,2237.2,ativo
+VTX-798,Noemi Barbosa Medeiros,Auxiliar de Producao,Producao,Fabrica - Campinas,2023-07-04,2325.55,ativo
+VTX-799,Tomas Coelho Batista,Auxiliar de Producao,Producao,Fabrica - Campinas,2025-10-28,2572.1,ativo
+VTX-800,Patrick Figueiredo Simoes,Auxiliar de Producao,Producao,Fabrica - Campinas,2020-11-16,2549.1,ativo
+VTX-801,Renato Prado Ulhoa,Auxiliar de Producao,Producao,Fabrica - Campinas,2019-11-29,2511.58,ativo
+VTX-802,Andre Iunes Santos,Auxiliar de Producao,Producao,Fabrica - Campinas,2024-03-26,2583.2,ativo
+VTX-803,Tania Jacobsen Iunes,Auxiliar de Producao,Producao,Fabrica - Campinas,2024-08-09,2547.51,ativo
+VTX-804,Sinval Matos Leite,Auxiliar de Producao,Producao,Fabrica - Campinas,2022-08-16,2288.84,ativo
+VTX-805,Aline Quindere Pessoa,Auxiliar de Producao,Producao,Fabrica - Campinas,2023-07-12,2575.86,ativo
+VTX-806,Kaio Goncalves Cunha,Auxiliar de Producao,Producao,Fabrica - Campinas,2023-04-16,2590.6,ativo
+VTX-807,Irene Jacobsen Oliveira,Auxiliar de Producao,Producao,Fabrica - Campinas,2018-04-18,2469.64,ativo
+VTX-808,Rodrigo Meireles Valente,Auxiliar de Producao,Producao,Fabrica - Campinas,2025-01-12,2544.74,ativo
+VTX-809,Luiz Simoes Coelho,Auxiliar de Producao,Producao,Fabrica - Campinas,2023-06-13,2583.41,ativo
+VTX-810,Ricardo Jales Pessoa,Auxiliar de Producao,Producao,Fabrica - Campinas,2020-07-10,2367.64,ativo
+VTX-811,Simone Inocencio Leite,Auxiliar de Producao,Producao,Fabrica - Campinas,2023-03-21,2271.96,ativo
+VTX-812,Tomas Brito Nunes,Auxiliar de Producao,Producao,Fabrica - Campinas,2021-03-10,2521.64,ativo
+VTX-813,Vera Cruz Cavalcante,Auxiliar de Producao,Producao,Fabrica - Campinas,2019-11-03,2389.19,ativo
+VTX-814,Valdir Jales Teixeira,Auxiliar de Producao,Producao,Fabrica - Campinas,2025-03-27,2406.8,ativo
+VTX-815,Odete Esteves Siqueira,Auxiliar de Producao,Producao,Fabrica - Campinas,2024-06-19,2543.4,ativo
+VTX-816,Rodrigo Campos Lopes,Auxiliar de Producao,Producao,Fabrica - Campinas,2020-07-30,2525.53,ativo
+VTX-817,Beto Moreira Werneck,Auxiliar de Producao,Producao,Fabrica - Campinas,2021-11-30,2303.91,ativo
+VTX-818,Reinaldo Vasconcelos Rangel,Auxiliar de Producao,Producao,Fabrica - Campinas,2018-05-21,2364.7,ativo
+VTX-819,Haroldo Cruz Terres,Auxiliar de Producao,Producao,Fabrica - Campinas,2020-02-13,2591.75,ativo
+VTX-820,Igor Matos Greco,Auxiliar de Producao,Producao,Fabrica - Campinas,2023-03-05,2555.85,ativo
+VTX-821,Francisco Abreu Cavalcante,Auxiliar de Producao,Producao,Fabrica - Campinas,2020-01-16,2456.23,ativo
+VTX-822,Viviane Jardim Vieira,Auxiliar de Producao,Producao,Fabrica - Campinas,2019-01-19,2264.8,ativo
+VTX-823,Alan Benicio Coelho,Auxiliar de Producao,Producao,Fabrica - Campinas,2024-12-13,2457.86,ativo
+VTX-824,Adilson Valente Portela,Auxiliar de Producao,Producao,Fabrica - Campinas,2023-03-19,2365.6,ativo
+VTX-825,Joao Moraes Simoes,Auxiliar de Producao,Producao,Fabrica - Campinas,2025-08-02,2300.66,ativo
+VTX-826,Keli Rocha Tavares,Auxiliar de Producao,Producao,Fabrica - Campinas,2020-01-13,2358.82,ativo
+VTX-827,Elton Carvalho Alves,Auxiliar de Producao,Producao,Fabrica - Campinas,2022-08-13,2409.59,ativo
+VTX-828,Helena Magalhaes Azevedo,Auxiliar de Producao,Producao,Fabrica - Campinas,2019-02-09,2461.93,ativo
+VTX-829,Joana Brito Prado,Auxiliar de Producao,Producao,Fabrica - Campinas,2021-05-07,2377.26,ativo
+VTX-830,Laercio Pires Pereira,Auxiliar de Producao,Producao,Fabrica - Campinas,2018-07-22,2465.42,ativo
+VTX-831,Leticia Delgado Bahia,Auxiliar de Producao,Producao,Fabrica - Campinas,2024-03-23,2573.94,ativo
+VTX-832,Larissa Uchoa Medeiros,Auxiliar de Producao,Producao,Fabrica - Campinas,2024-10-15,2439.03,ativo
+VTX-833,Queila Serrano Quindere,Auxiliar de Producao,Producao,Fabrica - Campinas,2025-05-03,2455.81,ativo
+VTX-834,Kaio Falcao Uchoa,Auxiliar de Producao,Producao,Fabrica - Campinas,2020-09-16,2521.88,ativo
+VTX-835,Murilo Macedo Queiroz,Auxiliar de Producao,Producao,Fabrica - Campinas,2019-11-28,2321.43,ativo
+VTX-836,Sinval Teixeira Rangel,Auxiliar de Producao,Producao,Fabrica - Campinas,2021-05-18,2387.68,ativo
+VTX-837,Gilberto Espinoza Esteves,Auxiliar de Producao,Producao,Fabrica - Campinas,2018-04-07,2506.35,ativo
+VTX-838,Keila Nogueira Santos,Auxiliar de Producao,Producao,Fabrica - Campinas,2024-04-23,2349.46,ativo
+VTX-839,Reinaldo Serrano Holanda,Auxiliar de Producao,Producao,Fabrica - Campinas,2020-12-18,2265.31,ativo
+VTX-840,Luciana Aguiar Guimaraes,Auxiliar de Producao,Producao,Fabrica - Campinas,2021-02-10,2231.68,ativo
+VTX-841,Valdirene Xavier Pacheco,Auxiliar de Producao,Producao,Fabrica - Campinas,2025-06-08,2497.17,ativo
+VTX-842,Tais Mota Fernandes,Auxiliar de Producao,Producao,Fabrica - Campinas,2020-03-17,2254.65,ativo
+VTX-843,Celso Werneck Xavier,Auxiliar de Producao,Producao,Fabrica - Campinas,2025-02-22,2396.8,ativo
+VTX-844,Daniel Martins Salles,Auxiliar de Producao,Producao,Fabrica - Campinas,2018-05-30,2274.38,ativo
+VTX-845,Antonio Moraes Trindade,Auxiliar de Producao,Producao,Fabrica - Campinas,2018-04-03,2293.12,ativo
+VTX-846,Heraldo Fonseca Quaresma,Auxiliar de Producao,Producao,Fabrica - Campinas,2022-11-16,2324.63,ativo
+VTX-847,Tania Abreu Lima,Auxiliar de Producao,Producao,Fabrica - Campinas,2021-11-12,2232.09,ativo
+VTX-848,Mariana Almeida Coelho,Auxiliar de Producao,Producao,Fabrica - Campinas,2022-07-25,2228.55,ativo
+VTX-849,Henrique Siqueira Belem,Auxiliar de Producao,Producao,Fabrica - Campinas,2018-04-21,2248.78,ativo
+VTX-850,Beatriz Drummond Urbano,Auxiliar de Producao,Producao,Fabrica - Campinas,2020-12-07,2495.05,ativo
+VTX-851,Celso Moreira Portela,Auxiliar de Producao,Producao,Fabrica - Campinas,2025-08-18,2592.85,ativo
+VTX-852,Ideraldo Iglesias Lorenz,Auxiliar de Producao,Producao,Fabrica - Campinas,2019-12-10,2451.67,ativo
+VTX-853,Osvaldo Portela Ramos,Auxiliar de Producao,Producao,Fabrica - Campinas,2021-01-01,2392.49,ativo
+VTX-854,Murilo Carvalho Fonseca,Auxiliar de Producao,Producao,Fabrica - Campinas,2019-06-06,2294.39,ativo
+VTX-855,Jose Monteiro Amaral,Auxiliar de Producao,Producao,Fabrica - Campinas,2024-09-19,2247.86,ativo
+VTX-856,Ana Costa Delgado,Auxiliar de Producao,Producao,Fabrica - Campinas,2025-11-18,2438.48,ativo
+VTX-857,Diego Prado Castro,Auxiliar de Producao,Producao,Fabrica - Campinas,2023-10-08,2236.56,ativo
+VTX-858,Milena Lopes Lopes,Auxiliar de Producao,Producao,Fabrica - Campinas,2022-02-24,2457.83,ativo
+VTX-859,Helena Moraes Greco,Auxiliar de Producao,Producao,Fabrica - Campinas,2020-10-09,2326.7,ativo
+VTX-860,Roseli Rangel Trindade,Auxiliar de Producao,Producao,Fabrica - Campinas,2020-04-29,2208.54,ativo
+VTX-861,Natan Teixeira Siqueira,Auxiliar de Producao,Producao,Fabrica - Campinas,2018-08-09,2394.12,ativo
+VTX-862,Sebastiao Uchoa Hazin,Auxiliar de Producao,Producao,Fabrica - Campinas,2020-04-16,2426.68,ativo
+VTX-863,Leticia Bahia Amaral,Auxiliar de Producao,Producao,Fabrica - Campinas,2024-11-16,2565.79,afastado
+VTX-864,Bruna Ruela Azevedo,Auxiliar de Producao,Producao,Fabrica - Campinas,2023-03-15,2318.27,ativo
+VTX-865,Murilo Yates Silva,Auxiliar de Producao,Producao,Fabrica - Campinas,2025-04-26,2402.38,ativo
+VTX-866,Fernanda Wendling Assis,Auxiliar de Producao,Producao,Fabrica - Campinas,2021-10-04,2488.4,ativo
+VTX-867,Aparecida Fontes Mota,Auxiliar de Producao,Producao,Fabrica - Campinas,2024-01-15,2473.29,ativo
+VTX-868,Natalia Pacheco Lorenz,Auxiliar de Producao,Producao,Fabrica - Campinas,2022-10-04,2456.36,ativo
+VTX-869,Kleber Fernandes Ribeiro,Auxiliar de Producao,Producao,Fabrica - Campinas,2019-08-14,2271.46,ativo
+VTX-870,Leonardo Greco Borges,Auxiliar de Producao,Producao,Fabrica - Campinas,2019-04-09,2212.73,ativo
+VTX-871,Luciana Hazin Quindere,Auxiliar de Producao,Producao,Fabrica - Campinas,2025-02-27,2480.53,ativo
+VTX-872,Murilo Guimaraes Vieira,Auxiliar de Producao,Producao,Fabrica - Campinas,2018-04-23,2572.08,ativo
+VTX-873,Gilberto Rocha Bahia,Auxiliar de Producao,Producao,Fabrica - Campinas,2025-04-30,2224.28,ativo
+VTX-874,Viviane Yunes Almeida,Auxiliar de Producao,Producao,Fabrica - Campinas,2025-01-29,2306.33,ativo
+VTX-875,Bruno Godoy Barbosa,Auxiliar de Producao,Producao,Fabrica - Campinas,2020-08-01,2584.23,ativo
+VTX-876,Natan Nogueira Salles,Auxiliar de Producao,Producao,Fabrica - Campinas,2022-06-26,2275.78,ativo
+VTX-877,Beatriz Medeiros Navarro,Auxiliar de Producao,Producao,Fabrica - Campinas,2019-05-07,2506.51,ativo
+VTX-878,Walkiria Zago Quadros,Auxiliar de Producao,Producao,Fabrica - Campinas,2019-05-01,2266.72,ativo
+VTX-879,Tiago Lessa Pimenta,Auxiliar de Producao,Producao,Fabrica - Campinas,2025-07-15,2263.27,ativo
+VTX-880,Elaine Tobias Jacobsen,Auxiliar de Producao,Producao,Fabrica - Campinas,2024-05-01,2596.59,ativo
+VTX-881,Nelson Macedo Roque,Auxiliar de Producao,Producao,Fabrica - Campinas,2021-10-15,2443.37,ativo
+VTX-882,Wanessa Aguiar Vasconcelos,Auxiliar de Producao,Producao,Fabrica - Campinas,2022-03-14,2584.66,ativo
+VTX-883,Samuel Silva Lima,Auxiliar de Producao,Producao,Fabrica - Campinas,2021-05-09,2438.31,ativo
+VTX-884,Ingrid Santos Esteves,Auxiliar de Producao,Producao,Fabrica - Campinas,2020-08-25,2285.93,ativo
+VTX-885,Tulio Amaral Matos,Auxiliar de Producao,Producao,Fabrica - Campinas,2024-05-26,2428.27,ativo
+VTX-886,Gabriela Gomes Zago,Auxiliar de Producao,Producao,Fabrica - Campinas,2022-02-24,2262.44,ativo
+VTX-887,Ulisses Prado Nogueira,Auxiliar de Producao,Producao,Fabrica - Campinas,2021-01-13,2524.43,ativo
+VTX-888,Tiago Fonseca Barbosa,Auxiliar de Producao,Producao,Fabrica - Campinas,2021-10-20,2517.16,ativo
+VTX-889,Jair Moreira Esteves,Auxiliar de Producao,Producao,Fabrica - Campinas,2018-08-01,2492.32,ativo
+VTX-890,Daniela Almeida Ornelas,Auxiliar de Producao,Producao,Fabrica - Campinas,2022-01-24,2551.92,ativo
+VTX-891,Alexandre Brito Oliveira,Auxiliar de Producao,Producao,Fabrica - Campinas,2025-04-09,2510.97,ativo
+VTX-892,Otavio Quindere Costa,Auxiliar de Producao,Producao,Fabrica - Campinas,2021-09-28,2415.97,ativo
+VTX-893,Isaias Guimaraes Azevedo,Auxiliar de Producao,Producao,Fabrica - Campinas,2018-09-23,2469.45,ativo
+VTX-894,Giovana Lessa Andrade,Auxiliar de Producao,Producao,Fabrica - Campinas,2020-08-26,2372.77,ativo
+VTX-895,Mariana Correia Pimenta,Auxiliar de Producao,Producao,Fabrica - Campinas,2019-02-02,2390.34,ativo
+VTX-896,Edilaine Inocencio Magalhaes,Auxiliar de Producao,Producao,Fabrica - Campinas,2019-02-12,2359.41,ativo
+VTX-897,Kevin Correia Teixeira,Auxiliar de Producao,Producao,Fabrica - Campinas,2023-07-22,2423.72,ativo
+VTX-898,Emerson Cruz Quindere,Auxiliar de Producao,Producao,Fabrica - Campinas,2020-12-03,2296.93,ativo
+VTX-899,Yago Lorenz Nascimento,Auxiliar de Producao,Producao,Fabrica - Campinas,2019-06-04,2468.7,ativo
+VTX-900,Kaio Mota Lorenz,Auxiliar de Producao,Producao,Fabrica - Campinas,2022-01-10,2437.55,ativo
+VTX-901,Otavio Pires Sampaio,Auxiliar de Producao,Producao,Fabrica - Campinas,2025-01-27,2528.63,ativo
+VTX-902,Nadia Cavalcante Trindade,Auxiliar de Producao,Producao,Fabrica - Campinas,2018-08-31,2569.69,ativo
+VTX-903,Ideraldo Zanini Azevedo,Auxiliar de Producao,Producao,Fabrica - Campinas,2019-02-15,2244.95,ativo
+VTX-904,Ademar Cavalcante Damasceno,Auxiliar de Producao,Producao,Fabrica - Campinas,2018-04-26,2337.31,ativo
+VTX-905,Joana Werneck Cabral,Auxiliar de Producao,Producao,Fabrica - Campinas,2018-06-02,2332.75,ativo
+VTX-906,Wanessa Amorim Villela,Auxiliar de Producao,Producao,Fabrica - Campinas,2024-01-12,2500.14,ativo
+VTX-907,Nadia Melo Rodrigues,Coordenador de Logistica,Logistica,CD - Sao Paulo,2022-05-21,7166.01,ativo
+VTX-908,Camila Vasconcelos Pires,Analista de Logistica,Logistica,CD - Sao Paulo,2018-11-02,5068.03,ativo
+VTX-909,Nadia Xavier Carvalho,Analista de Logistica,Logistica,CD - Sao Paulo,2023-05-18,5809.52,ativo
+VTX-910,Pablo Xavier Valente,Analista de Logistica,Logistica,CD - Sao Paulo,2019-05-16,4538.16,ativo
+VTX-911,Solange Drummond Nogueira,Analista de Logistica,Logistica,CD - Sao Paulo,2022-06-07,5517.08,ativo
+VTX-912,Katia Greco Salles,Assistente de Logistica,Logistica,CD - Sao Paulo,2019-02-24,2986.42,ativo
+VTX-913,Irene Ferreira Costa,Assistente de Logistica,Logistica,CD - Sao Paulo,2020-12-08,3722.27,ativo
+VTX-914,Gilberto Goncalves Castro,Assistente de Logistica,Logistica,CD - Sao Paulo,2018-05-15,3146.78,ativo
+VTX-915,Beto Godoy Simoes,Assistente de Logistica,Logistica,CD - Sao Paulo,2023-10-14,3075.88,ativo
+VTX-916,Leandro Fontes Pereira,Operador de CD,Logistica,CD - Sao Paulo,2024-05-21,3164.38,ativo
+VTX-917,Julio Goncalves Araujo,Operador de CD,Logistica,CD - Sao Paulo,2019-02-23,3010.92,ativo
+VTX-918,Walkiria Brito Navarro,Operador de CD,Logistica,CD - Sao Paulo,2020-11-09,2901.03,ativo
+VTX-919,Otavio Neves Vasquez,Operador de CD,Logistica,CD - Sao Paulo,2024-03-29,2592.24,ativo
+VTX-920,Ivone Uchoa Figueiredo,Operador de CD,Logistica,CD - Sao Paulo,2019-09-17,2716.3,ativo
+VTX-921,Zelia Teixeira Roque,Auxiliar de Armazem,Logistica,CD - Sao Paulo,2019-10-16,2593.74,ativo
+VTX-922,Olivia Keller Fernandes,Auxiliar de Armazem,Logistica,CD - Sao Paulo,2024-05-30,2519.78,ativo
+VTX-923,Sandra Keller Cavalcante,Auxiliar de Armazem,Logistica,CD - Sao Paulo,2018-06-29,2659.26,ativo
+VTX-924,Tais Macedo Godoy,Auxiliar de Armazem,Logistica,CD - Sao Paulo,2023-02-17,2647.37,ativo
+VTX-925,Queila Amaral Pinto,Coordenador de Logistica,Logistica,CD - Curitiba,2020-04-08,6213.54,ativo
+VTX-926,Sinval Coelho Nogueira,Analista de Logistica,Logistica,CD - Curitiba,2024-11-06,4964.37,ativo
+VTX-927,Roberta Rocha Espinoza,Analista de Logistica,Logistica,CD - Curitiba,2019-09-01,5504.65,ativo
+VTX-928,Geni Zanini Duarte,Assistente de Logistica,Logistica,CD - Curitiba,2022-07-05,3291.45,ativo
+VTX-929,Henrique Rezende Lima,Assistente de Logistica,Logistica,CD - Curitiba,2022-09-29,3564.54,ativo
+VTX-930,Antonio Macedo Guimaraes,Assistente de Logistica,Logistica,CD - Curitiba,2025-09-09,3788.24,ativo
+VTX-931,Bruna Medeiros Trindade,Operador de CD,Logistica,CD - Curitiba,2025-01-30,2842.96,ativo
+VTX-932,Celso Prado Quadros,Operador de CD,Logistica,CD - Curitiba,2022-09-14,3043.35,ativo
+VTX-933,Vera Jacobsen Goncalves,Operador de CD,Logistica,CD - Curitiba,2025-01-07,3157.4,ativo
+VTX-934,Aparecida Quindere Gomes,Operador de CD,Logistica,CD - Curitiba,2024-01-01,2576.52,ativo
+VTX-935,Lucas Lacerda Orsi,Auxiliar de Armazem,Logistica,CD - Curitiba,2024-03-12,2437.37,ativo
+VTX-936,Francine Fontes Orsi,Auxiliar de Armazem,Logistica,CD - Curitiba,2025-03-27,2777.56,ativo
+VTX-937,Adilson Holanda Godoy,Gerente de Marketing,Marketing,Sede - SP,2021-05-15,12922.69,ativo
+VTX-938,Zacarias Carvalho Orsi,Coordenador de Marketing,Marketing,Sede - SP,2019-10-04,8927.16,ativo
+VTX-939,Eduarda Kaneto Mendes,Coordenador de Marketing,Marketing,Sede - SP,2020-03-06,9557.46,ativo
+VTX-940,Estela Villela Teixeira,Analista de Marketing Senior,Marketing,Sede - SP,2022-07-28,7827.12,ativo
+VTX-941,Gabriel Yates Figueiredo,Analista de Marketing Senior,Marketing,Sede - SP,2023-04-06,7180.36,ativo
+VTX-942,Emerson Campos Ramos,Analista de Marketing Senior,Marketing,Sede - SP,2019-03-09,7228.33,ativo
+VTX-943,Murilo Dias Quindere,Analista de Marketing,Marketing,Sede - SP,2022-06-21,6453.75,ativo
+VTX-944,Miriam Castro Aguiar,Analista de Marketing,Marketing,Sede - SP,2024-05-02,5761.21,ativo
+VTX-945,Monica Pinto Campos,Analista de Marketing,Marketing,Sede - SP,2019-10-14,5357.73,ativo
+VTX-946,Viviane Henriques Iglesias,Analista de Marketing,Marketing,Sede - SP,2023-03-02,5577.56,ativo
+VTX-947,Eduardo Figueiredo Silva,Designer Grafico,Marketing,Sede - SP,2025-02-22,6913.49,ativo
+VTX-948,Heraldo Jales Villela,Designer Grafico,Marketing,Sede - SP,2018-03-24,6519.96,ativo
+VTX-949,Sergio Delgado Yates,Designer Grafico,Marketing,Sede - SP,2022-10-05,6104.69,ativo
+VTX-950,Maria Lacerda Leite,Social Media,Marketing,Sede - SP,2025-02-10,5442.95,ativo
+VTX-951,Vanessa Martins Duarte,Social Media,Marketing,Sede - SP,2019-10-29,4582.6,ativo
+VTX-952,Thiago Lima Esteves,Social Media,Marketing,Sede - SP,2021-11-16,5880.58,ativo
+VTX-953,Valdir Medeiros Campos,Assistente de Marketing,Marketing,Sede - SP,2025-09-12,3426.57,ativo
+VTX-954,Estela Medeiros Yates,Assistente de Marketing,Marketing,Sede - SP,2024-08-27,3540.28,ativo
+VTX-955,Tulio Esteves Lorenz,Gerente de TI,TI,Sede - SP,2022-04-18,17692.59,ativo
+VTX-956,Milena Quadros Sousa,Analista de TI Senior,TI,Sede - SP,2021-06-12,13883.27,ativo
+VTX-957,Raimundo Neves Quindere,Analista de TI Senior,TI,Sede - SP,2022-10-20,14098.58,ativo
+VTX-958,Miriam Almeida Machado,Analista de TI Senior,TI,Sede - SP,2024-07-27,14918.91,ativo
+VTX-959,Eduarda Falcao Damasceno,Analista de TI Senior,TI,Sede - SP,2022-12-14,14435.38,ativo
+VTX-960,Laercio Tobias Correia,Desenvolvedor Senior,TI,Sede - SP,2025-01-19,14250.54,afastado
+VTX-961,Orlanda Jales Iunes,Desenvolvedor Senior,TI,Sede - SP,2020-03-06,15534.65,ativo
+VTX-962,Sebastiao Borges Silva,Desenvolvedor Senior,TI,Sede - SP,2019-06-28,12095.95,ativo
+VTX-963,Jessica Tavares Navarro,Analista de TI Pleno,TI,Sede - SP,2022-10-21,8136.48,ativo
+VTX-964,Cristiano Miranda Oliveira,Analista de TI Pleno,TI,Sede - SP,2025-05-06,8603.56,ativo
+VTX-965,Felipe Henriques Esteves,Analista de TI Pleno,TI,Sede - SP,2023-11-05,9649.98,ativo
+VTX-966,Isabela Ornelas Quaresma,Analista de TI Pleno,TI,Sede - SP,2022-08-09,10173.19,ativo
+VTX-967,Juliana Cunha Borges,Desenvolvedor Pleno,TI,Sede - SP,2021-11-13,10501.48,ativo
+VTX-968,Neide Delgado Gomes,Desenvolvedor Pleno,TI,Sede - SP,2025-05-27,8407.26,ativo
+VTX-969,Celso Terres Ornelas,Desenvolvedor Pleno,TI,Sede - SP,2023-05-08,10351.97,ativo
+VTX-970,Quentin Almeida Portela,Analista de TI Junior,TI,Sede - SP,2021-07-09,6694.83,ativo
+VTX-971,Francine Terres Rodrigues,Analista de TI Junior,TI,Sede - SP,2020-07-01,6732.19,ativo
+VTX-972,Lucio Sousa Pinto,Analista de TI Junior,TI,Sede - SP,2021-04-22,7522.22,ativo
+VTX-973,Omar Salles Monteiro,Suporte Tecnico,TI,Sede - SP,2024-07-25,5211.38,ativo
+VTX-974,Gustavo Henriques Jacobsen,Suporte Tecnico,TI,Sede - SP,2018-07-08,4542.99,ativo
+VTX-975,Marcio Zanini Werneck,Gerente Financeiro,Financeiro,Sede - SP,2021-07-22,12648.42,ativo
+VTX-976,Gustavo Zanini Gomes,Coordenador Financeiro,Financeiro,Sede - SP,2020-06-05,10740.06,ativo
+VTX-977,Pedro Falcao Kaneto,Analista Financeiro Senior,Financeiro,Sede - SP,2019-11-22,7380.42,ativo
+VTX-978,Ieda Quindere Iglesias,Analista Financeiro Senior,Financeiro,Sede - SP,2021-10-31,7286.59,ativo
+VTX-979,Valdirene Correia Amorim,Analista Financeiro,Financeiro,Sede - SP,2018-07-28,5918.74,ativo
+VTX-980,Valdirene Freitas Santos,Analista Financeiro,Financeiro,Sede - SP,2021-08-25,6864.67,ativo
+VTX-981,Keila Nascimento Ornelas,Analista Financeiro,Financeiro,Sede - SP,2023-05-26,6778.37,ativo
+VTX-982,Tulio Iglesias Ferreira,Assistente Financeiro,Financeiro,Sede - SP,2024-08-21,4137.74,ativo
+VTX-983,Vanessa Lorenz Figueiredo,Assistente Financeiro,Financeiro,Sede - SP,2020-04-27,3429.85,ativo
+VTX-984,Naira Trindade Cardoso,Auxiliar Financeiro,Financeiro,Sede - SP,2021-03-21,2649.32,ativo
+VTX-985,Jose Nepomuceno Marques,Gerente de RH,RH,Sede - SP,2020-06-24,12627.59,ativo
+VTX-986,Eliane Melo Pacheco,Coordenador de RH,RH,Sede - SP,2024-08-07,7489.65,ativo
+VTX-987,Zacarias Pimenta Uchoa,Analista de RH Senior,RH,Sede - SP,2023-02-20,5601.45,ativo
+VTX-988,Haroldo Martins Machado,Analista de RH Senior,RH,Sede - SP,2022-06-19,5607.6,ativo
+VTX-989,Gabriel Vasquez Ulhoa,Analista de RH,RH,Sede - SP,2021-08-31,4664.66,ativo
+VTX-990,Sinval Salles Rocha,Analista de RH,RH,Sede - SP,2023-05-21,5135.58,ativo
+VTX-991,Kevin Bahia Moreira,Assistente de RH,RH,Sede - SP,2023-04-10,3465.59,ativo
+VTX-992,Naira Bahia Cabral,Assistente de RH,RH,Sede - SP,2020-10-05,4421.17,ativo
+VTX-993,Zacarias Queiroz Wendling,Coordenador de SAC,SAC,Sede - SP,2022-07-23,5366.71,ativo
+VTX-994,Monica Meireles Yates,Analista de SAC,SAC,Sede - SP,2023-08-18,4060.53,ativo
+VTX-995,Kaio Espinoza Abreu,Analista de SAC,SAC,Sede - SP,2020-01-29,4564.51,ativo
+VTX-996,Tomas Moraes Matos,Atendente de SAC,SAC,Sede - SP,2019-04-26,3083.98,ativo
+VTX-997,Helena Meireles Vieira,Atendente de SAC,SAC,Sede - SP,2021-07-20,3172.92,ativo
+VTX-998,Ubiratan Assis Lacerda,Atendente de SAC,SAC,Sede - SP,2024-04-22,2911.31,ativo
+VTX-999,Felipe Quaresma Tavares,Atendente de SAC,SAC,Sede - SP,2024-10-15,3101.8,ativo
+VTX-1000,Graziela Quaresma Villela,Atendente de SAC,SAC,Sede - SP,2020-10-23,2921.16,ativo

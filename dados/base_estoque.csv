@@ -1,174 +1,597 @@
 sku,nome,categoria,cor,tamanho,preco,custo,estoque_minimo,loja,quantidade
-VTX-CAM-001,Camiseta Urban Core,camiseta,preta,PP,89.90,32.00,5,Av. Paulista - SP,12
-VTX-CAM-001,Camiseta Urban Core,camiseta,preta,P,89.90,32.00,5,Av. Paulista - SP,18
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,PP,89.90,32.00,5,Av. Paulista - SP,6
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,P,89.90,32.00,5,Av. Paulista - SP,22
 VTX-CAM-001,Camiseta Urban Core,camiseta,preta,M,89.90,32.00,5,Av. Paulista - SP,25
-VTX-CAM-001,Camiseta Urban Core,camiseta,preta,G,89.90,32.00,5,Av. Paulista - SP,15
-VTX-CAM-001,Camiseta Urban Core,camiseta,preta,GG,89.90,32.00,5,Av. Paulista - SP,8
-VTX-CAM-001,Camiseta Urban Core,camiseta,preta,PP,89.90,32.00,5,Shopping Ibirapuera - SP,9
-VTX-CAM-001,Camiseta Urban Core,camiseta,preta,P,89.90,32.00,5,Shopping Ibirapuera - SP,14
-VTX-CAM-001,Camiseta Urban Core,camiseta,preta,M,89.90,32.00,5,Shopping Ibirapuera - SP,20
-VTX-CAM-001,Camiseta Urban Core,camiseta,preta,G,89.90,32.00,5,Shopping Ibirapuera - SP,11
-VTX-CAM-001,Camiseta Urban Core,camiseta,preta,GG,89.90,32.00,5,Shopping Ibirapuera - SP,4
-VTX-CAM-001,Camiseta Urban Core,camiseta,preta,PP,89.90,32.00,5,Shopping Eldorado - SP,7
-VTX-CAM-001,Camiseta Urban Core,camiseta,preta,P,89.90,32.00,5,Shopping Eldorado - SP,10
-VTX-CAM-001,Camiseta Urban Core,camiseta,preta,M,89.90,32.00,5,Shopping Eldorado - SP,16
-VTX-CAM-001,Camiseta Urban Core,camiseta,preta,G,89.90,32.00,5,Shopping Eldorado - SP,9
-VTX-CAM-001,Camiseta Urban Core,camiseta,preta,GG,89.90,32.00,5,Shopping Eldorado - SP,3
-VTX-CAM-001,Camiseta Urban Core,camiseta,preta,PP,89.90,32.00,5,Rua Oscar Freire - SP,6
-VTX-CAM-001,Camiseta Urban Core,camiseta,preta,P,89.90,32.00,5,Rua Oscar Freire - SP,11
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,G,89.90,32.00,5,Av. Paulista - SP,14
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,GG,89.90,32.00,5,Av. Paulista - SP,7
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,PP,89.90,32.00,5,Shopping Ibirapuera - SP,5
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,P,89.90,32.00,5,Shopping Ibirapuera - SP,20
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,M,89.90,32.00,5,Shopping Ibirapuera - SP,23
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,G,89.90,32.00,5,Shopping Ibirapuera - SP,12
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,GG,89.90,32.00,5,Shopping Ibirapuera - SP,6
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,PP,89.90,32.00,5,Shopping Eldorado - SP,4
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,P,89.90,32.00,5,Shopping Eldorado - SP,18
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,M,89.90,32.00,5,Shopping Eldorado - SP,21
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,G,89.90,32.00,5,Shopping Eldorado - SP,11
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,GG,89.90,32.00,5,Shopping Eldorado - SP,5
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,PP,89.90,32.00,5,Rua Oscar Freire - SP,3
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,P,89.90,32.00,5,Rua Oscar Freire - SP,17
 VTX-CAM-001,Camiseta Urban Core,camiseta,preta,M,89.90,32.00,5,Rua Oscar Freire - SP,19
-VTX-CAM-001,Camiseta Urban Core,camiseta,preta,G,89.90,32.00,5,Rua Oscar Freire - SP,8
-VTX-CAM-001,Camiseta Urban Core,camiseta,preta,GG,89.90,32.00,5,Rua Oscar Freire - SP,2
-VTX-CAM-001,Camiseta Urban Core,camiseta,preta,PP,89.90,32.00,5,Shopping RioSul - RJ,8
-VTX-CAM-001,Camiseta Urban Core,camiseta,preta,P,89.90,32.00,5,Shopping RioSul - RJ,13
-VTX-CAM-001,Camiseta Urban Core,camiseta,preta,M,89.90,32.00,5,Shopping RioSul - RJ,22
-VTX-CAM-001,Camiseta Urban Core,camiseta,preta,G,89.90,32.00,5,Shopping RioSul - RJ,10
-VTX-CAM-001,Camiseta Urban Core,camiseta,preta,GG,89.90,32.00,5,Shopping RioSul - RJ,5
-VTX-CAM-001,Camiseta Urban Core,camiseta,preta,PP,89.90,32.00,5,Barra Shopping - RJ,5
-VTX-CAM-001,Camiseta Urban Core,camiseta,preta,P,89.90,32.00,5,Barra Shopping - RJ,9
-VTX-CAM-001,Camiseta Urban Core,camiseta,preta,M,89.90,32.00,5,Barra Shopping - RJ,17
-VTX-CAM-001,Camiseta Urban Core,camiseta,preta,G,89.90,32.00,5,Barra Shopping - RJ,7
-VTX-CAM-001,Camiseta Urban Core,camiseta,preta,GG,89.90,32.00,5,Barra Shopping - RJ,3
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,G,89.90,32.00,5,Rua Oscar Freire - SP,10
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,GG,89.90,32.00,5,Rua Oscar Freire - SP,4
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,PP,89.90,32.00,5,Shopping Morumbi - SP,5
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,P,89.90,32.00,5,Shopping Morumbi - SP,16
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,M,89.90,32.00,5,Shopping Morumbi - SP,20
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,G,89.90,32.00,5,Shopping Morumbi - SP,9
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,GG,89.90,32.00,5,Shopping Morumbi - SP,3
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,PP,89.90,32.00,5,Jardins - SP,4
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,P,89.90,32.00,5,Jardins - SP,15
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,M,89.90,32.00,5,Jardins - SP,18
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,G,89.90,32.00,5,Jardins - SP,9
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,GG,89.90,32.00,5,Jardins - SP,4
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,PP,89.90,32.00,5,Shopping Anália Franco - SP,3
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,P,89.90,32.00,5,Shopping Anália Franco - SP,14
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,M,89.90,32.00,5,Shopping Anália Franco - SP,16
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,G,89.90,32.00,5,Shopping Anália Franco - SP,8
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,GG,89.90,32.00,5,Shopping Anália Franco - SP,3
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,PP,89.90,32.00,5,Shopping RioSul - RJ,4
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,P,89.90,32.00,5,Shopping RioSul - RJ,15
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,M,89.90,32.00,5,Shopping RioSul - RJ,17
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,G,89.90,32.00,5,Shopping RioSul - RJ,9
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,GG,89.90,32.00,5,Shopping RioSul - RJ,4
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,PP,89.90,32.00,5,Barra Shopping - RJ,3
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,P,89.90,32.00,5,Barra Shopping - RJ,13
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,M,89.90,32.00,5,Barra Shopping - RJ,15
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,G,89.90,32.00,5,Barra Shopping - RJ,8
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,GG,89.90,32.00,5,Barra Shopping - RJ,2
 VTX-CAM-001,Camiseta Urban Core,camiseta,preta,PP,89.90,32.00,5,Shopping Curitiba - PR,4
-VTX-CAM-001,Camiseta Urban Core,camiseta,preta,P,89.90,32.00,5,Shopping Curitiba - PR,8
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,P,89.90,32.00,5,Shopping Curitiba - PR,12
 VTX-CAM-001,Camiseta Urban Core,camiseta,preta,M,89.90,32.00,5,Shopping Curitiba - PR,14
-VTX-CAM-001,Camiseta Urban Core,camiseta,preta,G,89.90,32.00,5,Shopping Curitiba - PR,6
-VTX-CAM-001,Camiseta Urban Core,camiseta,preta,GG,89.90,32.00,5,Shopping Curitiba - PR,2
-VTX-CAM-001,Camiseta Urban Core,camiseta,preta,PP,89.90,32.00,5,BH Shopping - MG,6
-VTX-CAM-001,Camiseta Urban Core,camiseta,preta,P,89.90,32.00,5,BH Shopping - MG,10
-VTX-CAM-001,Camiseta Urban Core,camiseta,preta,M,89.90,32.00,5,BH Shopping - MG,15
-VTX-CAM-001,Camiseta Urban Core,camiseta,preta,G,89.90,32.00,5,BH Shopping - MG,7
-VTX-CAM-001,Camiseta Urban Core,camiseta,preta,GG,89.90,32.00,5,BH Shopping - MG,3
-VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,PP,99.90,35.00,5,Av. Paulista - SP,10
-VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,P,99.90,35.00,5,Av. Paulista - SP,16
-VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,M,99.90,35.00,5,Av. Paulista - SP,22
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,G,89.90,32.00,5,Shopping Curitiba - PR,8
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,GG,89.90,32.00,5,Shopping Curitiba - PR,3
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,PP,89.90,32.00,5,Shopping Iguatemi - SC,2
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,P,89.90,32.00,5,Shopping Iguatemi - SC,10
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,M,89.90,32.00,5,Shopping Iguatemi - SC,12
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,G,89.90,32.00,5,Shopping Iguatemi - SC,6
+VTX-CAM-001,Camiseta Urban Core,camiseta,preta,GG,89.90,32.00,5,Shopping Iguatemi - SC,2
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,PP,99.90,35.00,5,Av. Paulista - SP,7
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,P,99.90,35.00,5,Av. Paulista - SP,21
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,M,99.90,35.00,5,Av. Paulista - SP,24
 VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,G,99.90,35.00,5,Av. Paulista - SP,13
 VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,GG,99.90,35.00,5,Av. Paulista - SP,6
-VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,PP,99.90,35.00,5,Shopping Ibirapuera - SP,7
-VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,P,99.90,35.00,5,Shopping Ibirapuera - SP,12
-VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,M,99.90,35.00,5,Shopping Ibirapuera - SP,18
-VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,G,99.90,35.00,5,Shopping Ibirapuera - SP,9
-VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,GG,99.90,35.00,5,Shopping Ibirapuera - SP,3
-VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,PP,99.90,35.00,5,Shopping RioSul - RJ,6
-VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,P,99.90,35.00,5,Shopping RioSul - RJ,11
-VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,M,99.90,35.00,5,Shopping RioSul - RJ,19
-VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,G,99.90,35.00,5,Shopping RioSul - RJ,8
-VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,GG,99.90,35.00,5,Shopping RioSul - RJ,2
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,PP,99.90,35.00,5,Shopping Ibirapuera - SP,5
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,P,99.90,35.00,5,Shopping Ibirapuera - SP,20
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,M,99.90,35.00,5,Shopping Ibirapuera - SP,22
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,G,99.90,35.00,5,Shopping Ibirapuera - SP,11
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,GG,99.90,35.00,5,Shopping Ibirapuera - SP,5
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,PP,99.90,35.00,5,Shopping Eldorado - SP,4
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,P,99.90,35.00,5,Shopping Eldorado - SP,17
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,M,99.90,35.00,5,Shopping Eldorado - SP,20
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,G,99.90,35.00,5,Shopping Eldorado - SP,10
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,GG,99.90,35.00,5,Shopping Eldorado - SP,4
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,PP,99.90,35.00,5,Shopping Center Norte - SP,3
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,P,99.90,35.00,5,Shopping Center Norte - SP,15
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,M,99.90,35.00,5,Shopping Center Norte - SP,18
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,G,99.90,35.00,5,Shopping Center Norte - SP,9
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,GG,99.90,35.00,5,Shopping Center Norte - SP,3
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,PP,99.90,35.00,5,Shopping Morumbi - SP,4
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,P,99.90,35.00,5,Shopping Morumbi - SP,16
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,M,99.90,35.00,5,Shopping Morumbi - SP,19
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,G,99.90,35.00,5,Shopping Morumbi - SP,10
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,GG,99.90,35.00,5,Shopping Morumbi - SP,4
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,PP,99.90,35.00,5,Jardins - SP,4
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,P,99.90,35.00,5,Jardins - SP,14
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,M,99.90,35.00,5,Jardins - SP,17
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,G,99.90,35.00,5,Jardins - SP,9
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,GG,99.90,35.00,5,Jardins - SP,3
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,PP,99.90,35.00,5,Shopping RioSul - RJ,4
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,P,99.90,35.00,5,Shopping RioSul - RJ,15
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,M,99.90,35.00,5,Shopping RioSul - RJ,17
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,G,99.90,35.00,5,Shopping RioSul - RJ,9
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,GG,99.90,35.00,5,Shopping RioSul - RJ,3
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,PP,99.90,35.00,5,Barra Shopping - RJ,3
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,P,99.90,35.00,5,Barra Shopping - RJ,13
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,M,99.90,35.00,5,Barra Shopping - RJ,15
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,G,99.90,35.00,5,Barra Shopping - RJ,8
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,GG,99.90,35.00,5,Barra Shopping - RJ,4
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,PP,99.90,35.00,5,Shopping Tijuca - RJ,3
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,P,99.90,35.00,5,Shopping Tijuca - RJ,12
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,M,99.90,35.00,5,Shopping Tijuca - RJ,14
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,G,99.90,35.00,5,Shopping Tijuca - RJ,7
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,GG,99.90,35.00,5,Shopping Tijuca - RJ,2
 VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,PP,99.90,35.00,5,Shopping Curitiba - PR,4
-VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,P,99.90,35.00,5,Shopping Curitiba - PR,7
-VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,M,99.90,35.00,5,Shopping Curitiba - PR,12
-VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,G,99.90,35.00,5,Shopping Curitiba - PR,5
-VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,GG,99.90,35.00,5,Shopping Curitiba - PR,1
-VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,PP,109.90,38.00,4,Av. Paulista - SP,8
-VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,P,109.90,38.00,4,Av. Paulista - SP,14
-VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,M,109.90,38.00,4,Av. Paulista - SP,20
-VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,G,109.90,38.00,4,Av. Paulista - SP,11
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,P,99.90,35.00,5,Shopping Curitiba - PR,13
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,M,99.90,35.00,5,Shopping Curitiba - PR,15
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,G,99.90,35.00,5,Shopping Curitiba - PR,8
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,GG,99.90,35.00,5,Shopping Curitiba - PR,3
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,PP,99.90,35.00,5,Pátio Batel - PR,3
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,P,99.90,35.00,5,Pátio Batel - PR,11
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,M,99.90,35.00,5,Pátio Batel - PR,13
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,G,99.90,35.00,5,Pátio Batel - PR,7
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,GG,99.90,35.00,5,Pátio Batel - PR,2
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,PP,99.90,35.00,5,Beiramar Shopping - SC,2
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,P,99.90,35.00,5,Beiramar Shopping - SC,10
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,M,99.90,35.00,5,Beiramar Shopping - SC,12
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,G,99.90,35.00,5,Beiramar Shopping - SC,6
+VTX-CAM-002,Camiseta Digital Wave,camiseta,branca,GG,99.90,35.00,5,Beiramar Shopping - SC,2
+VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,PP,109.90,38.00,4,Av. Paulista - SP,6
+VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,P,109.90,38.00,4,Av. Paulista - SP,20
+VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,M,109.90,38.00,4,Av. Paulista - SP,23
+VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,G,109.90,38.00,4,Av. Paulista - SP,12
 VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,GG,109.90,38.00,4,Av. Paulista - SP,5
-VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,PP,109.90,38.00,4,Shopping RioSul - RJ,5
-VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,P,109.90,38.00,4,Shopping RioSul - RJ,9
-VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,M,109.90,38.00,4,Shopping RioSul - RJ,15
-VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,G,109.90,38.00,4,Shopping RioSul - RJ,7
-VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,GG,109.90,38.00,4,Shopping RioSul - RJ,2
-VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,PP,119.90,42.00,3,Av. Paulista - SP,6
-VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,P,119.90,42.00,3,Av. Paulista - SP,10
-VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,M,119.90,42.00,3,Av. Paulista - SP,16
-VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,G,119.90,42.00,3,Av. Paulista - SP,9
-VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,GG,119.90,42.00,3,Av. Paulista - SP,4
+VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,PP,109.90,38.00,4,Shopping Ibirapuera - SP,5
+VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,P,109.90,38.00,4,Shopping Ibirapuera - SP,18
+VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,M,109.90,38.00,4,Shopping Ibirapuera - SP,21
+VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,G,109.90,38.00,4,Shopping Ibirapuera - SP,11
+VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,GG,109.90,38.00,4,Shopping Ibirapuera - SP,4
+VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,PP,109.90,38.00,4,Rua Oscar Freire - SP,4
+VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,P,109.90,38.00,4,Rua Oscar Freire - SP,16
+VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,M,109.90,38.00,4,Rua Oscar Freire - SP,19
+VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,G,109.90,38.00,4,Rua Oscar Freire - SP,10
+VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,GG,109.90,38.00,4,Rua Oscar Freire - SP,4
+VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,PP,109.90,38.00,4,Shopping Center Norte - SP,3
+VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,P,109.90,38.00,4,Shopping Center Norte - SP,14
+VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,M,109.90,38.00,4,Shopping Center Norte - SP,17
+VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,G,109.90,38.00,4,Shopping Center Norte - SP,9
+VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,GG,109.90,38.00,4,Shopping Center Norte - SP,3
+VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,PP,109.90,38.00,4,Shopping Anália Franco - SP,3
+VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,P,109.90,38.00,4,Shopping Anália Franco - SP,13
+VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,M,109.90,38.00,4,Shopping Anália Franco - SP,15
+VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,G,109.90,38.00,4,Shopping Anália Franco - SP,8
+VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,GG,109.90,38.00,4,Shopping Anália Franco - SP,2
+VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,PP,109.90,38.00,4,Shopping RioSul - RJ,4
+VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,P,109.90,38.00,4,Shopping RioSul - RJ,14
+VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,M,109.90,38.00,4,Shopping RioSul - RJ,16
+VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,G,109.90,38.00,4,Shopping RioSul - RJ,9
+VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,GG,109.90,38.00,4,Shopping RioSul - RJ,3
+VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,PP,109.90,38.00,4,Village Mall - RJ,3
+VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,P,109.90,38.00,4,Village Mall - RJ,13
+VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,M,109.90,38.00,4,Village Mall - RJ,15
+VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,G,109.90,38.00,4,Village Mall - RJ,8
+VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,GG,109.90,38.00,4,Village Mall - RJ,3
+VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,PP,109.90,38.00,4,Shopping Curitiba - PR,3
+VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,P,109.90,38.00,4,Shopping Curitiba - PR,12
+VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,M,109.90,38.00,4,Shopping Curitiba - PR,14
+VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,G,109.90,38.00,4,Shopping Curitiba - PR,7
+VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,GG,109.90,38.00,4,Shopping Curitiba - PR,2
+VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,PP,109.90,38.00,4,Rua XV de Novembro - PR,2
+VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,P,109.90,38.00,4,Rua XV de Novembro - PR,10
+VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,M,109.90,38.00,4,Rua XV de Novembro - PR,12
+VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,G,109.90,38.00,4,Rua XV de Novembro - PR,6
+VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,GG,109.90,38.00,4,Rua XV de Novembro - PR,2
+VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,PP,109.90,38.00,4,Norte Shopping Floripa - SC,2
+VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,P,109.90,38.00,4,Norte Shopping Floripa - SC,9
+VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,M,109.90,38.00,4,Norte Shopping Floripa - SC,11
+VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,G,109.90,38.00,4,Norte Shopping Floripa - SC,5
+VTX-CAM-003,Camiseta Neon Grid,camiseta,cinza,GG,109.90,38.00,4,Norte Shopping Floripa - SC,1
+VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,PP,119.90,42.00,3,Av. Paulista - SP,5
+VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,P,119.90,42.00,3,Av. Paulista - SP,19
+VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,M,119.90,42.00,3,Av. Paulista - SP,22
+VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,G,119.90,42.00,3,Av. Paulista - SP,12
+VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,GG,119.90,42.00,3,Av. Paulista - SP,5
+VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,PP,119.90,42.00,3,Shopping Ibirapuera - SP,4
+VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,P,119.90,42.00,3,Shopping Ibirapuera - SP,17
+VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,M,119.90,42.00,3,Shopping Ibirapuera - SP,20
+VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,G,119.90,42.00,3,Shopping Ibirapuera - SP,10
+VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,GG,119.90,42.00,3,Shopping Ibirapuera - SP,4
+VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,PP,119.90,42.00,3,Rua Oscar Freire - SP,4
+VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,P,119.90,42.00,3,Rua Oscar Freire - SP,15
+VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,M,119.90,42.00,3,Rua Oscar Freire - SP,18
+VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,G,119.90,42.00,3,Rua Oscar Freire - SP,9
+VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,GG,119.90,42.00,3,Rua Oscar Freire - SP,3
+VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,PP,119.90,42.00,3,Jardins - SP,3
+VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,P,119.90,42.00,3,Jardins - SP,14
+VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,M,119.90,42.00,3,Jardins - SP,16
+VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,G,119.90,42.00,3,Jardins - SP,8
+VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,GG,119.90,42.00,3,Jardins - SP,3
+VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,PP,119.90,42.00,3,Shopping Morumbi - SP,3
+VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,P,119.90,42.00,3,Shopping Morumbi - SP,14
+VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,M,119.90,42.00,3,Shopping Morumbi - SP,17
+VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,G,119.90,42.00,3,Shopping Morumbi - SP,9
+VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,GG,119.90,42.00,3,Shopping Morumbi - SP,3
 VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,PP,119.90,42.00,3,Barra Shopping - RJ,3
-VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,P,119.90,42.00,3,Barra Shopping - RJ,7
-VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,M,119.90,42.00,3,Barra Shopping - RJ,12
-VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,G,119.90,42.00,3,Barra Shopping - RJ,5
+VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,P,119.90,42.00,3,Barra Shopping - RJ,13
+VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,M,119.90,42.00,3,Barra Shopping - RJ,15
+VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,G,119.90,42.00,3,Barra Shopping - RJ,8
 VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,GG,119.90,42.00,3,Barra Shopping - RJ,2
-VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,PP,94.90,33.00,5,Av. Paulista - SP,11
-VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,P,94.90,33.00,5,Av. Paulista - SP,17
-VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,M,94.90,33.00,5,Av. Paulista - SP,23
-VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,G,94.90,33.00,5,Av. Paulista - SP,14
-VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,GG,94.90,33.00,5,Av. Paulista - SP,7
-VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,PP,94.90,33.00,5,Shopping Eldorado - SP,5
-VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,P,94.90,33.00,5,Shopping Eldorado - SP,9
-VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,M,94.90,33.00,5,Shopping Eldorado - SP,14
-VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,G,94.90,33.00,5,Shopping Eldorado - SP,6
-VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,GG,94.90,33.00,5,Shopping Eldorado - SP,2
-VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,PP,104.90,36.00,4,Shopping Ibirapuera - SP,7
-VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,P,104.90,36.00,4,Shopping Ibirapuera - SP,13
-VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,M,104.90,36.00,4,Shopping Ibirapuera - SP,19
+VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,PP,119.90,42.00,3,Shopping Tijuca - RJ,2
+VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,P,119.90,42.00,3,Shopping Tijuca - RJ,11
+VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,M,119.90,42.00,3,Shopping Tijuca - RJ,13
+VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,G,119.90,42.00,3,Shopping Tijuca - RJ,7
+VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,GG,119.90,42.00,3,Shopping Tijuca - RJ,2
+VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,PP,119.90,42.00,3,Pátio Batel - PR,2
+VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,P,119.90,42.00,3,Pátio Batel - PR,11
+VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,M,119.90,42.00,3,Pátio Batel - PR,13
+VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,G,119.90,42.00,3,Pátio Batel - PR,7
+VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,GG,119.90,42.00,3,Pátio Batel - PR,2
+VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,PP,119.90,42.00,3,Shopping Iguatemi - SC,2
+VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,P,119.90,42.00,3,Shopping Iguatemi - SC,9
+VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,M,119.90,42.00,3,Shopping Iguatemi - SC,11
+VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,G,119.90,42.00,3,Shopping Iguatemi - SC,5
+VTX-CAM-004,Camiseta Oversized Flux,camiseta,verde musgo,GG,119.90,42.00,3,Shopping Iguatemi - SC,1
+VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,PP,94.90,33.00,5,Av. Paulista - SP,6
+VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,P,94.90,33.00,5,Av. Paulista - SP,21
+VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,M,94.90,33.00,5,Av. Paulista - SP,24
+VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,G,94.90,33.00,5,Av. Paulista - SP,13
+VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,GG,94.90,33.00,5,Av. Paulista - SP,6
+VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,PP,94.90,33.00,5,Shopping Ibirapuera - SP,5
+VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,P,94.90,33.00,5,Shopping Ibirapuera - SP,19
+VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,M,94.90,33.00,5,Shopping Ibirapuera - SP,22
+VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,G,94.90,33.00,5,Shopping Ibirapuera - SP,11
+VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,GG,94.90,33.00,5,Shopping Ibirapuera - SP,5
+VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,PP,94.90,33.00,5,Shopping Eldorado - SP,4
+VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,P,94.90,33.00,5,Shopping Eldorado - SP,16
+VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,M,94.90,33.00,5,Shopping Eldorado - SP,19
+VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,G,94.90,33.00,5,Shopping Eldorado - SP,10
+VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,GG,94.90,33.00,5,Shopping Eldorado - SP,4
+VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,PP,94.90,33.00,5,Shopping Center Norte - SP,4
+VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,P,94.90,33.00,5,Shopping Center Norte - SP,15
+VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,M,94.90,33.00,5,Shopping Center Norte - SP,18
+VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,G,94.90,33.00,5,Shopping Center Norte - SP,9
+VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,GG,94.90,33.00,5,Shopping Center Norte - SP,3
+VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,PP,94.90,33.00,5,Shopping Anália Franco - SP,3
+VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,P,94.90,33.00,5,Shopping Anália Franco - SP,14
+VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,M,94.90,33.00,5,Shopping Anália Franco - SP,16
+VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,G,94.90,33.00,5,Shopping Anália Franco - SP,8
+VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,GG,94.90,33.00,5,Shopping Anália Franco - SP,3
+VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,PP,94.90,33.00,5,Shopping RioSul - RJ,4
+VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,P,94.90,33.00,5,Shopping RioSul - RJ,14
+VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,M,94.90,33.00,5,Shopping RioSul - RJ,16
+VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,G,94.90,33.00,5,Shopping RioSul - RJ,8
+VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,GG,94.90,33.00,5,Shopping RioSul - RJ,3
+VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,PP,94.90,33.00,5,Village Mall - RJ,4
+VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,P,94.90,33.00,5,Village Mall - RJ,13
+VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,M,94.90,33.00,5,Village Mall - RJ,15
+VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,G,94.90,33.00,5,Village Mall - RJ,8
+VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,GG,94.90,33.00,5,Village Mall - RJ,2
+VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,PP,94.90,33.00,5,Shopping Mueller - PR,3
+VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,P,94.90,33.00,5,Shopping Mueller - PR,11
+VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,M,94.90,33.00,5,Shopping Mueller - PR,13
+VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,G,94.90,33.00,5,Shopping Mueller - PR,7
+VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,GG,94.90,33.00,5,Shopping Mueller - PR,2
+VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,PP,94.90,33.00,5,Beiramar Shopping - SC,2
+VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,P,94.90,33.00,5,Beiramar Shopping - SC,10
+VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,M,94.90,33.00,5,Beiramar Shopping - SC,12
+VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,G,94.90,33.00,5,Beiramar Shopping - SC,6
+VTX-CAM-005,Camiseta Minimal Byte,camiseta,azul marinho,GG,94.90,33.00,5,Beiramar Shopping - SC,2
+VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,PP,104.90,36.00,4,Av. Paulista - SP,5
+VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,P,104.90,36.00,4,Av. Paulista - SP,18
+VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,M,104.90,36.00,4,Av. Paulista - SP,21
+VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,G,104.90,36.00,4,Av. Paulista - SP,11
+VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,GG,104.90,36.00,4,Av. Paulista - SP,5
+VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,PP,104.90,36.00,4,Shopping Ibirapuera - SP,4
+VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,P,104.90,36.00,4,Shopping Ibirapuera - SP,17
+VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,M,104.90,36.00,4,Shopping Ibirapuera - SP,20
 VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,G,104.90,36.00,4,Shopping Ibirapuera - SP,10
 VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,GG,104.90,36.00,4,Shopping Ibirapuera - SP,4
-VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,PP,104.90,36.00,4,BH Shopping - MG,3
-VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,P,104.90,36.00,4,BH Shopping - MG,6
-VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,M,104.90,36.00,4,BH Shopping - MG,11
-VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,G,104.90,36.00,4,BH Shopping - MG,5
-VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,GG,104.90,36.00,4,BH Shopping - MG,1
-VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,PP,114.90,40.00,4,Rua Oscar Freire - SP,5
-VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,P,114.90,40.00,4,Rua Oscar Freire - SP,9
-VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,M,114.90,40.00,4,Rua Oscar Freire - SP,15
-VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,G,114.90,40.00,4,Rua Oscar Freire - SP,8
+VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,PP,104.90,36.00,4,Shopping Eldorado - SP,4
+VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,P,104.90,36.00,4,Shopping Eldorado - SP,15
+VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,M,104.90,36.00,4,Shopping Eldorado - SP,18
+VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,G,104.90,36.00,4,Shopping Eldorado - SP,9
+VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,GG,104.90,36.00,4,Shopping Eldorado - SP,3
+VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,PP,104.90,36.00,4,Jardins - SP,4
+VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,P,104.90,36.00,4,Jardins - SP,14
+VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,M,104.90,36.00,4,Jardins - SP,17
+VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,G,104.90,36.00,4,Jardins - SP,9
+VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,GG,104.90,36.00,4,Jardins - SP,3
+VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,PP,104.90,36.00,4,Shopping Morumbi - SP,3
+VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,P,104.90,36.00,4,Shopping Morumbi - SP,13
+VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,M,104.90,36.00,4,Shopping Morumbi - SP,16
+VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,G,104.90,36.00,4,Shopping Morumbi - SP,8
+VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,GG,104.90,36.00,4,Shopping Morumbi - SP,3
+VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,PP,104.90,36.00,4,Barra Shopping - RJ,3
+VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,P,104.90,36.00,4,Barra Shopping - RJ,13
+VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,M,104.90,36.00,4,Barra Shopping - RJ,15
+VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,G,104.90,36.00,4,Barra Shopping - RJ,8
+VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,GG,104.90,36.00,4,Barra Shopping - RJ,2
+VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,PP,104.90,36.00,4,Shopping Curitiba - PR,3
+VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,P,104.90,36.00,4,Shopping Curitiba - PR,12
+VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,M,104.90,36.00,4,Shopping Curitiba - PR,14
+VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,G,104.90,36.00,4,Shopping Curitiba - PR,7
+VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,GG,104.90,36.00,4,Shopping Curitiba - PR,2
+VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,PP,104.90,36.00,4,Shopping Iguatemi - SC,2
+VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,P,104.90,36.00,4,Shopping Iguatemi - SC,10
+VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,M,104.90,36.00,4,Shopping Iguatemi - SC,12
+VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,G,104.90,36.00,4,Shopping Iguatemi - SC,6
+VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,GG,104.90,36.00,4,Shopping Iguatemi - SC,2
+VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,PP,104.90,36.00,4,Shopping Itaguaçu - SC,2
+VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,P,104.90,36.00,4,Shopping Itaguaçu - SC,9
+VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,M,104.90,36.00,4,Shopping Itaguaçu - SC,11
+VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,G,104.90,36.00,4,Shopping Itaguaçu - SC,5
+VTX-CAM-006,Camiseta Pixel Drift,camiseta,bege,GG,104.90,36.00,4,Shopping Itaguaçu - SC,1
+VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,PP,114.90,40.00,4,Av. Paulista - SP,5
+VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,P,114.90,40.00,4,Av. Paulista - SP,19
+VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,M,114.90,40.00,4,Av. Paulista - SP,22
+VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,G,114.90,40.00,4,Av. Paulista - SP,12
+VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,GG,114.90,40.00,4,Av. Paulista - SP,5
+VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,PP,114.90,40.00,4,Shopping Ibirapuera - SP,4
+VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,P,114.90,40.00,4,Shopping Ibirapuera - SP,17
+VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,M,114.90,40.00,4,Shopping Ibirapuera - SP,20
+VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,G,114.90,40.00,4,Shopping Ibirapuera - SP,10
+VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,GG,114.90,40.00,4,Shopping Ibirapuera - SP,4
+VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,PP,114.90,40.00,4,Rua Oscar Freire - SP,4
+VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,P,114.90,40.00,4,Rua Oscar Freire - SP,15
+VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,M,114.90,40.00,4,Rua Oscar Freire - SP,18
+VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,G,114.90,40.00,4,Rua Oscar Freire - SP,9
 VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,GG,114.90,40.00,4,Rua Oscar Freire - SP,3
+VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,PP,114.90,40.00,4,Shopping Center Norte - SP,3
+VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,P,114.90,40.00,4,Shopping Center Norte - SP,14
+VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,M,114.90,40.00,4,Shopping Center Norte - SP,17
+VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,G,114.90,40.00,4,Shopping Center Norte - SP,8
+VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,GG,114.90,40.00,4,Shopping Center Norte - SP,3
+VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,PP,114.90,40.00,4,Shopping Anália Franco - SP,3
+VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,P,114.90,40.00,4,Shopping Anália Franco - SP,13
+VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,M,114.90,40.00,4,Shopping Anália Franco - SP,15
+VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,G,114.90,40.00,4,Shopping Anália Franco - SP,8
+VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,GG,114.90,40.00,4,Shopping Anália Franco - SP,2
+VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,PP,114.90,40.00,4,Shopping RioSul - RJ,3
+VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,P,114.90,40.00,4,Shopping RioSul - RJ,13
+VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,M,114.90,40.00,4,Shopping RioSul - RJ,15
+VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,G,114.90,40.00,4,Shopping RioSul - RJ,8
+VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,GG,114.90,40.00,4,Shopping RioSul - RJ,3
+VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,PP,114.90,40.00,4,Village Mall - RJ,3
+VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,P,114.90,40.00,4,Village Mall - RJ,12
+VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,M,114.90,40.00,4,Village Mall - RJ,14
+VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,G,114.90,40.00,4,Village Mall - RJ,7
+VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,GG,114.90,40.00,4,Village Mall - RJ,2
 VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,PP,114.90,40.00,4,Shopping Curitiba - PR,3
-VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,P,114.90,40.00,4,Shopping Curitiba - PR,6
-VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,M,114.90,40.00,4,Shopping Curitiba - PR,10
-VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,G,114.90,40.00,4,Shopping Curitiba - PR,4
-VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,GG,114.90,40.00,4,Shopping Curitiba - PR,1
-VTX-CLC-001,Calça Jogger Stream,calca,preta,PP,179.90,62.00,3,Av. Paulista - SP,8
-VTX-CLC-001,Calça Jogger Stream,calca,preta,P,179.90,62.00,3,Av. Paulista - SP,14
-VTX-CLC-001,Calça Jogger Stream,calca,preta,M,179.90,62.00,3,Av. Paulista - SP,18
-VTX-CLC-001,Calça Jogger Stream,calca,preta,G,179.90,62.00,3,Av. Paulista - SP,10
+VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,P,114.90,40.00,4,Shopping Curitiba - PR,11
+VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,M,114.90,40.00,4,Shopping Curitiba - PR,13
+VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,G,114.90,40.00,4,Shopping Curitiba - PR,7
+VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,GG,114.90,40.00,4,Shopping Curitiba - PR,2
+VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,PP,114.90,40.00,4,Shopping Mueller - PR,2
+VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,P,114.90,40.00,4,Shopping Mueller - PR,10
+VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,M,114.90,40.00,4,Shopping Mueller - PR,12
+VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,G,114.90,40.00,4,Shopping Mueller - PR,6
+VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,GG,114.90,40.00,4,Shopping Mueller - PR,2
+VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,PP,114.90,40.00,4,Norte Shopping Floripa - SC,2
+VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,P,114.90,40.00,4,Norte Shopping Floripa - SC,8
+VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,M,114.90,40.00,4,Norte Shopping Floripa - SC,10
+VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,G,114.90,40.00,4,Norte Shopping Floripa - SC,5
+VTX-CAM-007,Camiseta Longline Circuit,camiseta,preta,GG,114.90,40.00,4,Norte Shopping Floripa - SC,1
+VTX-CLC-001,Calça Jogger Stream,calca,preta,PP,179.90,62.00,3,Av. Paulista - SP,5
+VTX-CLC-001,Calça Jogger Stream,calca,preta,P,179.90,62.00,3,Av. Paulista - SP,18
+VTX-CLC-001,Calça Jogger Stream,calca,preta,M,179.90,62.00,3,Av. Paulista - SP,21
+VTX-CLC-001,Calça Jogger Stream,calca,preta,G,179.90,62.00,3,Av. Paulista - SP,12
 VTX-CLC-001,Calça Jogger Stream,calca,preta,GG,179.90,62.00,3,Av. Paulista - SP,5
-VTX-CLC-001,Calça Jogger Stream,calca,preta,PP,179.90,62.00,3,Shopping RioSul - RJ,4
-VTX-CLC-001,Calça Jogger Stream,calca,preta,P,179.90,62.00,3,Shopping RioSul - RJ,9
-VTX-CLC-001,Calça Jogger Stream,calca,preta,M,179.90,62.00,3,Shopping RioSul - RJ,13
-VTX-CLC-001,Calça Jogger Stream,calca,preta,G,179.90,62.00,3,Shopping RioSul - RJ,6
+VTX-CLC-001,Calça Jogger Stream,calca,preta,PP,179.90,62.00,3,Shopping Ibirapuera - SP,4
+VTX-CLC-001,Calça Jogger Stream,calca,preta,P,179.90,62.00,3,Shopping Ibirapuera - SP,16
+VTX-CLC-001,Calça Jogger Stream,calca,preta,M,179.90,62.00,3,Shopping Ibirapuera - SP,19
+VTX-CLC-001,Calça Jogger Stream,calca,preta,G,179.90,62.00,3,Shopping Ibirapuera - SP,11
+VTX-CLC-001,Calça Jogger Stream,calca,preta,GG,179.90,62.00,3,Shopping Ibirapuera - SP,4
+VTX-CLC-001,Calça Jogger Stream,calca,preta,PP,179.90,62.00,3,Shopping Eldorado - SP,3
+VTX-CLC-001,Calça Jogger Stream,calca,preta,P,179.90,62.00,3,Shopping Eldorado - SP,14
+VTX-CLC-001,Calça Jogger Stream,calca,preta,M,179.90,62.00,3,Shopping Eldorado - SP,17
+VTX-CLC-001,Calça Jogger Stream,calca,preta,G,179.90,62.00,3,Shopping Eldorado - SP,9
+VTX-CLC-001,Calça Jogger Stream,calca,preta,GG,179.90,62.00,3,Shopping Eldorado - SP,3
+VTX-CLC-001,Calça Jogger Stream,calca,preta,PP,179.90,62.00,3,Rua Oscar Freire - SP,3
+VTX-CLC-001,Calça Jogger Stream,calca,preta,P,179.90,62.00,3,Rua Oscar Freire - SP,13
+VTX-CLC-001,Calça Jogger Stream,calca,preta,M,179.90,62.00,3,Rua Oscar Freire - SP,15
+VTX-CLC-001,Calça Jogger Stream,calca,preta,G,179.90,62.00,3,Rua Oscar Freire - SP,8
+VTX-CLC-001,Calça Jogger Stream,calca,preta,GG,179.90,62.00,3,Rua Oscar Freire - SP,2
+VTX-CLC-001,Calça Jogger Stream,calca,preta,PP,179.90,62.00,3,Jardins - SP,3
+VTX-CLC-001,Calça Jogger Stream,calca,preta,P,179.90,62.00,3,Jardins - SP,12
+VTX-CLC-001,Calça Jogger Stream,calca,preta,M,179.90,62.00,3,Jardins - SP,15
+VTX-CLC-001,Calça Jogger Stream,calca,preta,G,179.90,62.00,3,Jardins - SP,8
+VTX-CLC-001,Calça Jogger Stream,calca,preta,GG,179.90,62.00,3,Jardins - SP,2
+VTX-CLC-001,Calça Jogger Stream,calca,preta,PP,179.90,62.00,3,Shopping RioSul - RJ,3
+VTX-CLC-001,Calça Jogger Stream,calca,preta,P,179.90,62.00,3,Shopping RioSul - RJ,13
+VTX-CLC-001,Calça Jogger Stream,calca,preta,M,179.90,62.00,3,Shopping RioSul - RJ,15
+VTX-CLC-001,Calça Jogger Stream,calca,preta,G,179.90,62.00,3,Shopping RioSul - RJ,8
 VTX-CLC-001,Calça Jogger Stream,calca,preta,GG,179.90,62.00,3,Shopping RioSul - RJ,2
-VTX-CLC-002,Calça Cargo Render,calca,verde militar,PP,199.90,68.00,3,Av. Paulista - SP,6
-VTX-CLC-002,Calça Cargo Render,calca,verde militar,P,199.90,68.00,3,Av. Paulista - SP,11
-VTX-CLC-002,Calça Cargo Render,calca,verde militar,M,199.90,68.00,3,Av. Paulista - SP,15
-VTX-CLC-002,Calça Cargo Render,calca,verde militar,G,199.90,68.00,3,Av. Paulista - SP,8
-VTX-CLC-002,Calça Cargo Render,calca,verde militar,GG,199.90,68.00,3,Av. Paulista - SP,3
-VTX-CLC-002,Calça Cargo Render,calca,verde militar,PP,199.90,68.00,3,Shopping Ibirapuera - SP,3
-VTX-CLC-002,Calça Cargo Render,calca,verde militar,P,199.90,68.00,3,Shopping Ibirapuera - SP,7
-VTX-CLC-002,Calça Cargo Render,calca,verde militar,M,199.90,68.00,3,Shopping Ibirapuera - SP,11
-VTX-CLC-002,Calça Cargo Render,calca,verde militar,G,199.90,68.00,3,Shopping Ibirapuera - SP,5
-VTX-CLC-002,Calça Cargo Render,calca,verde militar,GG,199.90,68.00,3,Shopping Ibirapuera - SP,1
-VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,PP,189.90,65.00,3,Shopping Eldorado - SP,5
-VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,P,189.90,65.00,3,Shopping Eldorado - SP,10
-VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,M,189.90,65.00,3,Shopping Eldorado - SP,14
-VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,G,189.90,65.00,3,Shopping Eldorado - SP,7
+VTX-CLC-001,Calça Jogger Stream,calca,preta,PP,179.90,62.00,3,Barra Shopping - RJ,3
+VTX-CLC-001,Calça Jogger Stream,calca,preta,P,179.90,62.00,3,Barra Shopping - RJ,11
+VTX-CLC-001,Calça Jogger Stream,calca,preta,M,179.90,62.00,3,Barra Shopping - RJ,13
+VTX-CLC-001,Calça Jogger Stream,calca,preta,G,179.90,62.00,3,Barra Shopping - RJ,7
+VTX-CLC-001,Calça Jogger Stream,calca,preta,GG,179.90,62.00,3,Barra Shopping - RJ,2
+VTX-CLC-001,Calça Jogger Stream,calca,preta,PP,179.90,62.00,3,Shopping Curitiba - PR,2
+VTX-CLC-001,Calça Jogger Stream,calca,preta,P,179.90,62.00,3,Shopping Curitiba - PR,10
+VTX-CLC-001,Calça Jogger Stream,calca,preta,M,179.90,62.00,3,Shopping Curitiba - PR,12
+VTX-CLC-001,Calça Jogger Stream,calca,preta,G,179.90,62.00,3,Shopping Curitiba - PR,6
+VTX-CLC-001,Calça Jogger Stream,calca,preta,GG,179.90,62.00,3,Shopping Curitiba - PR,2
+VTX-CLC-001,Calça Jogger Stream,calca,preta,PP,179.90,62.00,3,Pátio Batel - PR,2
+VTX-CLC-001,Calça Jogger Stream,calca,preta,P,179.90,62.00,3,Pátio Batel - PR,9
+VTX-CLC-001,Calça Jogger Stream,calca,preta,M,179.90,62.00,3,Pátio Batel - PR,11
+VTX-CLC-001,Calça Jogger Stream,calca,preta,G,179.90,62.00,3,Pátio Batel - PR,6
+VTX-CLC-001,Calça Jogger Stream,calca,preta,GG,179.90,62.00,3,Pátio Batel - PR,1
+VTX-CLC-001,Calça Jogger Stream,calca,preta,PP,179.90,62.00,3,Beiramar Shopping - SC,2
+VTX-CLC-001,Calça Jogger Stream,calca,preta,P,179.90,62.00,3,Beiramar Shopping - SC,8
+VTX-CLC-001,Calça Jogger Stream,calca,preta,M,179.90,62.00,3,Beiramar Shopping - SC,10
+VTX-CLC-001,Calça Jogger Stream,calca,preta,G,179.90,62.00,3,Beiramar Shopping - SC,5
+VTX-CLC-001,Calça Jogger Stream,calca,preta,GG,179.90,62.00,3,Beiramar Shopping - SC,1
+VTX-CLC-002,Calça Cargo Render,calca,verde militar,PP,199.90,68.00,3,Av. Paulista - SP,4
+VTX-CLC-002,Calça Cargo Render,calca,verde militar,P,199.90,68.00,3,Av. Paulista - SP,17
+VTX-CLC-002,Calça Cargo Render,calca,verde militar,M,199.90,68.00,3,Av. Paulista - SP,20
+VTX-CLC-002,Calça Cargo Render,calca,verde militar,G,199.90,68.00,3,Av. Paulista - SP,11
+VTX-CLC-002,Calça Cargo Render,calca,verde militar,GG,199.90,68.00,3,Av. Paulista - SP,4
+VTX-CLC-002,Calça Cargo Render,calca,verde militar,PP,199.90,68.00,3,Shopping Ibirapuera - SP,4
+VTX-CLC-002,Calça Cargo Render,calca,verde militar,P,199.90,68.00,3,Shopping Ibirapuera - SP,15
+VTX-CLC-002,Calça Cargo Render,calca,verde militar,M,199.90,68.00,3,Shopping Ibirapuera - SP,18
+VTX-CLC-002,Calça Cargo Render,calca,verde militar,G,199.90,68.00,3,Shopping Ibirapuera - SP,10
+VTX-CLC-002,Calça Cargo Render,calca,verde militar,GG,199.90,68.00,3,Shopping Ibirapuera - SP,3
+VTX-CLC-002,Calça Cargo Render,calca,verde militar,PP,199.90,68.00,3,Rua Oscar Freire - SP,3
+VTX-CLC-002,Calça Cargo Render,calca,verde militar,P,199.90,68.00,3,Rua Oscar Freire - SP,13
+VTX-CLC-002,Calça Cargo Render,calca,verde militar,M,199.90,68.00,3,Rua Oscar Freire - SP,15
+VTX-CLC-002,Calça Cargo Render,calca,verde militar,G,199.90,68.00,3,Rua Oscar Freire - SP,8
+VTX-CLC-002,Calça Cargo Render,calca,verde militar,GG,199.90,68.00,3,Rua Oscar Freire - SP,2
+VTX-CLC-002,Calça Cargo Render,calca,verde militar,PP,199.90,68.00,3,Shopping Center Norte - SP,3
+VTX-CLC-002,Calça Cargo Render,calca,verde militar,P,199.90,68.00,3,Shopping Center Norte - SP,12
+VTX-CLC-002,Calça Cargo Render,calca,verde militar,M,199.90,68.00,3,Shopping Center Norte - SP,14
+VTX-CLC-002,Calça Cargo Render,calca,verde militar,G,199.90,68.00,3,Shopping Center Norte - SP,7
+VTX-CLC-002,Calça Cargo Render,calca,verde militar,GG,199.90,68.00,3,Shopping Center Norte - SP,2
+VTX-CLC-002,Calça Cargo Render,calca,verde militar,PP,199.90,68.00,3,Shopping RioSul - RJ,3
+VTX-CLC-002,Calça Cargo Render,calca,verde militar,P,199.90,68.00,3,Shopping RioSul - RJ,12
+VTX-CLC-002,Calça Cargo Render,calca,verde militar,M,199.90,68.00,3,Shopping RioSul - RJ,14
+VTX-CLC-002,Calça Cargo Render,calca,verde militar,G,199.90,68.00,3,Shopping RioSul - RJ,7
+VTX-CLC-002,Calça Cargo Render,calca,verde militar,GG,199.90,68.00,3,Shopping RioSul - RJ,2
+VTX-CLC-002,Calça Cargo Render,calca,verde militar,PP,199.90,68.00,3,Barra Shopping - RJ,2
+VTX-CLC-002,Calça Cargo Render,calca,verde militar,P,199.90,68.00,3,Barra Shopping - RJ,11
+VTX-CLC-002,Calça Cargo Render,calca,verde militar,M,199.90,68.00,3,Barra Shopping - RJ,13
+VTX-CLC-002,Calça Cargo Render,calca,verde militar,G,199.90,68.00,3,Barra Shopping - RJ,7
+VTX-CLC-002,Calça Cargo Render,calca,verde militar,GG,199.90,68.00,3,Barra Shopping - RJ,2
+VTX-CLC-002,Calça Cargo Render,calca,verde militar,PP,199.90,68.00,3,Shopping Tijuca - RJ,2
+VTX-CLC-002,Calça Cargo Render,calca,verde militar,P,199.90,68.00,3,Shopping Tijuca - RJ,10
+VTX-CLC-002,Calça Cargo Render,calca,verde militar,M,199.90,68.00,3,Shopping Tijuca - RJ,12
+VTX-CLC-002,Calça Cargo Render,calca,verde militar,G,199.90,68.00,3,Shopping Tijuca - RJ,6
+VTX-CLC-002,Calça Cargo Render,calca,verde militar,GG,199.90,68.00,3,Shopping Tijuca - RJ,1
+VTX-CLC-002,Calça Cargo Render,calca,verde militar,PP,199.90,68.00,3,Pátio Batel - PR,2
+VTX-CLC-002,Calça Cargo Render,calca,verde militar,P,199.90,68.00,3,Pátio Batel - PR,9
+VTX-CLC-002,Calça Cargo Render,calca,verde militar,M,199.90,68.00,3,Pátio Batel - PR,11
+VTX-CLC-002,Calça Cargo Render,calca,verde militar,G,199.90,68.00,3,Pátio Batel - PR,6
+VTX-CLC-002,Calça Cargo Render,calca,verde militar,GG,199.90,68.00,3,Pátio Batel - PR,1
+VTX-CLC-002,Calça Cargo Render,calca,verde militar,PP,199.90,68.00,3,Shopping Iguatemi - SC,2
+VTX-CLC-002,Calça Cargo Render,calca,verde militar,P,199.90,68.00,3,Shopping Iguatemi - SC,8
+VTX-CLC-002,Calça Cargo Render,calca,verde militar,M,199.90,68.00,3,Shopping Iguatemi - SC,10
+VTX-CLC-002,Calça Cargo Render,calca,verde militar,G,199.90,68.00,3,Shopping Iguatemi - SC,5
+VTX-CLC-002,Calça Cargo Render,calca,verde militar,GG,199.90,68.00,3,Shopping Iguatemi - SC,1
+VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,PP,189.90,65.00,3,Av. Paulista - SP,4
+VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,P,189.90,65.00,3,Av. Paulista - SP,17
+VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,M,189.90,65.00,3,Av. Paulista - SP,20
+VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,G,189.90,65.00,3,Av. Paulista - SP,11
+VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,GG,189.90,65.00,3,Av. Paulista - SP,4
+VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,PP,189.90,65.00,3,Shopping Ibirapuera - SP,4
+VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,P,189.90,65.00,3,Shopping Ibirapuera - SP,15
+VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,M,189.90,65.00,3,Shopping Ibirapuera - SP,18
+VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,G,189.90,65.00,3,Shopping Ibirapuera - SP,10
+VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,GG,189.90,65.00,3,Shopping Ibirapuera - SP,3
+VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,PP,189.90,65.00,3,Shopping Eldorado - SP,3
+VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,P,189.90,65.00,3,Shopping Eldorado - SP,13
+VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,M,189.90,65.00,3,Shopping Eldorado - SP,15
+VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,G,189.90,65.00,3,Shopping Eldorado - SP,8
 VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,GG,189.90,65.00,3,Shopping Eldorado - SP,2
-VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,PP,189.90,65.00,3,BH Shopping - MG,3
-VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,P,189.90,65.00,3,BH Shopping - MG,6
-VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,M,189.90,65.00,3,BH Shopping - MG,9
-VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,G,189.90,65.00,3,BH Shopping - MG,4
-VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,GG,189.90,65.00,3,BH Shopping - MG,1
-VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,PP,209.90,72.00,2,Rua Oscar Freire - SP,4
-VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,P,209.90,72.00,2,Rua Oscar Freire - SP,8
-VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,M,209.90,72.00,2,Rua Oscar Freire - SP,12
-VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,G,209.90,72.00,2,Rua Oscar Freire - SP,6
+VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,PP,189.90,65.00,3,Jardins - SP,3
+VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,P,189.90,65.00,3,Jardins - SP,12
+VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,M,189.90,65.00,3,Jardins - SP,14
+VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,G,189.90,65.00,3,Jardins - SP,7
+VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,GG,189.90,65.00,3,Jardins - SP,2
+VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,PP,189.90,65.00,3,Shopping Morumbi - SP,3
+VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,P,189.90,65.00,3,Shopping Morumbi - SP,12
+VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,M,189.90,65.00,3,Shopping Morumbi - SP,14
+VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,G,189.90,65.00,3,Shopping Morumbi - SP,7
+VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,GG,189.90,65.00,3,Shopping Morumbi - SP,2
+VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,PP,189.90,65.00,3,Shopping RioSul - RJ,3
+VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,P,189.90,65.00,3,Shopping RioSul - RJ,11
+VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,M,189.90,65.00,3,Shopping RioSul - RJ,13
+VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,G,189.90,65.00,3,Shopping RioSul - RJ,7
+VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,GG,189.90,65.00,3,Shopping RioSul - RJ,2
+VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,PP,189.90,65.00,3,Village Mall - RJ,2
+VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,P,189.90,65.00,3,Village Mall - RJ,10
+VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,M,189.90,65.00,3,Village Mall - RJ,12
+VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,G,189.90,65.00,3,Village Mall - RJ,6
+VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,GG,189.90,65.00,3,Village Mall - RJ,1
+VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,PP,189.90,65.00,3,Shopping Curitiba - PR,2
+VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,P,189.90,65.00,3,Shopping Curitiba - PR,10
+VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,M,189.90,65.00,3,Shopping Curitiba - PR,12
+VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,G,189.90,65.00,3,Shopping Curitiba - PR,6
+VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,GG,189.90,65.00,3,Shopping Curitiba - PR,1
+VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,PP,189.90,65.00,3,Rua XV de Novembro - PR,2
+VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,P,189.90,65.00,3,Rua XV de Novembro - PR,9
+VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,M,189.90,65.00,3,Rua XV de Novembro - PR,11
+VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,G,189.90,65.00,3,Rua XV de Novembro - PR,5
+VTX-CLC-003,Calça Slim Sync,calca,cinza chumbo,GG,189.90,65.00,3,Rua XV de Novembro - PR,1
+VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,PP,209.90,72.00,2,Av. Paulista - SP,4
+VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,P,209.90,72.00,2,Av. Paulista - SP,16
+VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,M,209.90,72.00,2,Av. Paulista - SP,19
+VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,G,209.90,72.00,2,Av. Paulista - SP,10
+VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,GG,209.90,72.00,2,Av. Paulista - SP,4
+VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,PP,209.90,72.00,2,Shopping Ibirapuera - SP,3
+VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,P,209.90,72.00,2,Shopping Ibirapuera - SP,14
+VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,M,209.90,72.00,2,Shopping Ibirapuera - SP,17
+VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,G,209.90,72.00,2,Shopping Ibirapuera - SP,9
+VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,GG,209.90,72.00,2,Shopping Ibirapuera - SP,3
+VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,PP,209.90,72.00,2,Rua Oscar Freire - SP,3
+VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,P,209.90,72.00,2,Rua Oscar Freire - SP,12
+VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,M,209.90,72.00,2,Rua Oscar Freire - SP,15
+VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,G,209.90,72.00,2,Rua Oscar Freire - SP,8
 VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,GG,209.90,72.00,2,Rua Oscar Freire - SP,2
+VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,PP,209.90,72.00,2,Shopping Morumbi - SP,2
+VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,P,209.90,72.00,2,Shopping Morumbi - SP,11
+VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,M,209.90,72.00,2,Shopping Morumbi - SP,13
+VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,G,209.90,72.00,2,Shopping Morumbi - SP,7
+VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,GG,209.90,72.00,2,Shopping Morumbi - SP,2
+VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,PP,209.90,72.00,2,Shopping Anália Franco - SP,2
+VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,P,209.90,72.00,2,Shopping Anália Franco - SP,10
+VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,M,209.90,72.00,2,Shopping Anália Franco - SP,12
+VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,G,209.90,72.00,2,Shopping Anália Franco - SP,6
+VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,GG,209.90,72.00,2,Shopping Anália Franco - SP,1
 VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,PP,209.90,72.00,2,Barra Shopping - RJ,2
-VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,P,209.90,72.00,2,Barra Shopping - RJ,5
-VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,M,209.90,72.00,2,Barra Shopping - RJ,9
-VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,G,209.90,72.00,2,Barra Shopping - RJ,3
+VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,P,209.90,72.00,2,Barra Shopping - RJ,10
+VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,M,209.90,72.00,2,Barra Shopping - RJ,12
+VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,G,209.90,72.00,2,Barra Shopping - RJ,6
 VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,GG,209.90,72.00,2,Barra Shopping - RJ,1
-VTX-BON-001,Boné Snapback Node,bone,preto,U,79.90,28.00,8,Av. Paulista - SP,30
-VTX-BON-001,Boné Snapback Node,bone,preto,U,79.90,28.00,8,Shopping Ibirapuera - SP,22
-VTX-BON-001,Boné Snapback Node,bone,preto,U,79.90,28.00,8,Shopping Eldorado - SP,18
-VTX-BON-001,Boné Snapback Node,bone,preto,U,79.90,28.00,8,Rua Oscar Freire - SP,15
-VTX-BON-001,Boné Snapback Node,bone,preto,U,79.90,28.00,8,Shopping RioSul - RJ,20
-VTX-BON-001,Boné Snapback Node,bone,preto,U,79.90,28.00,8,Barra Shopping - RJ,14
+VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,PP,209.90,72.00,2,Shopping Tijuca - RJ,2
+VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,P,209.90,72.00,2,Shopping Tijuca - RJ,9
+VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,M,209.90,72.00,2,Shopping Tijuca - RJ,11
+VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,G,209.90,72.00,2,Shopping Tijuca - RJ,5
+VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,GG,209.90,72.00,2,Shopping Tijuca - RJ,1
+VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,PP,209.90,72.00,2,Shopping Curitiba - PR,2
+VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,P,209.90,72.00,2,Shopping Curitiba - PR,9
+VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,M,209.90,72.00,2,Shopping Curitiba - PR,11
+VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,G,209.90,72.00,2,Shopping Curitiba - PR,5
+VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,GG,209.90,72.00,2,Shopping Curitiba - PR,1
+VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,PP,209.90,72.00,2,Shopping Mueller - PR,1
+VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,P,209.90,72.00,2,Shopping Mueller - PR,8
+VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,M,209.90,72.00,2,Shopping Mueller - PR,10
+VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,G,209.90,72.00,2,Shopping Mueller - PR,4
+VTX-CLC-004,Calça Wide Lag Protocol,calca,bege,GG,209.90,72.00,2,Shopping Mueller - PR,1
+VTX-BON-001,Boné Snapback Node,bone,preto,U,79.90,28.00,8,Av. Paulista - SP,22
+VTX-BON-001,Boné Snapback Node,bone,preto,U,79.90,28.00,8,Shopping Ibirapuera - SP,19
+VTX-BON-001,Boné Snapback Node,bone,preto,U,79.90,28.00,8,Shopping Eldorado - SP,15
+VTX-BON-001,Boné Snapback Node,bone,preto,U,79.90,28.00,8,Rua Oscar Freire - SP,14
+VTX-BON-001,Boné Snapback Node,bone,preto,U,79.90,28.00,8,Shopping Morumbi - SP,13
+VTX-BON-001,Boné Snapback Node,bone,preto,U,79.90,28.00,8,Shopping Center Norte - SP,12
+VTX-BON-001,Boné Snapback Node,bone,preto,U,79.90,28.00,8,Jardins - SP,12
+VTX-BON-001,Boné Snapback Node,bone,preto,U,79.90,28.00,8,Shopping Anália Franco - SP,10
+VTX-BON-001,Boné Snapback Node,bone,preto,U,79.90,28.00,8,Shopping RioSul - RJ,14
+VTX-BON-001,Boné Snapback Node,bone,preto,U,79.90,28.00,8,Barra Shopping - RJ,12
+VTX-BON-001,Boné Snapback Node,bone,preto,U,79.90,28.00,8,Shopping Tijuca - RJ,9
+VTX-BON-001,Boné Snapback Node,bone,preto,U,79.90,28.00,8,Village Mall - RJ,11
 VTX-BON-001,Boné Snapback Node,bone,preto,U,79.90,28.00,8,Shopping Curitiba - PR,10
-VTX-BON-001,Boné Snapback Node,bone,preto,U,79.90,28.00,8,BH Shopping - MG,12
-VTX-BON-002,Boné Dad Hat Kernel,bone,bege,U,69.90,24.00,8,Av. Paulista - SP,25
+VTX-BON-001,Boné Snapback Node,bone,preto,U,79.90,28.00,8,Pátio Batel - PR,9
+VTX-BON-001,Boné Snapback Node,bone,preto,U,79.90,28.00,8,Shopping Iguatemi - SC,7
+VTX-BON-002,Boné Dad Hat Kernel,bone,bege,U,69.90,24.00,8,Av. Paulista - SP,20
 VTX-BON-002,Boné Dad Hat Kernel,bone,bege,U,69.90,24.00,8,Shopping Ibirapuera - SP,18
-VTX-BON-002,Boné Dad Hat Kernel,bone,bege,U,69.90,24.00,8,Shopping RioSul - RJ,15
-VTX-BON-002,Boné Dad Hat Kernel,bone,bege,U,69.90,24.00,8,Shopping Curitiba - PR,8
-VTX-BON-002,Boné Dad Hat Kernel,bone,bege,U,69.90,24.00,8,BH Shopping - MG,10
-VTX-BON-003,Boné Trucker Mesh,bone,preto e branco,U,74.90,26.00,6,Av. Paulista - SP,20
-VTX-BON-003,Boné Trucker Mesh,bone,preto e branco,U,74.90,26.00,6,Shopping Eldorado - SP,14
-VTX-BON-003,Boné Trucker Mesh,bone,preto e branco,U,74.90,26.00,6,Rua Oscar Freire - SP,11
+VTX-BON-002,Boné Dad Hat Kernel,bone,bege,U,69.90,24.00,8,Shopping Eldorado - SP,14
+VTX-BON-002,Boné Dad Hat Kernel,bone,bege,U,69.90,24.00,8,Rua Oscar Freire - SP,13
+VTX-BON-002,Boné Dad Hat Kernel,bone,bege,U,69.90,24.00,8,Shopping Center Norte - SP,11
+VTX-BON-002,Boné Dad Hat Kernel,bone,bege,U,69.90,24.00,8,Shopping Anália Franco - SP,9
+VTX-BON-002,Boné Dad Hat Kernel,bone,bege,U,69.90,24.00,8,Shopping RioSul - RJ,13
+VTX-BON-002,Boné Dad Hat Kernel,bone,bege,U,69.90,24.00,8,Barra Shopping - RJ,11
+VTX-BON-002,Boné Dad Hat Kernel,bone,bege,U,69.90,24.00,8,Shopping Tijuca - RJ,8
+VTX-BON-002,Boné Dad Hat Kernel,bone,bege,U,69.90,24.00,8,Shopping Curitiba - PR,9
+VTX-BON-002,Boné Dad Hat Kernel,bone,bege,U,69.90,24.00,8,Shopping Mueller - PR,7
+VTX-BON-002,Boné Dad Hat Kernel,bone,bege,U,69.90,24.00,8,Rua XV de Novembro - PR,6
+VTX-BON-002,Boné Dad Hat Kernel,bone,bege,U,69.90,24.00,8,Shopping Iguatemi - SC,6
+VTX-BON-002,Boné Dad Hat Kernel,bone,bege,U,69.90,24.00,8,Beiramar Shopping - SC,5
+VTX-BON-002,Boné Dad Hat Kernel,bone,bege,U,69.90,24.00,8,Shopping Itaguaçu - SC,5
+VTX-BON-002,Boné Dad Hat Kernel,bone,bege,U,69.90,24.00,8,Norte Shopping Floripa - SC,4
+VTX-BON-003,Boné Trucker Mesh,bone,preto e branco,U,74.90,26.00,6,Av. Paulista - SP,18
+VTX-BON-003,Boné Trucker Mesh,bone,preto e branco,U,74.90,26.00,6,Shopping Ibirapuera - SP,16
+VTX-BON-003,Boné Trucker Mesh,bone,preto e branco,U,74.90,26.00,6,Shopping Eldorado - SP,12
+VTX-BON-003,Boné Trucker Mesh,bone,preto e branco,U,74.90,26.00,6,Rua Oscar Freire - SP,12
+VTX-BON-003,Boné Trucker Mesh,bone,preto e branco,U,74.90,26.00,6,Shopping Morumbi - SP,10
+VTX-BON-003,Boné Trucker Mesh,bone,preto e branco,U,74.90,26.00,6,Jardins - SP,10
+VTX-BON-003,Boné Trucker Mesh,bone,preto e branco,U,74.90,26.00,6,Shopping Anália Franco - SP,8
+VTX-BON-003,Boné Trucker Mesh,bone,preto e branco,U,74.90,26.00,6,Shopping RioSul - RJ,11
 VTX-BON-003,Boné Trucker Mesh,bone,preto e branco,U,74.90,26.00,6,Barra Shopping - RJ,9
-VTX-BON-003,Boné Trucker Mesh,bone,preto e branco,U,74.90,26.00,6,BH Shopping - MG,7
-VTX-BON-004,Boné Five Panel Debug,bone,verde militar,U,84.90,30.00,5,Av. Paulista - SP,15
-VTX-BON-004,Boné Five Panel Debug,bone,verde militar,U,84.90,30.00,5,Shopping Ibirapuera - SP,10
-VTX-BON-004,Boné Five Panel Debug,bone,verde militar,U,84.90,30.00,5,Shopping RioSul - RJ,8
-VTX-BON-004,Boné Five Panel Debug,bone,verde militar,U,84.90,30.00,5,Shopping Curitiba - PR,5
-VTX-BON-004,Boné Five Panel Debug,bone,verde militar,U,84.90,30.00,5,BH Shopping - MG,6
+VTX-BON-003,Boné Trucker Mesh,bone,preto e branco,U,74.90,26.00,6,Village Mall - RJ,9
+VTX-BON-003,Boné Trucker Mesh,bone,preto e branco,U,74.90,26.00,6,Shopping Curitiba - PR,8
+VTX-BON-003,Boné Trucker Mesh,bone,preto e branco,U,74.90,26.00,6,Pátio Batel - PR,7
+VTX-BON-003,Boné Trucker Mesh,bone,preto e branco,U,74.90,26.00,6,Shopping Mueller - PR,5
+VTX-BON-003,Boné Trucker Mesh,bone,preto e branco,U,74.90,26.00,6,Beiramar Shopping - SC,5
+VTX-BON-003,Boné Trucker Mesh,bone,preto e branco,U,74.90,26.00,6,Norte Shopping Floripa - SC,4
+VTX-BON-004,Boné Five Panel Debug,bone,verde militar,U,84.90,30.00,5,Av. Paulista - SP,17
+VTX-BON-004,Boné Five Panel Debug,bone,verde militar,U,84.90,30.00,5,Shopping Ibirapuera - SP,15
+VTX-BON-004,Boné Five Panel Debug,bone,verde militar,U,84.90,30.00,5,Shopping Eldorado - SP,12
+VTX-BON-004,Boné Five Panel Debug,bone,verde militar,U,84.90,30.00,5,Shopping Center Norte - SP,10
+VTX-BON-004,Boné Five Panel Debug,bone,verde militar,U,84.90,30.00,5,Shopping Morumbi - SP,10
+VTX-BON-004,Boné Five Panel Debug,bone,verde militar,U,84.90,30.00,5,Shopping Anália Franco - SP,8
+VTX-BON-004,Boné Five Panel Debug,bone,verde militar,U,84.90,30.00,5,Shopping RioSul - RJ,10
+VTX-BON-004,Boné Five Panel Debug,bone,verde militar,U,84.90,30.00,5,Barra Shopping - RJ,8
+VTX-BON-004,Boné Five Panel Debug,bone,verde militar,U,84.90,30.00,5,Shopping Tijuca - RJ,6
+VTX-BON-004,Boné Five Panel Debug,bone,verde militar,U,84.90,30.00,5,Village Mall - RJ,7
+VTX-BON-004,Boné Five Panel Debug,bone,verde militar,U,84.90,30.00,5,Shopping Curitiba - PR,7
+VTX-BON-004,Boné Five Panel Debug,bone,verde militar,U,84.90,30.00,5,Pátio Batel - PR,6
+VTX-BON-004,Boné Five Panel Debug,bone,verde militar,U,84.90,30.00,5,Rua XV de Novembro - PR,5
+VTX-BON-004,Boné Five Panel Debug,bone,verde militar,U,84.90,30.00,5,Shopping Iguatemi - SC,4
+VTX-BON-004,Boné Five Panel Debug,bone,verde militar,U,84.90,30.00,5,Beiramar Shopping - SC,4
