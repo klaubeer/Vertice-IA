@@ -42,7 +42,7 @@
 
 ## Sobre o Projeto
 
-A **Vértice** é uma empresa fictícia de moda urbana com 8 lojas próprias, e-commerce e ~280 funcionários distribuídos em 3 plantas no Brasil.
+A **Vértice** é uma empresa fictícia de moda urbana com 20 lojas próprias, e-commerce e ~1000 funcionários distribuídos em 3 plantas no Brasil.
 
 Este projeto implementa um **sistema multi-agente de atendimento autônomo** que atende:
 
