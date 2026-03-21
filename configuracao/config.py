@@ -42,6 +42,12 @@ LANGFUSE_SECRET_KEY = os.getenv("LANGFUSE_SECRET_KEY", "")
 LANGFUSE_HOST = os.getenv("LANGFUSE_HOST", "https://cloud.langfuse.com")
 
 # ============================================
+# Sentinela AI (Avaliação e Observabilidade)
+# ============================================
+SENTINELA_URL = os.getenv("SENTINELA_URL", "http://localhost:8000")
+SENTINELA_API_KEY = os.getenv("SENTINELA_API_KEY", "sentinela-dev")
+
+# ============================================
 # Empresa fictícia
 # ============================================
 NOME_EMPRESA = "Vértice"

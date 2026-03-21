@@ -13,6 +13,7 @@ from rag.pipeline import obter_pipeline
 from guardrails.validador_resposta import validar_resposta
 from guardrails.filtro_pii import mascarar_pii
 from observabilidade.rastreador import obter_rastreador
+from observabilidade.sentinela import enviar_trace as sentinela_trace
 
 PROMPT_SISTEMA = """Você é o assistente de atendimento ao cliente da Vértice, uma marca brasileira de moda urbana.
 
@@ -123,6 +124,24 @@ class AgenteCliente:
                 texto_resposta += f"\n\n⚠️ {validacao['recomendacao']}"
 
             latencia_total = int((time.time() - inicio) * 1000)
+
+            # Envia trace ao Sentinela para avaliação automática (fire-and-forget)
+            sentinela_trace(
+                nome="agente-cliente",
+                input=mensagem,
+                output=texto_resposta,
+                contexto=resultado_rag.contexto,
+                modelo=MODELO_CLAUDE,
+                tokens_entrada=resposta_api.usage.input_tokens,
+                tokens_saida=resposta_api.usage.output_tokens,
+                latencia_ms=latencia_total,
+                metadata={
+                    "score_confianca_rag": resultado_rag.score_confianca,
+                    "confiavel": resultado_rag.confiavel,
+                    "chunks_recuperados": resultado_rag.total_chunks_recuperados,
+                    "chunks_reranqueados": resultado_rag.total_chunks_reranqueados,
+                },
+            )
 
             return {
                 "resposta": texto_resposta,
