@@ -87,6 +87,17 @@ PAGINAS = [
     "📊 Dashboard BI",
 ]
 
+
+@st.cache_resource(show_spinner="Carregando modelos de IA...")
+def _pre_carregar_pipeline():
+    """Carrega o pipeline RAG (embeddings + reranker) uma única vez por processo."""
+    from rag.pipeline import obter_pipeline
+    return obter_pipeline()
+
+
+# Pré-carrega na tela inicial para evitar espera ao entrar no Chat
+_pre_carregar_pipeline()
+
 # Garante que a sessão inicia na página Início
 if "pagina" not in st.session_state:
     st.session_state.pagina = "🏠 Início"
