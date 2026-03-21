@@ -14,8 +14,7 @@
    <img src="https://img.shields.io/badge/RAG-Hybrid_Retrieval-green" alt="RAG"/>
   <img src="https://img.shields.io/badge/frontend-Streamlit-red?logo=streamlit&logoColor=white" alt="Streamlit"/>
   <img src="https://img.shields.io/badge/observabilidade-LangFuse-orange" alt="LangFuse"/>
-  <img src="https://img.shields.io/badge/license-MIT-lightgrey" alt="License"/>
-</p>
+  </p>
 
 ---
 
