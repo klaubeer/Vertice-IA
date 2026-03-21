@@ -2,7 +2,7 @@
   <img src="docs/imagens/banner.png" alt="Vértice IA" width="800"/>
 </p>
 
-<h1 align="center">Vértice IA — Sistema Multi-Agente para Indústria Têxtil</h1>
+<h1 align="center">Vértice IA — Sistema Multi-Agente para Comércio/Indústria</h1>
 
 <p align="center">
   <strong>Atendimento autônomo inteligente com RAG avançado, orquestração multi-agente e observabilidade</strong>
