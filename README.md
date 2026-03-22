@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3.11+-blue?logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Claude_API-Anthropic-blueviolet?logo=anthropic&logoColor=white" alt="Claude API"/>
+  <img src="https://img.shields.io/badge/Claude_API-Anthropic-blueviolet?logo=anthropic&logoColor=white" alt="LLM"/>
    <img src="https://img.shields.io/badge/RAG-Hybrid_Retrieval-green" alt="RAG"/>
   <img src="https://img.shields.io/badge/frontend-Streamlit-red?logo=streamlit&logoColor=white" alt="Streamlit"/>
   <img src="https://img.shields.io/badge/observabilidade-LangFuse-orange" alt="LangFuse"/>
