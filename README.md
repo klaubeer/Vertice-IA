@@ -17,11 +17,11 @@
 ## Sumário
 
 - [Sobre o Projeto](#sobre-o-projeto)
+- [Demonstração](#demonstração)
 - [Arquitetura](#arquitetura)
 - [Agentes](#agentes)
 - [Pipeline RAG](#pipeline-rag)
 - [Funcionalidades](#funcionalidades)
-- [Demonstração](#demonstração)
 - [Stack Tecnológica](#stack-tecnológica)
 - [Estrutura do Projeto](#estrutura-do-projeto)
 - [Como Executar](#como-executar)
@@ -53,6 +53,12 @@ O sistema utiliza **RAG avançado** (Hybrid Retrieval + Semantic Reranking) para
 ### Por que este projeto existe?
 
 No e-commerce, equipes de atendimento lidam com alto volume de perguntas repetitivas — sobre políticas, estoque e processos internos. Este sistema demonstra como agentes de IA especializados podem absorver essa demanda, liberando pessoas para tarefas de maior valor.
+
+---
+
+## Demonstração
+
+![Demonstração do Vértice IA](./vertice.gif)
 
 ---
 
@@ -234,8 +240,6 @@ Essa calibração foi derivada observando o comportamento real do modelo com con
 ---
 
 ## Demonstração
-
-> **GIFs e screenshots serão adicionados após a implementação.**
 
 ```
 # Exemplo de interação — Cliente
