@@ -7,6 +7,11 @@ venv/
 
 # Ambiente
 .env
+.env.prod
+
+# Certificados SSL (gerados na VPS)
+nginx/certbot/conf/
+nginx/certbot/www/
 
 # Banco de dados
 banco/vertice.db

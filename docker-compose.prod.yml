@@ -1,0 +1,86 @@
+version: "3.8"
+
+services:
+  vertice-ia:
+    build: .
+    container_name: vertice-ia
+    # Porta não exposta externamente — tráfego só via Nginx
+    expose:
+      - "8501"
+    env_file:
+      - .env.prod
+    volumes:
+      - ./banco:/app/banco
+      - ./dados:/app/dados
+    restart: unless-stopped
+    networks:
+      - vertice-net
+
+  nginx:
+    image: nginx:alpine
+    container_name: vertice-nginx
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./nginx/conf.d:/etc/nginx/conf.d:ro
+      - ./nginx/certbot/conf:/etc/letsencrypt:ro
+      - ./nginx/certbot/www:/var/www/certbot:ro
+    depends_on:
+      - vertice-ia
+    restart: unless-stopped
+    networks:
+      - vertice-net
+
+  certbot:
+    image: certbot/certbot
+    container_name: vertice-certbot
+    volumes:
+      - ./nginx/certbot/conf:/etc/letsencrypt
+      - ./nginx/certbot/www:/var/www/certbot
+    # Roda manualmente para obter/renovar certificado
+    entrypoint: >
+      certbot certonly
+        --webroot
+        --webroot-path=/var/www/certbot
+        --email klaubeer@gmail.com
+        --agree-tos
+        --no-eff-email
+        -d vertice.klauberfischer.online
+
+  langfuse:
+    image: langfuse/langfuse:2
+    container_name: vertice-langfuse
+    # Exposto apenas localmente — acesse via SSH tunnel: ssh -L 3000:localhost:3000 user@vps
+    ports:
+      - "127.0.0.1:3000:3000"
+    environment:
+      - DATABASE_URL=postgresql://langfuse:langfuse@langfuse-db:5432/langfuse
+      - NEXTAUTH_SECRET=${LANGFUSE_SECRET}
+      - NEXTAUTH_URL=http://localhost:3000
+      - SALT=${LANGFUSE_SALT}
+    depends_on:
+      - langfuse-db
+    restart: unless-stopped
+    networks:
+      - vertice-net
+
+  langfuse-db:
+    image: postgres:15-alpine
+    container_name: vertice-langfuse-db
+    environment:
+      - POSTGRES_USER=langfuse
+      - POSTGRES_PASSWORD=${LANGFUSE_DB_PASSWORD}
+      - POSTGRES_DB=langfuse
+    volumes:
+      - langfuse_data:/var/lib/postgresql/data
+    restart: unless-stopped
+    networks:
+      - vertice-net
+
+volumes:
+  langfuse_data:
+
+networks:
+  vertice-net:
+    driver: bridge
